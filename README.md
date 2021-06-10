@@ -6,9 +6,9 @@ So, you've been playing on 1.8 for the past 5 years and are ready to see what 1.
 
 ## Installing Fabric
 
-step 1: download installer from https://fabricmc.net/use
-step 2: run installer
-step 3: hit install
+- step 1: download installer from https://fabricmc.net/use
+- step 2: run installer
+- step 3: hit install
 
 ## Mods (this isnt how it will look, will add cool markdown boxes and shit)
 
@@ -55,6 +55,10 @@ other
 - controlling (no 1.17 yet)
 - no view bobbing screen (no 1.17 yet)
 
-## Note
+# Note
 
 If you would like to help contribute, please make a PR. If you would like push access, please ask, and if I deem you trustworthy enough, I will give it to you.
+
+## Credits
+
+- [Zordlan](https://github.com/Zordlan)
