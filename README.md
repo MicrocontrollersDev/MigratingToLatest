@@ -8,7 +8,7 @@ So, you've been playing on 1.8 for the past 5 years and are ready to see what 1.
 
 I cba rn
 
-## Mods
+## Mods (this isnt how it will look, will add cool markdown boxes and shit)
 
 essential
 - fabric api
