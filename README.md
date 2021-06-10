@@ -31,12 +31,16 @@ TODO: Add instructions for MultiMC, also maybe add images because images are pog
 2. In your Minecraft folder, open the folder called `mods`.
 3. Place all of the mods you want to use into this folder. (Note that all mods you install must be for Fabric 1.17 or they will not work.)
 
-## Mods (this isnt how it will look, will add cool markdown boxes and shit)
+## Mods (waiting on many mods to update, no links yet)
 
-essential
-- fabric api
-- mod menu
-- fabric language kotlin?
+_Essential_
+
+These are essential mods that are pretty much required for every Fabric installation.
+
+| Mod | Description | Dependencies | Author |
+| --- | --- | ---| ---|
+| Fabric API | Required for most Fabric mods | N/A | Fabric Team |
+| Mod Menu | Allows the user to see all installed mods, as well as access the config for most | N/A | ProspectorDev |
 
 performance
 - sodium
