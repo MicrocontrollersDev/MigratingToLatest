@@ -28,16 +28,17 @@ performance
 - dynamicfps (has 21w18a but no 1.17 specific yet)
 
 optifine features
-- ok zoomer
+- ok zoomer (no 1.17 yet)
 - lambdynlights
 - lambdbettergrass (has better snow too)
+- iris
+- fabricskyboxes
+(not sure if any of these remaining have 1.17 yet)
 - fabric ctm
 - chime (cit)
-- iris
 - cull leaves
 - colormatic
 - transparent
-- fabricskyboxes
 - soaring clouds
 - splash
 - fabrishot
@@ -45,12 +46,12 @@ optifine features
 other
 - item model fix
 - borderless mining
-- not enough crashes
-- cleanview
-- smooth scrolling everywhere
-- no potiono ffset
-- controlling
-- no view bobbing screen
+- not enough crashes (no 1.17 yet)
+- cleanview (no 1.17 yet)
+- smooth scrolling everywhere (no 1.17 yet)
+- no potion offset (no 1.17 yet)
+- controlling (no 1.17 yet)
+- no view bobbing screen (no 1.17 yet)
 
 ## Note
 
