@@ -57,7 +57,7 @@ other
 
 # Note
 
-If you would like to help contribute, please make a PR. If you would like push access, please ask, and if I deem you trustworthy enough, I will give it to you.
+If you would like to contribute, please make a PR (and please add your name to credits, even if you didn't do much). If you would like push access, please ask, and if I deem you trustworthy enough, I will give it to you.
 
 ## Credits
 
