@@ -39,22 +39,23 @@ These are essential mods that are pretty much required for every Fabric installa
 
 | Mod | Description | Dependencies | Author |
 | --- | --- | ---| ---|
-| Fabric API | Required for most Fabric mods | N/A | Fabric Team |
-| Mod Menu | Allows the user to see all installed mods, as well as access the config for most | N/A | ProspectorDev |
+| [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods | N/A | [Fabric Team](https://fabricmc.net/) |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods, as well as access the config for most | N/A | [Prospector](https://modrinth.com/user/Dc7EYhxG) |
 
-performance
-- sodium
-  - indium
-- lithium
-- starlight
-- lazydfu
-- ebe (no 1.17 yet)
-- ferritecore (no 1.17 yet)
-- entity culling
-- hydrogen (no 1.17 yet)
-- dynamicfps (has 21w18a but no 1.17 specific yet)
+_Performance_
+| Mod | Description | Dependencies | Author |
+| --- | --- | ---| ---|
+| [Sodium](https://modrinth.com/mod/sodium) | no 1.17 yet | N/A | [Caffeine](https://github.com/CaffeineMC/) |
+| [Hydrogen](https://modrinth.com/mod/hydrogen) | no 1.17 yet | N/A | [Caffeine](https://github.com/CaffeineMC/) |
+| [Lithium](https://modrinth.com/mod/lithium) | desc | N/A | [Caffeine](https://github.com/CaffeineMC/) |
+| [Starlight](https://github.com/Spottedleaf/Starlight) | desc | N/A | [SpottedLeaf](https://github.com/Spottedleaf) |
+| [LazyDFU](https://modrinth.com/mod/lazydfu) | desc | dont think so | [astei](https://modrinth.com/user/y0WF9UR5) |
+| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | no 1.17 yet, not gonna add betterbeds since ebe should replace that soon | [Indium](https://github.com/comp500/Indium) | [FoundationGames](https://modrinth.com/user/WH9NfS5R) |
+| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | no 1.17 yet | N/A | [malte0811](https://github.com/malte0811) |
+| [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | desc | N/A | [tr9zw](https://github.com/tr7zw)
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | desc | N/A | [juliand665](https://modrinth.com/user/HLI9Dbyv) |
 
-optifine features
+_OptiFine Replacements_
 - ok zoomer (no 1.17 yet)
 - lambdynlights
 - lambdbettergrass (has better snow too)
@@ -80,6 +81,7 @@ other
 - no potion offset (no 1.17 yet)
 - controlling (no 1.17 yet)
 - no view bobbing screen (no 1.17 yet)
+- kronhud (probably not gonna get a 1.17 but lets see)
 
 # Note
 
