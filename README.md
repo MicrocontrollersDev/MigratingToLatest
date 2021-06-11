@@ -1,5 +1,9 @@
 # Switching to 1.17
 
+# Note
+
+If you would like to contribute, please make a PR (and please add your name to credits, even if you didn't do much). You can also make an issue listing any mods you would like to add to the list or any you think should be replaced with a better alternative.
+
 ## Introduction
 
 So, you've been playing on 1.8 for the past 5 years and are ready to see what 1.17 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang have been been rolling out releases, they've also been rolling out slower performance (bad sentence, needs fixing, i cba rn), and neither Forge nor OptiFine are really able to bring back even a speck of that performance that we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
@@ -82,10 +86,6 @@ other
 - controlling (no 1.17 yet)
 - no view bobbing screen (no 1.17 yet)
 - kronhud (probably not gonna get a 1.17 but lets see)
-
-# Note
-
-If you would like to contribute, please make a PR (and please add your name to credits, even if you didn't do much).
 
 ## Credits
 
