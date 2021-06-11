@@ -53,7 +53,7 @@ _Performance_
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | no 1.17 yet, not gonna add betterbeds since ebe should replace that soon | [Indium](https://github.com/comp500/Indium) | [FoundationGames](https://modrinth.com/user/WH9NfS5R) |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | no 1.17 yet | N/A | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | desc | N/A | [tr9zw](https://github.com/tr7zw)
-| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | desc | N/A | [juliand665](https://modrinth.com/user/HLI9Dbyv) |
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | no 1.17 yet | N/A | [juliand665](https://modrinth.com/user/HLI9Dbyv) |
 
 _OptiFine Replacements_
 - ok zoomer (no 1.17 yet)
