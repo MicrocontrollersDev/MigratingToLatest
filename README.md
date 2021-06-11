@@ -46,7 +46,7 @@ performance
 - sodium
   - indium
 - lithium
-- starlight (has 1.17) / phosphor (no 1.17 yet)
+- starlight
 - lazydfu
 - ebe (no 1.17 yet)
 - ferritecore (no 1.17 yet)
