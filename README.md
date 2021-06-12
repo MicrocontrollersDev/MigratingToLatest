@@ -37,7 +37,7 @@ TODO: Add instructions for MultiMC, also maybe add images because images are pog
 2. In your Minecraft folder, open the folder called `mods`.
 3. Place all of the mods you want to use into this folder. (Note that all mods you install must be for Fabric 1.17 or they will not work.)
 
-## Mods (waiting on many mods to update, no links yet)
+## Mods (need a better way to sort these. maybe do that fancy clicky dropdown things)
 
 _Dependencies_
 
