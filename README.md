@@ -61,23 +61,21 @@ _Performance_
 
 _OptiFine Replacements_
 - ok zoomer (no 1.17 yet)
-- lambdynlights
-- lambdbettergrass (has better snow too)
-- iris
-- fabricskyboxes
-
-(not sure if any of these remaining have 1.17 yet)
+- lambdynlights https://modrinth.com/mod/lambdynamiclights
+- lambdbettergrass (has better snow too) https://modrinth.com/mod/lambdabettergrass
+- iris https://irisshaders.github.io/
+- fabricskyboxes https://modrinth.com/mod/fabricskyboxes/
+- fabrishot https://modrinth.com/mod/fabrishot
 - fabric ctm
 - chime (cit)
-- cull leaves
+- cull leaves https://modrinth.com/mod/cull-leaves
 - colormatic
 - transparent
 - soaring clouds
 - splash
-- fabrishot
 
 other
-- item model fix
+- item model fix https://github.com/PepperCode1/Item-Model-Fix/releases/tag/v1.0.2+1.17
 - borderless mining
 - not enough crashes (no 1.17 yet)
 - cleanview (no 1.17 yet)
