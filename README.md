@@ -47,7 +47,7 @@ These are essential mods that are pretty much required for most fabric mods as d
 | --- | --- | --- |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods. | [Fabric Team](https://fabricmc.net) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods, as well as access the config for most. | [Prospector](https://modrinth.com/user/Dc7EYhxG) |
-| [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | Required for mods that run on Kotlin | [Fabric Team](https://fabricmc.net) |
+| [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | Required for mods that run on Kotlin. | [Fabric Team](https://fabricmc.net) |
 
 _Performance_
 
