@@ -71,7 +71,7 @@ _OptiFine Replacements_
 As OptiFine is no longer recommended, here are some replacements for many of it's features.
 
 | Mod | Description | Author |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | [Sodium](https://modrinth.com/mod/sodium) | **No 1.17 Yet.** Performance boost. | [Caffeine](https://github.com/CaffeineMC) |
 | [Iris](https://irisshaders.github.io) | Shaders and performance boost. Uses OptiFine format. | [coderbot](https://modrinth.com/user/v7k4QluE) |
 | [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | **No 1.17 Yet.** Zoom. More customizable than OptiFine's. | [boredomh1](https://modrinth.com/user/277qw1N1) |
