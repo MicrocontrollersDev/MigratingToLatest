@@ -71,37 +71,42 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw)
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | **No 1.17 Yet.** Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://modrinth.com/user/HLI9Dbyv) |
 
-_OptiFine Replacements_
+_Recommended_
 
-As OptiFine is no longer recommended, here are some replacements for many of it's features.
+These are mods that I recommend you to use at all times. While they may not boost performance, they are mostly quality of life mods meant to better your experience.
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [Sodium](https://modrinth.com/mod/sodium) | **No 1.17 Yet.** Performance boost. | [Caffeine](https://github.com/CaffeineMC) |
-| [Iris](https://irisshaders.github.io) | Shaders and performance boost. Uses OptiFine format. | [coderbot](https://modrinth.com/user/v7k4QluE) |
+| [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1)|
+| [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | Borderless Fullscreen for Minecraft. | [comp500](https://github.com/comp500) |
+| [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | Not Enough Crashes takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
+| [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
+| [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
+| [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/) | No Potion Offset prevents your inventory from getting shifted over when you have an active potion effect. | [Shedaniel](https://github.com/shedaniel) |
+| [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
+| [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://modrinth.com/user/gykYW6ML) |
+
+_OptiFine Replacements_
+
+As OptiFine is no longer recommended, here are some replacements for many of it's features that have not already been listed above.
+
+| Mod | Description | Author |
+| --- | --- | --- |
 | [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | **No 1.17 Yet.** Zoom. More customizable than OptiFine's. | [boredomh1](https://modrinth.com/user/277qw1N1) |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic Lights. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and Better snow. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
-| [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
-| [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Smart leaves. | [Motschen](https://modrinth.com/user/6YsSV9eP) |
-
-- fabric ctm no 1.17 https://github.com/PepperCode1/ConnectedTexturesMod-Fabric/releases
-- chime (cit) no 1.17 https://modrinth.com/mod/chime
-- colormatic no 1.17 https://www.curseforge.com/minecraft/mc-mods/colormatic
-- transparent no 1.17 https://www.curseforge.com/minecraft/mc-mods/transparent-fabric
-- soaring clouds no 1.17 https://www.curseforge.com/minecraft/mc-mods/soaring-clouds
-- splash no 1.17 https://www.curseforge.com/minecraft/mc-mods/splash
+| [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
+| [Soaring Clouds](https://www.curseforge.com/minecraft/mc-mods/soaring-clouds) | Custom cloud height. | [Draylar](https://github.com/Draylar)
+| [Splash](https://www.curseforge.com/minecraft/mc-mods/splash) | Custom loading screen colors. Does not support OptiFine texturepacks, but has it's own GUI to edit colors. | [LoganDark](https://github.com/LoganDark) |
+| [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
+| [Connected Textures](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric/releases) | CTM. Does not support OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
+| [Chime](https://modrinth.com/mod/chime) | CIT. Does not support OptiFine format. | [Emi](https://modrinth.com/user/R6WsWKy9) |
+| [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
+| [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric). Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
 
 other
-- item model fix https://github.com/PepperCode1/Item-Model-Fix/releases/tag/v1.0.2+1.17
-- borderless mining (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/borderless-mining
-- not enough crashes (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
-- cleanview (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric
-- smooth scrolling everywhere (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric
-- no potion offset (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/
-- controlling (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric
-- no view bobbing screen (no 1.17 yet) https://modrinth.com/mod/viewbobbingmod
+
 - kronhud (probably not gonna get a 1.17 but lets see) https://www.curseforge.com/minecraft/mc-mods/kronhud
 
 ## Credits
