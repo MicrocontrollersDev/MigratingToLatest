@@ -8,7 +8,9 @@ If you would like to contribute, please make a PR (and please add your name to c
 
 ## Introduction
 
-So, you've been playing on 1.8 for the past 5 years and are ready to see what 1.17 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang have been been rolling out releases, they've also been rolling out slower performance (bad sentence, needs fixing, i cba rn), and neither Forge nor OptiFine are really able to bring back even a speck of that performance that we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
+So, you've been playing on 1.8 for the past 5.5 years and are ready to see what 1.17 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang have been been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance that we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
+
+While you can load OptiFine on Fabric, OptiFine is closed source and messes with the game in many ways, causing many non-vanilla mechanics. As Mojang has been making large refactors to their code base, OptiFine has been struggling to keep up and has seen a great decrease in quality. What once was an essential aspect to the game now is no longer as useful. Luckily, due to the invention of performance enhancing mods that outperform OptiFine, many members of the community have taken it upon themselves to create alternatives to many of the non performance enhancing features.
 
 ## Installing Fabric
 
@@ -35,9 +37,11 @@ TODO: Add instructions for MultiMC, also maybe add images because images are pog
     - Mac: On the bar at the top of your screen in Finder, click `Go`, then click `Go to Folder` and type `~/Library/Application Support/Minecraft`, then hit enter.
     - Linux: Open `~/.minecraft`.
 2. In your Minecraft folder, open the folder called `mods`.
+    - If this folder does not exist, create it.
 3. Place all of the mods you want to use into this folder. (Note that all mods you install must be for Fabric 1.17 or they will not work.)
 
-## Mods (need a better way to sort these. maybe do that fancy clicky dropdown things)
+## Mods
+TODO: a better way to sort these. maybe do that fancy clicky dropdown things
 
 _Dependencies_
 
