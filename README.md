@@ -40,7 +40,7 @@ TODO: Add instructions for MultiMC, also maybe add images because images are pog
     - If this folder does not exist, create it.
 3. Place all of the mods you want to use into this folder. (Note that all mods you install must be for Fabric 1.17 or they will not work.)
 
-## Mods
+## Mods (NOTE: If on Sodium 0.2, you will need to use [Indium](https://github.com/comp500/Indium) as well. If you would like to use Iris as well, you will need to use Iris' custom Sodium which should be built into Iris as one of the options in the Iris installer.)
 
 TODO: a better way to sort these. maybe do that fancy clicky dropdown things
 
