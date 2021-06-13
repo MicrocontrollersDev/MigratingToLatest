@@ -103,7 +103,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Connected Textures](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric/releases) | CTM. Does not support OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Chime](https://modrinth.com/mod/chime) | CIT. Does not support OptiFine format. | [Emi](https://modrinth.com/user/R6WsWKy9) |
 | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
-| [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric). Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
+| [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
 
 other
 
