@@ -41,6 +41,7 @@ TODO: Add instructions for MultiMC, also maybe add images because images are pog
 3. Place all of the mods you want to use into this folder. (Note that all mods you install must be for Fabric 1.17 or they will not work.)
 
 ## Mods
+
 TODO: a better way to sort these. maybe do that fancy clicky dropdown things
 
 _Dependencies_
@@ -55,7 +56,7 @@ These are essential mods that are pretty much required for most fabric mods as d
 
 _Performance_
 
-These are mods that are essential when playing 1.17 to offer the best experience you can have.
+These are mods that are needed for playing the latest versions of Minecraft at a reasonable FPS. These will also help decrease frame times, hopefully eliminating spikes or stuttering.
 
 | Mod | Description | Author |
 | --- | --- | --- |
@@ -94,14 +95,14 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 
 other
 - item model fix https://github.com/PepperCode1/Item-Model-Fix/releases/tag/v1.0.2+1.17
-- borderless mining
-- not enough crashes (no 1.17 yet)
-- cleanview (no 1.17 yet)
-- smooth scrolling everywhere (no 1.17 yet)
-- no potion offset (no 1.17 yet)
-- controlling (no 1.17 yet)
-- no view bobbing screen (no 1.17 yet)
-- kronhud (probably not gonna get a 1.17 but lets see)
+- borderless mining (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/borderless-mining
+- not enough crashes (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes
+- cleanview (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric
+- smooth scrolling everywhere (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric
+- no potion offset (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/
+- controlling (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric
+- no view bobbing screen (no 1.17 yet) https://modrinth.com/mod/viewbobbingmod
+- kronhud (probably not gonna get a 1.17 but lets see) https://www.curseforge.com/minecraft/mc-mods/kronhud
 
 ## Credits
 
