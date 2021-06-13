@@ -2,7 +2,7 @@
 
 # Note
 
-This list is not meant to be used yet. This is currently pretty much under the assumption that all mods have been updated to 1.17 (only stating otherwise for my own personal reminder) and that Sodium is on version 0.3 (it is currently at its 0.2 release candidate phase).
+This list is not meant to be used yet. This is currently pretty much under the assumption that all mods have been updated to 1.17 (only stating otherwise for my own personal reminder) and that Sodium is on version 0.3 (it is currently at its 0.2 release candidate phase). My guess is this repo will not be ready for use until 1.18.
 
 If you would like to contribute, please make a PR (and please add your name to credits, even if you didn't do much). You can also make an issue listing any mods you would like to add to the list or any you think should be replaced with a better alternative.
 
