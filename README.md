@@ -107,7 +107,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 
 other
 
-- kronhud (probably not gonna get a 1.17 but lets see) https://www.curseforge.com/minecraft/mc-mods/kronhud
+- kronhud (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/kronhud
 
 ## Credits
 
