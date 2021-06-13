@@ -1,4 +1,4 @@
-# Switching to 1.17
+# Migrating to 1.17
 
 # Note
 
