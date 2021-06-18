@@ -87,6 +87,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/) | **No 1.17 Yet.** No Potion Offset prevents your inventory from getting shifted over when you have an active potion effect. | [Shedaniel](https://github.com/shedaniel) |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | **No 1.17 Yet.** Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
 | [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | **No 1.17 Yet.** No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://modrinth.com/user/gykYW6ML) |
+| [Slight GUI Modifications](https://github.com/MicrocontrollersDev/MigratingToLatest#mods) | Slight GUI Modifications Adds animations to many GUI elements | [Shedaniel](https://github.com/shedaniel) |
 
 _OptiFine Replacements_
 
