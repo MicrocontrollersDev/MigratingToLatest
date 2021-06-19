@@ -34,6 +34,7 @@ Forge has always been less than ideal for performance, because while trying to f
 
 TODO: MultiMC support + maybe images
 
+0. Make sure you close Minecraft and the Minecraft launcher before installing Fabric, otherwise unexpected things can happen.
 1. Download the [Fabric installer](https://fabricmc.net/use).
     - If you are on Windows, use the `.EXE` version of the installer on the right.
     - If you are on any other operating system or the `.EXE` version is not working for you, then use the `.JAR` version on the left.
@@ -49,6 +50,8 @@ TODO: MultiMC support + maybe images
     - If you do not see the profile, try exiting and reopening the Minecraft launcher. If this also does not work, go to the `Installations` tab in the Minecraft launcher and make sure the `Modded` option is ticked on the rop right corner. If it still does not show up, create your own installation by clicking the `New installation` button, and selecting your desired fabric version in the `Version` dropdown. Then press `Create` and launch this installation.
 
 ## Installing Mods on Fabric
+
+TODO: note about custom directories
 
 0. Make sure you close Minecraft before installing mods, otherwise unexpected things can happen.
 1. Open your Minecraft folder:
