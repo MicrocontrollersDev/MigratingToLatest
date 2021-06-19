@@ -24,7 +24,7 @@ So, you've been playing on 1.8 for the past [5.5 years](https://howoldisminecraf
 
 ### Why no longer OptiFine?
 
-While you can load OptiFine on Fabric, OptiFine is closed source and messes with the game in many ways, causing many non-vanilla mechanics. As Mojang has been making large refactors to their code base, OptiFine has been struggling to keep up and has seen a great decrease in quality. What once was an essential aspect to the game now is no longer as useful. Luckily, due to the invention of performance enhancing mods that outperform OptiFine, many members of the community have taken it upon themselves to create alternatives to many of the non performance enhancing features.
+While you can load OptiFine on Fabric, OptiFine is closed source and messes with the game in many ways, causing many non-vanilla mechanics. As Mojang has been making large refactors to their code base, OptiFine has been struggling to keep up and has seen a great decrease in quality. MCPatcher has also not seen a format change in a long time, using old and outdated formats. What once was an essential aspect to the game now is no longer as useful. Luckily, due to the invention of performance enhancing mods that outperform OptiFine, many members of the community have taken it upon themselves to create alternatives to many of the non performance enhancing features.
 
 ### Why no longer Forge?
 
