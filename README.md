@@ -32,7 +32,7 @@ Forge has always been less than ideal for performance, because while trying to f
 
 ## Installing Fabric
 
-TODO: Images + MultiMC support
+TODO: MultiMC support + maybe images
 
 1. Download the [Fabric installer](https://fabricmc.net/use).
     - If you are on Windows, use the `.EXE` version of the installer on the right.
