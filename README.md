@@ -41,7 +41,7 @@ TODO: MultiMC support + maybe images
 2. Run the installer.
     - If you are using the `.EXE` version of the installer, simply double click the file. You may get a popup blocking you from running the installer and saying that "Windows protected your PC"; if so, then click on `More info` and then `Run anyway`.
     - If you are using the `.JAR` version, you will need to have Java installed on your device. If you have Java installed, then double click the downloaded file to run the installer. If you don't, then follow these steps:
-        1. Go to the [Java downloads page](https://java.com/en/download/manual.jsp) and download the version of Java corresponding to your device.
+        1. Go to the [Java downloads page](https://adoptopenjdk.net/?variant=openjdk8&jvmVariant=hotspot) and download the version of Java corresponding to your device.
         2. Run the Java installer by double clicking it.
         3. Do whatever the installer tells you to do.
         4. After installing Java, you should be able to run the Fabric installer by double clicking it. If you still can't for some reason, try running the program [Jarfix](https://johann.loefflmann.net/downloads/jarfix.exe).
