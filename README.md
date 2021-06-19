@@ -142,5 +142,6 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 
 ## Credits
 
-- [Zordlan](https://github.com/Zordlan)
 - [NoPro2024](https://github.com/NoPro2024)
+- [nacrt](https://github.com/nacrt)
+- [Zordlan](https://github.com/Zordlan)
