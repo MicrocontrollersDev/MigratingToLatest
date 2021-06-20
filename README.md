@@ -60,7 +60,7 @@ TODO: note about custom directories
     - Linux: Open `~/.minecraft`.
 2. In your Minecraft folder, open the folder called `mods`.
     - If this folder does not exist, create it.
-3. Place all of the mods you want to use into this folder. (Note that all mods you install must be for Fabric 1.17 or they will not work.)
+3. Place all of the mods you want to use into this folder (note that all mods you install must be for Fabric 1.17 or they will not work).
 
 ## Mods 
 
@@ -114,7 +114,7 @@ These are mods that are more dependant on personal preferance than importance.
 | Mod | Description | Author |
 | --- | --- | --- |
 | [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | **No 1.17 Yet.** No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://modrinth.com/user/gykYW6ML) |
-| [Slight GUI Modifications](https://github.com/MicrocontrollersDev/MigratingToLatest#mods) | Slight GUI Modifications Adds animations to many GUI elements | [Shedaniel](https://github.com/shedaniel) |
+| [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Slight GUI Modifications adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://modrinth.com/user/BZ4AZma7) |
 
 ### OptiFine Replacements
