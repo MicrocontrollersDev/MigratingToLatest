@@ -123,7 +123,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | **No 1.17 Yet.** Zoom. More customizable than OptiFine's. | [boredomh1](https://modrinth.com/user/277qw1N1) |
+| [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Zoom. More customizable than OptiFine's. | [boredomh1](https://modrinth.com/user/277qw1N1) |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic Lights. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and Better snow. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Smart leaves. | [Motschen](https://modrinth.com/user/6YsSV9eP) |
