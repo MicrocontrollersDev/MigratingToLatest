@@ -7,13 +7,13 @@ Current issues include:
 - Many mods not updated to 1.17 yet
 - Sodium does not support FRAPI
 - Sodium does not support Iris, Iris comes bundled with its own version of Sodium
-- Current OptiFine alternatives are not set in stone
+- Current OptiFine alternatives are final
 
 If you would like to contribute, please make a PR.  
 Some notes:
 - Leave your name and GitHub link in the credits section, even for a tiny change
 - Please try to use Modrinth/GitHub over Curseforge when applicable
-- Please use a GitHub link instead of a Curseforge link for Author credit when Modrinth isn't available if possible
+- Please use a GitHub link instead of a Modrinth link for Author credit and avoid using Curseforge as best you can
 - Make sure that the option to allow me to make changes to your PR is enabled
 
 ## Introduction
@@ -64,7 +64,7 @@ TODO: note about custom directories
 
 ## Mods 
 
-#### NOTE: If on Sodium 0.2, you will need to use [Indium](https://github.com/comp500/Indium) as well. Also, since Iris currently comes bundled with its own version of Sodium, it is not required to download Sodium standalone.
+#### NOTE: If on Sodium 0.3, you will need to use [Indium](https://github.com/comp500/Indium) as well. Also, since Iris currently comes bundled with its own version of Sodium, it is not required to download Sodium standalone.
 
 ### Dependencies
 
@@ -72,9 +72,9 @@ These are essential mods that are pretty much required for most fabric mods as d
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods. | [Fabric Team](https://fabricmc.net) |
-| [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods, as well as access the config for most. | [Prospector](https://modrinth.com/user/Dc7EYhxG) |
-| [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | Required for mods that run on Kotlin. | [Fabric Team](https://fabricmc.net) |
+| [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods. | [Fabric Team](https://github.com/FabricMC) |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
+| [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | Required for mods that run on Kotlin. | [Fabric Team](https://github.com/FabricMC) |
 
 ### Performance
 
@@ -83,15 +83,15 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | Mod | Description | Author |
 | --- | --- | --- |
 | [Sodium](https://modrinth.com/mod/sodium) | **No 1.17 Yet.** An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [Caffeine](https://github.com/CaffeineMC) |
-| [Iris](https://irisshaders.github.io) | **No 1.17 Yet.** Iris is a shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [coderbot](https://modrinth.com/user/v7k4QluE) |
+| [Iris](https://irisshaders.github.io) | **No 1.17 Yet.** Iris is a shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [coderbot](https://github.com/coderbot16) |
 | [Hydrogen](https://modrinth.com/mod/hydrogen) | Hydrogen helps reduce the amount of memory the game takes up. While this is mostly meant for large modpacks, it does not hurt using it for a vanilla experience. | [Caffeine](https://github.com/CaffeineMC) |
 | [Lithium](https://modrinth.com/mod/lithium) | Lithium helps improve the performance of many vanilla systems without changing their mechanics. | [Caffeine](https://github.com/CaffeineMC) |
 | [Starlight](https://github.com/Spottedleaf/Starlight/releases) | Starlight completely rewrites the light engine to make loading chunks much quicker. | [SpottedLeaf](https://github.com/Spottedleaf) |
-| [LazyDFU](https://modrinth.com/mod/lazydfu) | LazyDFU prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://modrinth.com/user/y0WF9UR5) |
-| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | **No 1.17 Yet.** Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://modrinth.com/user/WH9NfS5R) |
+| [LazyDFU](https://modrinth.com/mod/lazydfu) | LazyDFU prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
+| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | **No 1.17 Yet.** Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | **No 1.17 Yet.** FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw)
-| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | **No 1.17 Yet.** Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://modrinth.com/user/HLI9Dbyv) |
+| [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | **No 1.17 Yet.** Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
 
 ### Recommended
 
@@ -113,9 +113,9 @@ These are mods that are more dependant on personal preferance than importance.
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | **No 1.17 Yet.** No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://modrinth.com/user/gykYW6ML) |
+| [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | **No 1.17 Yet.** No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Slight GUI Modifications adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
-| [Colored Lights](https://modrinth.com/mod/colored-lights) | Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://modrinth.com/user/BZ4AZma7) |
+| [Colored Lights](https://modrinth.com/mod/colored-lights) | Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) |
 
 ### OptiFine Replacements
 
@@ -139,6 +139,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 ### Undecided
 
 - kronhud (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/kronhud
+    - config isn't that good, doesn't get many updates, some features don't work last i checked  
 
 ## Credits
 
