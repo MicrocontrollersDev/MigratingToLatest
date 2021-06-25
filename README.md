@@ -7,7 +7,7 @@ Current issues include:
 - Many mods not updated to 1.17 yet
 - Sodium does not support FRAPI
 - Sodium does not support Iris, Iris comes bundled with its own version of Sodium
-- Current OptiFine alternatives are final
+- Current OptiFine alternatives are not final
 
 If you would like to contribute, please make a PR.  
 Some notes:
