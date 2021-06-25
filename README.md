@@ -105,7 +105,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | **No 1.17 Yet.** Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
 | [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/) | **No 1.17 Yet.** No Potion Offset prevents your inventory from getting shifted over when you have an active potion effect. | [Shedaniel](https://github.com/shedaniel) |
-| [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | **1.17 Beta Release** Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
+| [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | **1.17 Beta Release.** Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
 
 ### Other Cool Mods
 
@@ -126,17 +126,20 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | --- | --- | --- |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Visual toggles. Adds most of OptiFine's and some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
 | [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Zoom. More customizable than OptiFine's. | [boredomh1](https://modrinth.com/user/277qw1N1) |
-| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic Lights. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
-| [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and Better snow. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
+| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
+| [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Smart leaves. | [Motschen](https://modrinth.com/user/6YsSV9eP) |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
 | [Soaring Clouds](https://www.curseforge.com/minecraft/mc-mods/soaring-clouds) | **No 1.17 Yet.** Custom cloud height. | [Draylar](https://github.com/Draylar)
-| [Splash](https://www.curseforge.com/minecraft/mc-mods/splash) | **No 1.17 Yet.** Custom loading screen colors. Does not support OptiFine texturepacks, but has it's own GUI to edit colors. | [LoganDark](https://github.com/LoganDark) |
+| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | **No 1.17 Yet.** Custom loading screen colors. Does not support OptiFine format. | [TeamMidnightDust](https://github.com/TeamMidnightDust) |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
 | [Connected Textures](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric/releases) | **No 1.17 Yet.** CTM. Does not support OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Chime](https://modrinth.com/mod/chime) | **No 1.17 Yet.** CIT. Does not support OptiFine format. | [Emi](https://modrinth.com/user/R6WsWKy9) |
 | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | **No 1.17 Yet.** Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
 | [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | **No 1.17 Yet.** Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
+| [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.17 Yet.** Varied mob textures. Does not support OptiFine format. | [Digifox03](https://github.com/Digifox03/variedMobs) |
+
+To convert from OptiFine format to a newer format, check out [MCPatcherPatcher](https://github.com/LambdAurora/MCPatcherPatcher) for compatible mods.
 
 ### Undecided
 
