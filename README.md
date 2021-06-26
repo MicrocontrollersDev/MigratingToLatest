@@ -82,14 +82,14 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [Sodium](https://modrinth.com/mod/sodium) | **No 1.17 Yet.** An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [Caffeine](https://github.com/CaffeineMC) |
+| [Sodium](https://modrinth.com/mod/sodium) | **Has 1.17 Beta via Discord or GitHub Actions.** An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [Caffeine](https://github.com/CaffeineMC) |
 | [Iris](https://irisshaders.github.io) | **No 1.17 Yet.** Iris is a shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [coderbot](https://github.com/coderbot16) |
 | [Hydrogen](https://modrinth.com/mod/hydrogen) | Hydrogen helps reduce the amount of memory the game takes up. While this is mostly meant for large modpacks, it does not hurt using it for a vanilla experience. | [Caffeine](https://github.com/CaffeineMC) |
 | [Lithium](https://modrinth.com/mod/lithium) | Lithium helps improve the performance of many vanilla systems without changing their mechanics. | [Caffeine](https://github.com/CaffeineMC) |
 | [Starlight](https://github.com/Spottedleaf/Starlight/releases) | Starlight completely rewrites the light engine to make loading chunks much quicker. | [SpottedLeaf](https://github.com/Spottedleaf) |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | LazyDFU prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | **No 1.17 Yet.** Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
-| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
+| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | **Has 1.17 Beta. Crashes with Hydrogen.** FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw)
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | **No 1.17 Yet.** Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
 
@@ -105,7 +105,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | **No 1.17 Yet.** Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
 | [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/) | **No 1.17 Yet.** No Potion Offset prevents your inventory from getting shifted over when you have an active potion effect. | [Shedaniel](https://github.com/shedaniel) |
-| [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | **1.17 Beta Release.** Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
+| [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | **Has 1.17 Beta.** Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
 
 ### Other Cool Mods
 
