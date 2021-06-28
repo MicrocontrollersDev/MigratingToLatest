@@ -130,7 +130,8 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Smart leaves. | [Motschen](https://modrinth.com/user/6YsSV9eP) |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
-| [Soaring Clouds](https://www.curseforge.com/minecraft/mc-mods/soaring-clouds) | **No 1.17 Yet.** Custom cloud height. | [Draylar](https://github.com/Draylar)
+| [Soaring Clouds](https://www.curseforge.com/minecraft/mc-mods/soaring-clouds) | **No 1.17 Yet.** Custom cloud height. | [Draylar](https://github.com/Draylar) |
+| [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies) | **Has 1.17 Beta.** Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
 | [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | **No 1.17 Yet.** Custom loading screen colors. Does not support OptiFine format. | [TeamMidnightDust](https://github.com/TeamMidnightDust) |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
 | [Connected Textures](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric/releases) | **No 1.17 Yet.** CTM. Does not support OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
