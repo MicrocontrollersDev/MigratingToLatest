@@ -24,15 +24,17 @@ So, you've been playing on 1.8 for the past [5.5 years](https://howoldisminecraf
 
 ### Why no longer OptiFine?
 
-While you can load OptiFine on Fabric, OptiFine is closed source and messes with the game in many ways, causing many non-vanilla mechanics. As Mojang has been making large refactors to their code base, OptiFine has been struggling to keep up and has seen a great decrease in quality. MCPatcher has also not seen a format change in a long time, using old and outdated formats. What once was an essential aspect to the game now is no longer as useful. Luckily, due to the invention of performance enhancing mods that outperform OptiFine, many members of the community have taken it upon themselves to create alternatives to many of the non performance enhancing features.
+OptiFine no longer provides the benefit that it once did on older versions of the game. As the years have gone by and Minecraft's code has changed, OptiFine has been continuing to completely overwrite major parts of Minecraft's code. Because OptiFine is closed source, it has become increasingly harder for modders to provide OptiFine compatibility. OptiFine also uses outdated formats for many of its features, including MCPatcher and its confusing and outdated settings menu. Many members in the Fabric community have taken it upon themselves to create better performance enhancing mods which surpass OptiFine, as well as provide alternatives to many of OptiFine's iconic features.
 
 ### Why no longer Forge?
 
-Forge has always been less than ideal for performance, because while trying to fix vanilla issues relating to performance, it still has huge overhead. Fabric on the other hand is extremely lightweight and is practically identical to vanilla. It's also considered to be much easier to make mods for and also has a great community, unlike Forge's community which is much more toxic. 
+TODO: Rewrite this entire thing but make it good
+
+Forge has always been less than ideal for performance, because while it does try to fix vanilla issues relating to performance, it still has huge overhead for server-sided modding, which is not necessary for users wishing for a vanilla compatible experience. Fabric on the other hand is extremely lightweight and is practically identical to vanilla. It's also considered to be much easier to make mods for and has a great community, unlike Forge's community which is much more toxic. 
 
 ## Installing Fabric
 
-TODO: MultiMC support + maybe images
+TODO: Maybe images
 
 0. Make sure you close Minecraft and the Minecraft launcher before installing Fabric, otherwise unexpected things can happen.
 1. Download the [Fabric installer](https://fabricmc.net/use).
