@@ -148,6 +148,8 @@ To convert from OptiFine format to a newer format, check out [MCPatcherPatcher](
 
 - kronhud (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/kronhud
     - config isn't that good, doesn't get many updates, some features don't work last i checked  
+- dashloader (has 1.17) https://modrinth.com/mod/dashloader/
+    - compatibility nightmare
 
 ## Credits
 
