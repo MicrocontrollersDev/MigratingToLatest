@@ -89,11 +89,11 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | --- | --- | --- |
 | [Sodium](https://modrinth.com/mod/sodium) | **Currently comes bundled with Iris!** An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [Caffeine](https://github.com/CaffeineMC) |
 | [Iris](https://irisshaders.github.io) | Iris is a shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [coderbot](https://github.com/coderbot16) |
-| [Hydrogen](https://modrinth.com/mod/hydrogen) | Hydrogen helps reduce the amount of memory the game takes up. While this is mostly meant for large modpacks, it does not hurt using it for a vanilla experience. | [Caffeine](https://github.com/CaffeineMC) |
-| [Lithium](https://modrinth.com/mod/lithium) | Lithium helps improve the performance of many vanilla systems without changing their mechanics. | [Caffeine](https://github.com/CaffeineMC) |
+| [Hydrogen](https://modrinth.com/mod/hydrogen) | **No 1.17.1 Yet.** Hydrogen helps reduce the amount of memory the game takes up. While this is mostly meant for large modpacks, it does not hurt using it for a vanilla experience. | [Caffeine](https://github.com/CaffeineMC) |
+| [Lithium](https://modrinth.com/mod/lithium) | **1.17.1 GH Actions Available.** Lithium helps improve the performance of many vanilla systems without changing their mechanics. | [Caffeine](https://github.com/CaffeineMC) |
 | [Starlight](https://github.com/Spottedleaf/Starlight/releases) | Starlight completely rewrites the light engine to make loading chunks much quicker. | [SpottedLeaf](https://github.com/Spottedleaf) |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | LazyDFU prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
-| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | **No 1.17 Yet.** Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
+| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | **No 1.17.1 Yet.** Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw)
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
@@ -105,11 +105,11 @@ These are mods that I recommend you to use at all times. While they may not boos
 | Mod | Description | Author |
 | --- | --- | --- |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
-| [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | **No 1.17 Yet.** Borderless Fullscreen for Minecraft. | [comp500](https://github.com/comp500) |
+| [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | **No 1.17.1 Yet.** Borderless Fullscreen for Minecraft. | [comp500](https://github.com/comp500) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Not Enough Crashes takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
-| [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | **No 1.17 Yet.** Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
-| [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/) | **No 1.17 Yet.** No Potion Offset prevents your inventory from getting shifted over when you have an active potion effect. | [Shedaniel](https://github.com/shedaniel) |
+| [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | **No 1.17.1 Yet.** Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
+| [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/) | **No 1.17.1 Yet.** No Potion Offset prevents your inventory from getting shifted over when you have an active potion effect. | [Shedaniel](https://github.com/shedaniel) |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
 
 ### Other Cool Mods
@@ -122,7 +122,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Slight GUI Modifications adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | **Crashes with Iris/Sodium.** Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Blur creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) |
-| [No Fade](https://modrinth.com/mod/no-fade) | **No 1.17 Yet.** No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
+| [No Fade](https://modrinth.com/mod/no-fade) | **No 1.17.1 Yet.** No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 
 ### OptiFine Replacements
 
@@ -130,22 +130,22 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | **No 1.17 Yet.** Visual toggles. Adds most of OptiFine's and some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | **No 1.17.1 Yet.** Visual toggles. Adds most of OptiFine's and some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
 | [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Zoom. More customizable than OptiFine's. | [boredomh1](https://modrinth.com/user/277qw1N1) |
 | [Bobby](https://modrinth.com/mod/bobby) | Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702)
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Smart leaves. | [Motschen](https://modrinth.com/user/6YsSV9eP) |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
-| [Soaring Clouds](https://www.curseforge.com/minecraft/mc-mods/soaring-clouds) | **No 1.17 Yet.** Custom cloud height. | [Draylar](https://github.com/Draylar) |
+| [Soaring Clouds](https://www.curseforge.com/minecraft/mc-mods/soaring-clouds) | **No 1.17.1 Yet.** Custom cloud height. | [Draylar](https://github.com/Draylar) |
 | [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
-| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | **No 1.17 Yet.** Custom loading screen colors. Does not support OptiFine format. | [TeamMidnightDust](https://github.com/TeamMidnightDust) |
+| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | **No 1.17.1 Yet.** Custom loading screen colors. Does not support OptiFine format. | [TeamMidnightDust](https://github.com/TeamMidnightDust) |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
 | [Connected Textures](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric/releases) | CTM. Does not support OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
-| [Chime](https://modrinth.com/mod/chime) | **No 1.17 Yet.** CIT. Does not support OptiFine format. | [Emi](https://modrinth.com/user/R6WsWKy9) |
-| [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | **No 1.17 Yet.** Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
-| [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | **No 1.17 Yet.** Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
-| [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.17 Yet.** Varied mob textures. Does not support OptiFine format. | [Digifox03](https://github.com/Digifox03/variedMobs) |
+| [Chime](https://modrinth.com/mod/chime) | **No 1.17.1 Yet.** CIT. Does not support OptiFine format. | [Emi](https://modrinth.com/user/R6WsWKy9) |
+| [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | **No 1.17.1 Yet.** Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
+| [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | **No 1.17.1 Yet.** Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
+| [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.17.1 Yet.** Varied mob textures. Does not support OptiFine format. | [Digifox03](https://github.com/Digifox03/variedMobs) |
 
 To convert from OptiFine format to a newer format, check out [MCPatcherPatcher](https://github.com/LambdAurora/MCPatcherPatcher) for compatible mods.
 
