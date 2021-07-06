@@ -8,6 +8,7 @@ Current issues include:
 - Sodium does not support FRAPI
 - Sodium does not support Iris, Iris comes bundled with its own version of Sodium
 - Current OptiFine alternatives are not final
+- Needs to eventually be rewritten but for Quilt Loader instead
 
 If you would like to contribute, please make a PR.  
 Some notes:
