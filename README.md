@@ -115,7 +115,7 @@ These are mods that are more dependant on personal preferance than importance.
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | **No 1.17 Yet.** No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
+| [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Slight GUI Modifications adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Blur creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) |
@@ -136,7 +136,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
 | [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | **No 1.17 Yet.** Custom loading screen colors. Does not support OptiFine format. | [TeamMidnightDust](https://github.com/TeamMidnightDust) |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
-| [Connected Textures](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric/releases) | **No 1.17 Yet.** CTM. Does not support OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
+| [Connected Textures](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric/releases) | CTM. Does not support OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Chime](https://modrinth.com/mod/chime) | **No 1.17 Yet.** CIT. Does not support OptiFine format. | [Emi](https://modrinth.com/user/R6WsWKy9) |
 | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | **No 1.17 Yet.** Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
 | [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | **No 1.17 Yet.** Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
