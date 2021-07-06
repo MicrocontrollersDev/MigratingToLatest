@@ -132,6 +132,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | --- | --- | --- |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | **No 1.17 Yet.** Visual toggles. Adds most of OptiFine's and some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
 | [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Zoom. More customizable than OptiFine's. | [boredomh1](https://modrinth.com/user/277qw1N1) |
+| [Bobby](https://modrinth.com/mod/bobby) | Higher render distances. More features than OptiFine's. | [Johni0702](https://github.com/Johni0702)
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Smart leaves. | [Motschen](https://modrinth.com/user/6YsSV9eP) |
