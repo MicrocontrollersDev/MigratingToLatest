@@ -2,6 +2,8 @@
 
 # Note
 
+[Join my Discord for news regarding the development of this repository!](https://discord.gg/eXkMKCqtfQ)
+
 This list is not meant to be used yet.  
 Current issues include:
 - Many mods not updated to 1.17 yet
