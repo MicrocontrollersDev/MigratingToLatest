@@ -94,7 +94,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Starlight](https://github.com/Spottedleaf/Starlight/releases) | Starlight completely rewrites the light engine to make loading chunks much quicker. | [SpottedLeaf](https://github.com/Spottedleaf) |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | LazyDFU prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | **No 1.17 Yet.** Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
-| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | **Has 1.17 Beta.** FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
+| [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw)
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
 
@@ -110,7 +110,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | **No 1.17 Yet.** Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
 | [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/) | **No 1.17 Yet.** No Potion Offset prevents your inventory from getting shifted over when you have an active potion effect. | [Shedaniel](https://github.com/shedaniel) |
-| [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | **Has 1.17 Beta.** Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
+| [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
 
 ### Other Cool Mods
 
