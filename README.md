@@ -4,14 +4,6 @@
 
 [Join my Discord for news regarding the development of this repository!](https://discord.gg/eXkMKCqtfQ)
 
-This list is not meant to be used yet.  
-Current issues include:
-- Many mods not updated to 1.17 yet
-- Sodium does not support FRAPI
-- Sodium does not support Iris, Iris comes bundled with its own version of Sodium
-- Current OptiFine alternatives are not final
-- Needs to eventually be rewritten but for Quilt Loader instead
-
 If you would like to contribute, please make a PR.  
 Some notes:
 - Leave your name and GitHub link in the credits section, even for a tiny change
