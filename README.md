@@ -131,7 +131,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
 | [Soaring Clouds](https://www.curseforge.com/minecraft/mc-mods/soaring-clouds) | **No 1.17.1 Yet.** Custom cloud height. | [Draylar](https://github.com/Draylar) |
 | [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
-| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | **No 1.17.1 Yet.** Custom loading screen colors. Does not support OptiFine format. | [TeamMidnightDust](https://github.com/TeamMidnightDust) |
+| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | Custom loading screen colors. Does not support OptiFine format. | [TeamMidnightDust](https://github.com/TeamMidnightDust) |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
 | [Connected Textures](https://github.com/PepperCode1/ConnectedTexturesMod-Fabric/releases) | CTM. Does not support OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Chime](https://modrinth.com/mod/chime) | **No 1.17.1 Yet.** CIT. Does not support OptiFine format. | [Emi](https://modrinth.com/user/R6WsWKy9) |
