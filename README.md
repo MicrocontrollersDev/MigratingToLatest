@@ -122,7 +122,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | **No 1.17.1 Yet.** Visual toggles. Adds most of OptiFine's and some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Visual toggles. Adds most of OptiFine's and some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
 | [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Zoom. More customizable than OptiFine's. | [boredomh1](https://modrinth.com/user/277qw1N1) |
 | [Bobby](https://modrinth.com/mod/bobby) | Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702)
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
