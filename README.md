@@ -115,7 +115,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Slight GUI Modifications adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | **Crashes with Iris/Sodium.** Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Blur creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) |
-| [No Fade](https://modrinth.com/mod/no-fade) | **No 1.17.1 Yet.** No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
+| [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases) | No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 
 ### OptiFine Replacements
 
