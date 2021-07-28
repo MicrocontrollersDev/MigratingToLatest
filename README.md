@@ -139,6 +139,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Colormatic](https://www.curseforge.com/minecraft/mc-mods/colormatic) | **No 1.17.1 Yet.** Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
 | [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | **No 1.17.1 Yet.** Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
 | [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.17.1 Yet.** Varied mob textures. Does not support OptiFine format. | [Digifox03](https://github.com/Digifox03/variedMobs) |
+| [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | Custom entity models. Support's OptiFine's format. | [dorianpb](https://github.com/dorianpb) |
 
 To convert from OptiFine format to a newer format, check out [MCPatcherPatcher](https://github.com/LambdAurora/MCPatcherPatcher) for compatible mods.
 
