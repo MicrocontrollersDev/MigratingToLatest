@@ -141,8 +141,6 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.17.1 Yet.** Varied mob textures. Does not support OptiFine format. | [Digifox03](https://github.com/Digifox03/variedMobs) |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | Custom entity models. Support's OptiFine's format. | [dorianpb](https://github.com/dorianpb) |
 
-To convert from OptiFine format to a newer format, check out [MCPatcherPatcher](https://github.com/LambdAurora/MCPatcherPatcher) for compatible mods.
-
 ### Undecided
 
 - kronhud (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/kronhud
