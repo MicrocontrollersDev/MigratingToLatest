@@ -61,7 +61,7 @@ TODO: note about custom directories
 
 ## Mods 
 
-#### NOTE: If on Sodium 0.3, you will need to use [Indium](https://github.com/comp500/Indium) as well. Also, since Iris currently comes bundled with its own version of Sodium, it is not required to download Sodium standalone.
+#### NOTE: Since Iris currently comes bundled with its own version of Sodium, it is not required to download Sodium standalone.
 
 ### Dependencies
 
@@ -79,7 +79,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [Sodium](https://modrinth.com/mod/sodium) | **Currently comes bundled with Iris!** An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [Caffeine](https://github.com/CaffeineMC) |
+| [Sodium](https://irisshaders.github.io "https://modrinth.com/mod/sodium") | **Currently comes bundled with Iris!** An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [Caffeine](https://github.com/CaffeineMC) |
 | [Iris](https://irisshaders.github.io) | Iris is a shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [coderbot](https://github.com/coderbot16) |
 | [Indium](https://modrinth.com/mod/indium) | Indium adds FRAPI support to Sodium. This mod is merely temporary and will be removed once Sodium adds FRAPI support itself. | [comp500](https://github.com/comp500) |
 | [Hydrogen](https://modrinth.com/mod/hydrogen) | Hydrogen helps reduce the amount of memory the game takes up. While this is mostly meant for large modpacks, it does not hurt using it for a vanilla experience. | [Caffeine](https://github.com/CaffeineMC) |
