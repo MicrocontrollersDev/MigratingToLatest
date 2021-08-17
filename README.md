@@ -148,7 +148,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 - dashloader (has 1.17) https://modrinth.com/mod/dashloader/
     - compatibility nightmare
 
-## Credits
+## Contributors
 
 - [NoPro2024](https://github.com/NoPro2024)
 - [nacrt](https://github.com/nacrt)
