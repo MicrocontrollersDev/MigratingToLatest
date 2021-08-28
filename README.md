@@ -66,8 +66,9 @@ These are essential mods that are pretty much required for most fabric mods as d
 | Mod | Description | Author |
 | --- | --- | --- |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods. | [Fabric Team](https://github.com/FabricMC) |
-| [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods ingame, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | Required for mods that run on Kotlin. | [Fabric Team](https://github.com/FabricMC) |
+| [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods ingame, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
+| [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mod. | [DeathsGun](https://github.com/DeathsGun)
 
 ### Performance
 
