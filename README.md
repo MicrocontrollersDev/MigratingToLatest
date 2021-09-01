@@ -108,7 +108,7 @@ These are mods that are more dependant on personal preferance than importance.
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines) | Color Me Outlines is equivalent to 1.8's block overlay, allowing you to customize the outline when highlighting blocks. | [LordDeatHunter](https://github.com/LordDeatHunter)
+| [Custom Selection Box](https://github.com/NKID00/CustomSelectionBox-New/releases/latest) | **Currently using an updated fork.** Custom Selection Box is equivalent to 1.8's block overlay, allowing you to customize the outline when highlighting blocks. | [LordDeatHunter](https://github.com/LordDeatHunter)
 | [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Slight GUI Modifications adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | **Crashes with Iris/Sodium.** Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) |
