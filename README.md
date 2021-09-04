@@ -85,7 +85,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | LazyDFU prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
-| [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw)
+| [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
 
 ### Recommended
@@ -114,6 +114,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | **Crashes with Iris/Sodium.** Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Blur creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) |
 | [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
+| [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | WaveyCapes breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr9zw](https://github.com/tr7zw) |
 
 ### OptiFine Replacements
 
