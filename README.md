@@ -139,13 +139,6 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.17.1 Yet.** Varied mob textures. Does not support OptiFine format. | [Digifox03](https://github.com/Digifox03/variedMobs) |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | Custom entity models. Support's OptiFine's format. | [dorianpb](https://github.com/dorianpb) |
 
-### Undecided
-
-- kronhud (no 1.17 yet) https://www.curseforge.com/minecraft/mc-mods/kronhud
-    - config isn't that good, doesn't get many updates, some features don't work last i checked  
-- dashloader (has 1.17) https://modrinth.com/mod/dashloader/
-    - compatibility nightmare
-
 ## Contributors
 
 - [karmette](https://github.com/karmette)
