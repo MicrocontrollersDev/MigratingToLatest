@@ -68,6 +68,7 @@ These are essential mods that are pretty much required for most fabric mods as d
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods. | [Fabric Team](https://github.com/FabricMC) |
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | Required for mods that use Kotlin. | [Fabric Team](https://github.com/FabricMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods ingame, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
+| [Essential](https://essential.gg)| Essential allows you to customize your character, chat with friends, and invite them to your worlds. It also adds a few quality of life features, such as zoom. It is required for some mods that use Vigilance/Elementa. | [Sk1erLLC](https://sk1er.club/) |
 
 ### Performance
 
@@ -93,7 +94,6 @@ These are mods that I recommend you to use at all times. While they may not boos
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [Essential](https://essential.gg)| Essential allows you to customize your character, chat with friends, and invite them to your worlds. | [Sk1erLLC](https://sk1er.club/) |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mod. | [DeathsGun](https://github.com/DeathsGun) |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | **No 1.17.1 Yet.** Borderless Fullscreen for Minecraft. Instructions on how to manually update it to 1.17.1 can be found [here](https://www.curseforge.com/minecraft/mc-mods/borderless-mining?comment=65) | [comp500](https://github.com/comp500) |
@@ -124,7 +124,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | Mod | Description | Author |
 | --- | --- | --- |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | OptiFine extra settings toggles. Adds most of OptiFine's such as animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
-| [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) | Zoom. More customizable than OptiFine's. | [boredomh1](https://modrinth.com/user/277qw1N1) |
+| [Essential](https://essential.gg) | Zoom. More customizable than OptiFine's. | [Sk1erLLC](https://sk1er.club/) |
 | [Bobby](https://modrinth.com/mod/bobby) | Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702)
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
