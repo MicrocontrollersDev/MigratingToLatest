@@ -70,7 +70,7 @@ These are essential mods that are pretty much required for most fabric mods as d
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods. | [Fabric Team](https://github.com/FabricMC) |
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | Required for mods that use Kotlin. | [Fabric Team](https://github.com/FabricMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods ingame, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
-| [Essential](https://essential.gg)| Essential allows you to customize your character, chat with friends, and invite them to your worlds. It also adds a few quality of life features, such as zoom. It is required for some mods that use Vigilance/Elementa. | [Sk1erLLC](https://sk1er.club/) |
+| [Essential](https://essential.gg)| Essential allows you to customize your character, chat with friends, and invite them to your worlds. It also adds a few quality of life features, such as zoom and borderless fullscreen. | [Sk1erLLC](https://sk1er.club/) + [SparkUniverse](https://sparkuniverse.com/) |
 
 ### Performance
 
@@ -98,12 +98,13 @@ These are mods that I recommend you to use at all times. While they may not boos
 | --- | --- | --- | --- |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mod. | [DeathsGun](https://github.com/DeathsGun) |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
-| [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | **No 1.17.1 Yet.** Borderless Fullscreen for Minecraft. Instructions on how to manually update it to 1.17.1 can be found [here](https://www.curseforge.com/minecraft/mc-mods/borderless-mining?comment=65) | [comp500](https://github.com/comp500) |
+| [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | **No 1.17.1 Yet, use Essential for 1.17.1** Borderless Fullscreen for Minecraft. Instructions on how to manually update it to 1.17.1 can be found [here](https://www.curseforge.com/minecraft/mc-mods/borderless-mining?comment=65) | [comp500](https://github.com/comp500) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Not Enough Crashes takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
 | [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/) | **No 1.17.1 Yet.** No Potion Offset prevents your inventory from getting shifted over when you have an active potion effect. | [Shedaniel](https://github.com/shedaniel) |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
+| [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/tag/v1.2.0-beta9) | **1.17.1 Version in beta** Wyvtils adds many useful utilities to the game, such as nametags, bossbar, action bar, sidebar, hitbox customization and more. | [Qalcyo](https://github.com/Qalcyo)
 | [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | KronHUD adds many useful HUD elements to your screen with an easy to use in game config. | [DarkKronicle](https://github.com/DarkKronicle) |
 
 ### Other Cool Mods
