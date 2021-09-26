@@ -6,9 +6,9 @@
 
 If you would like to contribute, please make a PR.  
 Some notes:
-- Leave your name and GitHub link in the credits section, even for a tiny change
+- Leave your name and GitHub link in the credits section in alphabetical order, even for a tiny change
 - Please try to use Modrinth/GitHub over Curseforge when applicable
-- Please use a GitHub link instead of a Modrinth link for Author credit and avoid using Curseforge as best you can
+- Please use a GitHub link instead of a Modrinth link for Author credit and avoid using Curseforge as best you can, and use the modder organization when applicable
 - Make sure that the option to allow me to make changes to your PR is enabled
 
 ## Introduction
