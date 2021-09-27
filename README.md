@@ -121,6 +121,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Rainbowify](https://modrinth.com/mod/rainbowify) | Replaces the dark gui backrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
 | [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | WaveyCapes breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr9zw](https://github.com/tr7zw) |
+| [Mojangster](https://www.curseforge.com/minecraft/mc-mods/mojangster/files) | Mojangster allows an animated loading screen. Looks pretty cool. | [cal6541](https://github.com/cal6541) |
 
 ### OptiFine Replacements
 
