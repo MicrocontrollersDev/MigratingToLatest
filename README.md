@@ -71,7 +71,6 @@ These are essential mods that are pretty much required for most fabric mods as d
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | Required for mods that use Kotlin. | [Fabric Team](https://github.com/FabricMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods ingame, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
 | [Essential](https://essential.gg)| Essential allows you to customize your character, chat with friends, and invite them to your worlds. It also adds a few quality of life features, such as zoom. It is required for some mods that use Vigilance/Elementa. | [Sk1erLLC](https://sk1er.club/) |
-| [Cloth Config](https://github.com/shedaniel/cloth-config) | Required to configure some mods ingame
 
 ### Performance
 
