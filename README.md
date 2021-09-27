@@ -125,24 +125,24 @@ These are mods that are more dependant on personal preferance than importance.
 
 As OptiFine is no longer recommended, here are some replacements for many of it's features that have not already been listed above.
 
-| Mod | Description | Author | Incompatibilities |
-| --- | --- | --- | --- |
-| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | OptiFine extra settings toggles. Adds most of OptiFine's such as animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) | DashLoader |
-| [Essential](https://essential.gg) | Zoom. More customizable than OptiFine's. | [Sk1erLLC](https://sk1er.club/) |
-| [Bobby](https://modrinth.com/mod/bobby) | Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702) | Starlight |
-| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
-| [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) | DashLoader |
-| [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Smart leaves. | [MidnightDust](https://github.com/TeamMidnightDust) |
-| [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
-| [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
-| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | Custom loading screen colors. Does not support OptiFine format. | [MidnightDust](https://github.com/TeamMidnightDust) |
-| [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
-| [Continuity](https://modrinth.com/mod/continuity) | CTM. Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) | DashLoader |
-| [Chime](https://modrinth.com/mod/chime) | **No 1.17.1 Yet.** CIT. Does not support OptiFine format. | [Emi](https://modrinth.com/user/R6WsWKy9) |
-| [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
-| [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | **No 1.17.1 Yet.** Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
-| [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.17.1 Yet.** Varied mob textures. Does not support OptiFine format. | [Digifox03](https://github.com/Digifox03/variedMobs) |
-| [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | Custom entity models. Supports OptiFine format. | [dorianpb](https://github.com/dorianpb) |
+| Mod | Description | Supports OptiFine Format | Author | Incompatibilities |
+| --- | --- | --- | --- | --- |
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | OptiFine extra settings toggles | Adds most of OptiFine's such as animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones | [FlashyReese](https://github.com/FlashyReese) | DashLoader |
+| [Essential](https://essential.gg) | Zoom | More customizable than OptiFine's | [Sk1erLLC](https://sk1er.club/) |
+| [Bobby](https://modrinth.com/mod/bobby) | Higher render distances | More customizable than OptiFine's | [Johni0702](https://github.com/Johni0702) | Starlight |
+| [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights | More customizable than OptiFine's | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
+| [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow | More customizable than OptiFine's | [LambdAurora](https://modrinth.com/user/rRnTb0fG) | DashLoader |
+| [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Smart leaves | More customizable than OptiFine's | [MidnightDust](https://github.com/TeamMidnightDust) |
+| [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots |  | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
+| [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies) | Removes fog color banding on skybox |  | [grondag](https://github.com/grondag) |
+| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | Custom loading screen colors | No | [MidnightDust](https://github.com/TeamMidnightDust) |
+| [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky | No | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
+| [Continuity](https://modrinth.com/mod/continuity) | CTM | Yes | [Pepper_Bell](https://github.com/PepperCode1) | DashLoader |
+| [Chime](https://modrinth.com/mod/chime) | **No 1.17.1 Yet.** CIT | No | [Emi](https://modrinth.com/user/R6WsWKy9) |
+| [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | Custom colors | No | [Thalia](https://github.com/kvverti) |
+| [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | **No 1.17.1 Yet.** Transparent textures | No | [Trikzon](https://github.com/Trikzon) |
+| [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.17.1 Yet.** Varied mob textures | No | [Digifox03](https://github.com/Digifox03/variedMobs) |
+| [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | Custom entity models | Yes | [dorianpb](https://github.com/dorianpb) |
 
 ## Contributors
 
