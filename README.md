@@ -70,7 +70,7 @@ These are essential mods that are pretty much required for most fabric mods as d
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods. | [Fabric Team](https://github.com/FabricMC) |
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | Required for mods that use Kotlin. | [Fabric Team](https://github.com/FabricMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods ingame, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
-| [Essential](https://essential.gg)| Essential allows you to customize your character, chat with friends, and invite them to your worlds. It also adds a few quality of life features, such as zoom and borderless fullscreen. | [Sk1erLLC](https://sk1er.club/) + [SparkUniverse](https://sparkuniverse.com/) |
+| [Essential](https://essential.gg)| Essential allows you to customize your character, chat with friends, and invite them to your worlds. It also adds a few quality of life features, such as zoom. | [Sk1erLLC](https://sk1er.club/) + [SparkUniverse](https://sparkuniverse.com/) |
 
 ### Performance
 
@@ -98,7 +98,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | --- | --- | --- | --- |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mod. | [DeathsGun](https://github.com/DeathsGun) |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
-| [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | **No 1.17.1 Yet, use Essential for 1.17.1** Borderless Fullscreen for Minecraft. Instructions on how to manually update it to 1.17.1 can be found [here](https://www.curseforge.com/minecraft/mc-mods/borderless-mining?comment=65) | [comp500](https://github.com/comp500) |
+| [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | **No 1.17.1 Yet** Borderless Fullscreen for Minecraft. Instructions on how to manually update it to 1.17.1 can be found [here](https://www.curseforge.com/minecraft/mc-mods/borderless-mining?comment=65) | [comp500](https://github.com/comp500) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Not Enough Crashes takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
@@ -151,4 +151,4 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 - [karmette](https://github.com/karmette)
 - [nacrt](https://github.com/nacrt)
 - [NoPro2024](https://github.com/NoPro2024)
-- [Zordlan](https://github.com/Zordlan)
+- [lis](https://github.com/Lisenaaaa)
