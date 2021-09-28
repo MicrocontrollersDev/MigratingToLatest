@@ -123,6 +123,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | WaveyCapes breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr9zw](https://github.com/tr7zw) |
 | [Mojangster](https://www.curseforge.com/minecraft/mc-mods/mojangster/files) | Mojangster allows an animated loading screen. Supports custom resourcepacks. | [cal6541](https://github.com/cal6541) | Custom Splash Screen |
+| [Perspective Mod Redux](https://github.com/BackportProjectMC/PerspectiveModRedux) | A simple perspective mod that supports lots of minecraft versions | [The Backport Project MC](https://github.com/BackportProjectMC)
 
 ### OptiFine Replacements
 
