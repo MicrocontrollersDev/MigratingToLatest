@@ -89,6 +89,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
+| [Dashloader](https://modrinth.com/mod/dashloader) | Caches all of Minecrafts content to load the game around 6x faster. **Not reccomended to people who change mods/resource packs frequently as every time you change them the game starts significantly slower on the first time** | [Yan Chubikov](https://github.com/alphaqu) | Sodium, Iris, Indium, Hydrogen, Sodium Extra, LambdaBetterGrass, Continuity
 
 ### Recommended
 
@@ -122,6 +123,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | WaveyCapes breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr9zw](https://github.com/tr7zw) |
 | [Mojangster](https://www.curseforge.com/minecraft/mc-mods/mojangster/files) | Mojangster allows an animated loading screen. Supports custom resourcepacks. | [cal6541](https://github.com/cal6541) | Custom Splash Screen |
+| [Perspective Mod Redux](https://github.com/BackportProjectMC/PerspectiveModRedux) | A simple perspective mod that supports lots of minecraft versions | [The Backport Project MC](https://github.com/BackportProjectMC)
 
 ### OptiFine Replacements
 
