@@ -85,11 +85,11 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Lithium](https://modrinth.com/mod/lithium) | Lithium helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Starlight](https://www.modrinth.com/mod/starlight) | Starlight completely rewrites the light engine to make loading chunks much quicker. | [SpottedLeaf](https://github.com/Spottedleaf) |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | LazyDFU prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
-| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
+| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | DashLoader |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
-| [Dashloader](https://modrinth.com/mod/dashloader) | Caches all of Minecrafts content to load the game around 6x faster. **Not reccomended to people who change mods/resource packs frequently as every time you change them the game starts significantly slower on the first time** | [Yan Chubikov](https://github.com/alphaqu) | Sodium, Iris, Indium, Hydrogen, Sodium Extra, LambdaBetterGrass, Continuity
+| [Dashloader](https://modrinth.com/mod/dashloader) | Caches all of Minecrafts content to load the game around 6x faster. **Not reccomended to people who change mods/resource packs frequently as every time you change them the game starts significantly slower on the first time** | [Yan Chubikov](https://github.com/alphaqu) | Sodium, Iris, Indium, Hydrogen, Enhanced Block Entities, Sodium Extra, LambdaBetterGrass, Continuity
 
 ### Recommended
 
