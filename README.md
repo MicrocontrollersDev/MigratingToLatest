@@ -152,5 +152,5 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 - [karmette](https://github.com/karmette)
 - [nacrt](https://github.com/nacrt)
 - [NoPro2024](https://github.com/NoPro2024)
-- [lis](https://github.com/Lisenaaaa)
+- [Lisena](https://github.com/Lisenaaaa)
 - [Wyvest](https://github.com/Wyvest)
