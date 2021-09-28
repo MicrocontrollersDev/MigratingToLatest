@@ -70,7 +70,7 @@ These are essential mods that are pretty much required for most fabric mods as d
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods. | [Fabric Team](https://github.com/FabricMC) |
 | [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin) | Required for mods that use Kotlin. | [Fabric Team](https://github.com/FabricMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods ingame, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
-| [Essential](https://essential.gg)| Essential allows you to customize your character, chat with friends, and invite them to your worlds. It also adds a few quality of life features, such as zoom. It is required for some mods that use Vigilance/Elementa. | [Sk1erLLC](https://sk1er.club/) |
+| [Essential](https://essential.gg)| Essential allows you to customize your character, chat with friends, and invite them to your worlds. It also adds a few quality of life features, such as zoom. | [Sk1erLLC](https://sk1er.club/) & [SparkUniverse](https://sparkuniverse.com/) |
 
 ### Performance
 
@@ -104,6 +104,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
 | [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/) | **No 1.17.1 Yet.** No Potion Offset prevents your inventory from getting shifted over when you have an active potion effect. | [Shedaniel](https://github.com/shedaniel) |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
+| [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/) | **1.17.1 Version in beta.** Wyvtils adds many useful utilities to the game, such as nametags, bossbar, action bar, sidebar, hitbox customization and more. | [Qalcyo](https://github.com/Qalcyo)
 | [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | KronHUD adds many useful HUD elements to your screen with an easy to use in game config. | [DarkKronicle](https://github.com/DarkKronicle) |
 
 ### Other Cool Mods
@@ -112,7 +113,7 @@ These are mods that are more dependant on personal preferance than importance.
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Custom Selection Box](https://github.com/NKID00/CustomSelectionBox-New/releases/latest) | **Currently using an updated fork.** Custom Selection Box is equivalent to 1.8's block overlay, allowing you to customize the outline when highlighting blocks. | [LordDeatHunter](https://github.com/LordDeatHunter) |
+| [Custom Selection Box](https://github.com/NKID00/CustomSelectionBox-New/releases/latest) | **Currently using an updated fork.** Custom Selection Box is equivalent to 1.8's block overlay, allowing you to customize the outline when highlighting blocks. | [Shedaniel](https://github.com/shedaniel) & [NKID00](https://github.com/NKID00) |
 | [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Slight GUI Modifications adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) | Iris/Sodium |
@@ -120,6 +121,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Rainbowify](https://modrinth.com/mod/rainbowify) | Replaces the dark gui backrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
 | [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | WaveyCapes breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr9zw](https://github.com/tr7zw) |
+| [Mojangster](https://www.curseforge.com/minecraft/mc-mods/mojangster/files) | Mojangster allows an animated loading screen. Supports custom resourcepacks. | [cal6541](https://github.com/cal6541) | Custom Splash Screen |
 
 ### OptiFine Replacements
 
@@ -128,7 +130,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | OptiFine extra settings toggles. Adds most of OptiFine's such as animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) | DashLoader |
-| [Essential](https://essential.gg) | Zoom. More customizable than OptiFine's. | [Sk1erLLC](https://sk1er.club/) |
+| [Essential](https://essential.gg) | Zoom. More customizable than OptiFine's. | [Sk1erLLC](https://sk1er.club/) & [SparkUniverse](https://sparkuniverse.com/) |
 | [Bobby](https://modrinth.com/mod/bobby) | Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702) | Starlight |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine's. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) | DashLoader |
@@ -150,4 +152,5 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 - [karmette](https://github.com/karmette)
 - [nacrt](https://github.com/nacrt)
 - [NoPro2024](https://github.com/NoPro2024)
-- [Zordlan](https://github.com/Zordlan)
+- [lis](https://github.com/Lisenaaaa)
+- [Wyvest](https://github.com/Wyvest)
