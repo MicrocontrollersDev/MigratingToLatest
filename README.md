@@ -90,7 +90,6 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
-| [Dashloader](https://modrinth.com/mod/dashloader) | Caches all of Minecrafts content to load the game around 6x faster. **Not reccomended to people who change mods/resource packs frequently as every time you change them the game starts significantly slower on the first time** | [Yan Chubikov](https://github.com/alphaqu) | Sodium, Iris, Indium, Hydrogen, Enhanced Block Entities, Sodium Extra, LambdaBetterGrass, Continuity
 
 ### Recommended
 
@@ -148,6 +147,15 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | **No 1.17.1 Yet.** Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
 | [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.17.1 Yet.** Varied mob textures. Does not support OptiFine format. | [Digifox03](https://github.com/Digifox03/variedMobs) |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | Custom entity models. Supports OptiFine format. | [dorianpb](https://github.com/dorianpb) |
+
+### Unrecommended Mods
+
+These are mods that are either too experimental or are just poorly made that I do not recommend using unless you know what you are doing.
+| Mod | Reasoning | Author |
+| --- | --- | --- |
+| DashLoader | DashLoader Caches all of Minecrafts content to load the game much faster. However, this causes many incompatibilities with a ton of mods, including Sodium. For this reason, it is recommended to not use it until it achieves better compatibility. It is also not very useful to people who change their mods and resourcepacks frequently. | [alphaqu](https://github.com/alphaqu) |
+| Iris Starline | The Iris Starline branch is a very experimental branch that allows you to access the config options for shaders. The original author of Iris is currently creating a safer method to access this config and the starline branch should only be used for testing, not for actual use. | [HyperCubeMC](https://github.com/HyperCubeMC)
+| C2ME | C2ME is an extremely expiremental mod that attempts to multithread chunk generation, I/O, and loading. It is deemed not production ready by the authors and may corrupt worlds or cause other issues. It also comes with its own list of incompatible mods, albeit, most of those mods are geared to modded survival. | [ishlandbukkit](https://github.com/ishlandbukkit) |
 
 ## Contributors
 
