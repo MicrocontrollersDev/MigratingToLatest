@@ -90,6 +90,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
+| [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) (not required\*) | No Fade removes the fading animation that Mojang added between their splash screens. \*This does not help performance, but does make it faster to navigate between certain menus. You do not need to download this mod unless you dislike the fade or if your PC cannot handle it well. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 
 ### Recommended
 
@@ -131,7 +132,6 @@ These are mods that are more dependant on personal preferance than importance.
 | [Fabric Advanced Shift](https://modrinth.com/mod/fabric-advanced-shift) | Fabric Advanced Shift makes sneaking more customizable. For example when you press shift two times it will activate toggle sneak. | [NiiightmareXD](https://github.com/NiiightmareXD) |
 | [Advancement Info](https://modrinth.com/mod/advancementinfo) | Advancement Info makes the advancement menu fit your entire screen, which could make it easier to navigate the menu. |
 | [ApplesSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | AppleSkin lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
-| [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. This does not help performance, but does make it faster to navigate between certain menus. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [Horse Stats Vanilla](https://modrinth.com/mod/horsestatsvanilla) | Horse Stats Vanilla adds the stats of your horse in your horse/donkey inventory HUD, making it easy to see the perks of your horses and donkeys. | [d4m0n](https://github.com/d4rkm0nkey) |
 
 
