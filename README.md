@@ -110,7 +110,6 @@ These are mods that I recommend you to use at all times. While they may not boos
 | [Better Recipe Book](https://www.modrinth.com/mod/brb) | Better Recipe Book brings many QOL improvements to the current recipe book, making it much more useful for different scenarios. | [marshmallow](https://github.com/mrshmllow) |
 | [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | KronHUD adds many useful HUD elements to your screen with an easy to use in game config. | [DarkKronicle](https://github.com/DarkKronicle) |
 | [BetterF3](https://modrinth.com/mod/betterf3) | BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | [cominixo](https://github.com/cominixo) |
-| [Auth Me](https://modrinth.com/mod/auth-me) | This Minecraft mod brings account authentication into the game in the efforts of overcoming the infamous session validation error when connecting to a server. | [Axieum](https://github.com/axieum) |
 | [TNTTime](https://modrinth.com/mod/tnttime) | Displays time left to the TNT explosion above primed TNT. No configuration, zero bells and whistles, lightweight mod that does a thing! Fabric API isn't required here. | [Simon](https://github.com/shateq) |
 | [Fabric Advanced Shift](https://modrinth.com/mod/fabric-advanced-shift) | This Mod Makes Sneaking More Advance for example when You Press Shift Two Times It Going To Toggle Shift And Stay In Sneaking Mode! | [NiiightmareXD](https://github.com/NiiightmareXD) |
 
