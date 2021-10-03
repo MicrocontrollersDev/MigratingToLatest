@@ -90,6 +90,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
+| [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 
 ### Recommended
 
@@ -108,6 +109,9 @@ These are mods that I recommend you to use at all times. While they may not boos
 | [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/) | **1.17.1 Version in beta.** Wyvtils adds many useful utilities to the game, such as nametags, bossbar, action bar, sidebar, hitbox customization and more. | [Qalcyo](https://github.com/Qalcyo) |
 | [Better Recipe Book](https://www.modrinth.com/mod/brb) | Better Recipe Book brings many QOL improvements to the current recipe book, making it much more useful for different scenarios. | [marshmallow](https://github.com/mrshmllow) |
 | [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | KronHUD adds many useful HUD elements to your screen with an easy to use in game config. | [DarkKronicle](https://github.com/DarkKronicle) |
+| [BetterF3](https://modrinth.com/mod/betterf3) | BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | [cominixo](https://github.com/cominixo) |
+| [TNTTime](https://modrinth.com/mod/tnttime) | Displays time left to the TNT explosion above primed TNT. No configuration, zero bells and whistles, lightweight mod that does a thing! Fabric API isn't required here. | [Simon](https://github.com/shateq) |
+| [Fabric Advanced Shift](https://modrinth.com/mod/fabric-advanced-shift) | This Mod Makes Sneaking More Advance for example when You Press Shift Two Times It Going To Toggle Shift And Stay In Sneaking Mode! | [NiiightmareXD](https://github.com/NiiightmareXD) |
 
 ### Other Cool Mods
 
@@ -121,10 +125,10 @@ These are mods that are more dependant on personal preferance than importance.
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) | Iris/Sodium |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Blur creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) | Rainbowify |
 | [Rainbowify](https://modrinth.com/mod/rainbowify) | Replaces the dark gui backrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
-| [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | WaveyCapes breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr9zw](https://github.com/tr7zw) |
 | [Mojangster](https://www.curseforge.com/minecraft/mc-mods/mojangster/files) | Mojangster allows an animated loading screen. Supports custom resourcepacks. | [cal6541](https://github.com/cal6541) | Custom Splash Screen |
-| [Perspective Mod Redux](https://github.com/BackportProjectMC/PerspectiveModRedux) | A simple perspective mod that supports lots of minecraft versions | [The Backport Project MC](https://github.com/BackportProjectMC)
+| [Perspective Mod Redux](https://github.com/BackportProjectMC/PerspectiveModRedux) | A simple perspective mod that supports lots of minecraft versions | [The Backport Project MC](https://github.com/BackportProjectMC) |
+| [Eating Animation](https://modrinth.com/mod/eating-animation) | Eating Animation mod adds a simple sprite animation for vanilla items, when you eat or drink! | [Theoness1](https://github.com/Theoness1) |
 
 ### OptiFine Replacements
 
