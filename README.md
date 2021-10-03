@@ -90,7 +90,6 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
-| [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 
 ### Recommended
 
@@ -100,18 +99,14 @@ These are mods that I recommend you to use at all times. While they may not boos
 | --- | --- | --- | --- |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mod. | [DeathsGun](https://github.com/DeathsGun) |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
-| [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | **No 1.17.1 Yet.** Borderless Fullscreen for Minecraft. Instructions on how to manually update it to 1.17.1 can be found [here](https://www.curseforge.com/minecraft/mc-mods/borderless-mining?comment=65) | [comp500](https://github.com/comp500) |
+| [Borderless Mining Reworked](https://modrinth.com/mod/borderless-mining-reworked) | Borderless Fullscreen for Minecraft. | [comp500](https://github.com/comp500) & [gryzle](https://modrinth.com/user/I7FE0vny) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Not Enough Crashes takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
 | [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/) | **No 1.17.1 Yet.** No Potion Offset prevents your inventory from getting shifted over when you have an active potion effect. | [Shedaniel](https://github.com/shedaniel) |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
-| [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases/) | **1.17.1 Version in beta.** Wyvtils adds many useful utilities to the game, such as nametags, bossbar, action bar, sidebar, hitbox customization and more. | [Qalcyo](https://github.com/Qalcyo) |
 | [Better Recipe Book](https://www.modrinth.com/mod/brb) | Better Recipe Book brings many QOL improvements to the current recipe book, making it much more useful for different scenarios. | [marshmallow](https://github.com/mrshmllow) |
-| [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | KronHUD adds many useful HUD elements to your screen with an easy to use in game config. | [DarkKronicle](https://github.com/DarkKronicle) |
-| [BetterF3](https://modrinth.com/mod/betterf3) | BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | [cominixo](https://github.com/cominixo) |
-| [TNTTime](https://modrinth.com/mod/tnttime) | Displays time left to the TNT explosion above primed TNT. No configuration, zero bells and whistles, lightweight mod that does a thing! Fabric API isn't required here. | [Simon](https://github.com/shateq) |
-| [Fabric Advanced Shift](https://modrinth.com/mod/fabric-advanced-shift) | This Mod Makes Sneaking More Advance for example when You Press Shift Two Times It Going To Toggle Shift And Stay In Sneaking Mode! | [NiiightmareXD](https://github.com/NiiightmareXD) |
+| [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | Better Mount HUD makes some important HUD modules visible when riding a mount. | [Lortseam_](https://www.curseforge.com/members/lortseam_/projects) |
 
 ### Other Cool Mods
 
@@ -129,6 +124,16 @@ These are mods that are more dependant on personal preferance than importance.
 | [Mojangster](https://www.curseforge.com/minecraft/mc-mods/mojangster/files) | Mojangster allows an animated loading screen. Supports custom resourcepacks. | [cal6541](https://github.com/cal6541) | Custom Splash Screen |
 | [Perspective Mod Redux](https://github.com/BackportProjectMC/PerspectiveModRedux) | A simple perspective mod that supports lots of minecraft versions | [The Backport Project MC](https://github.com/BackportProjectMC) |
 | [Eating Animation](https://modrinth.com/mod/eating-animation) | Eating Animation mod adds a simple sprite animation for vanilla items, when you eat or drink! | [Theoness1](https://github.com/Theoness1) |
+| [Wyvtils](https://github.com/Qalcyo/Wyvtils/releases) | **1.17.1 Version in beta.** Wyvtils adds many useful utilities to the game, such as nametags, bossbar, action bar, sidebar, hitbox customization and more. | [Qalcyo](https://github.com/Qalcyo) |
+| [KronHUD](https://www.curseforge.com/minecraft/mc-mods/kronhud) | KronHUD adds many useful HUD elements to your screen with an easy to use in game config. | [DarkKronicle](https://github.com/DarkKronicle) |
+| [BetterF3](https://modrinth.com/mod/betterf3) | BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | [cominixo](https://github.com/cominixo) |
+| [TNTTime](https://modrinth.com/mod/tnttime) | Displays time left to the TNT explosion above primed TNT. | [Simon](https://github.com/shateq) |
+| [Fabric Advanced Shift](https://modrinth.com/mod/fabric-advanced-shift) | Fabric Advanced Shift makes sneaking more customizable. For example when you press shift two times it will activate toggle sneak. | [NiiightmareXD](https://github.com/NiiightmareXD) |
+| [Advancement Info](https://modrinth.com/mod/advancementinfo) | Advancement Info makes the advancement menu fit your entire screen, which could make it easier to navigate the menu. |
+| [ApplesSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | AppleSkin lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
+| [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. This does not help performance, but does make it faster to navigate between certain menus. | [UltimateBoomer](https://github.com/UltimateBoomer) |
+| [Horse Stats Vanilla](https://modrinth.com/mod/horsestatsvanilla) | Horse Stats Vanilla adds the stats of your horse in your horse/donkey inventory HUD, making it easy to see the perks of your horses and donkeys. | [d4m0n](https://github.com/d4rkm0nkey) |
+
 
 ### OptiFine Replacements
 
