@@ -133,6 +133,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Advancement Info](https://modrinth.com/mod/advancementinfo) | Advancement Info makes the advancement menu fit your entire screen, which could make it easier to navigate the menu. |
 | [ApplesSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | AppleSkin lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
 | [Horse Stats Vanilla](https://modrinth.com/mod/horsestatsvanilla) | Horse Stats Vanilla adds the stats of your horse in your horse/donkey inventory HUD, making it easy to see the perks of your horses and donkeys. | [d4m0n](https://github.com/d4rkm0nkey) |
+| [Clear Despawn](https://modrinth.com/mod/cleardespawn) | Clear Despawn makes it more obvious on which items are about to despawn by making them blink exponentially faster after a certain time. | [StrikerRockers](StrikerRockers) |
 
 
 ### OptiFine Replacements
