@@ -74,7 +74,7 @@ These are essential mods that are required for some fabric mods as dependencies.
 
 ### Performance
 
-These are mods that are needed for playing the latest versions of Minecraft at a reasonable FPS*. These will also help decrease frame times, hopefully eliminating spikes or stuttering.
+These are mods that are needed for playing the latest versions of Minecraft at a reasonable FPS. These will also help decrease frame times, hopefully eliminating spikes or stuttering.
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
@@ -91,8 +91,16 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
 | [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader) | Lazy Language Loader improves loading times when changing your language in game by only reloading the required resources. | [chachy](https://github.com/ChachyDev) |
-| [ResolutionControl+](https://www.modrinth.com/mod/resolution-control-plus) | Allows you to reduce the resolution of the game textures. Only recommended to low-end PC's. | [UltimateBoomer](https://github.com/UltimateBoomer) |
-| [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) (not required\*) | No Fade removes the fading animation that Mojang added between their splash screens. \*This does not help performance, but does make it faster to navigate between certain menus. You do not need to download this mod unless you dislike the fade or if your PC cannot handle it well. | [UltimateBoomer](https://github.com/UltimateBoomer) |
+
+### Other Performance Mods
+
+These are mods that are only required for a small number of select people, such as those on ancient PC's that are okay with degrading video quality for performance, or for those on specific operating systems.
+
+| Mod | Description | Author | Incompatibilities |
+| --- | --- | --- | --- |
+| [retiNO](https://www.curseforge.com/minecraft/mc-mods/retino) | For Mac users only. retiNO renders the game in half resolution for those with Apple's retina displays, greatly improving performance. | [juliand665](https://github.com/juliand665)
+| [ResolutionControl+](https://www.modrinth.com/mod/resolution-control-plus) | Allows you to change the resolution of the game separately from the HUD. This can aid low end PCs by lowering the resolution of the game. | [UltimateBoomer](https://github.com/UltimateBoomer) |
+| [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on your low end machine. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 
 ### Recommended
 
@@ -102,7 +110,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | --- | --- | --- | --- |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mods. | [DeathsGun](https://github.com/DeathsGun) |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
-| [Borderless Mining Reworked](https://modrinth.com/mod/borderless-mining-reworked) | Borderless Fullscreen for Minecraft. | [comp500](https://github.com/comp500) & [gryzle](https://modrinth.com/user/I7FE0vny) |
+| [Borderless Mining Reworked](https://modrinth.com/mod/borderless-mining-reworked "https://www.curseforge.com/minecraft/mc-mods/borderless-mining") | Borderless Fullscreen for Minecraft. | [comp500](https://github.com/comp500) & [gryzle](https://modrinth.com/user/I7FE0vny) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Not Enough Crashes takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
@@ -118,7 +126,7 @@ These are mods that are more dependant on personal preferance than importance.
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Custom Selection Box](https://github.com/NKID00/CustomSelectionBox-New/releases/latest) | **Currently using an updated fork.** Custom Selection Box is equivalent to 1.8's block overlay, allowing you to customize the outline when highlighting blocks. | [Shedaniel](https://github.com/shedaniel) & [NKID00](https://github.com/NKID00) |
+| [Custom Selection Box](https://github.com/NKID00/CustomSelectionBox-New/releases/latest "https://github.com/shedaniel/CustomSelectionBox-New") | Custom Selection Box is equivalent to 1.8's block overlay, allowing you to customize the outline when highlighting blocks. | [Shedaniel](https://github.com/shedaniel) & [NKID00](https://github.com/NKID00) |
 | [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Slight GUI Modifications adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) | Iris/Sodium |
@@ -170,7 +178,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 These are mods that are either too experimental or are just poorly made that I do not recommend using unless you know what you are doing.
 | Mod | Reasoning | Author |
 | --- | --- | --- |
-| DashLoader | DashLoader Caches all of Minecrafts content to load the game much faster. However, this causes many incompatibilities with a ton of mods, including Sodium. For this reason, it is recommended to not use it until it achieves better compatibility. It is also not very useful to people who change their mods and resourcepacks frequently. | [alphaqu](https://github.com/alphaqu) |
+| DashLoader | DashLoader Caches all of Minecrafts content to load the game much faster. However, this causes many incompatibilities with a ton of mods. For this reason, it is recommended to not use it until it achieves better compatibility. It is also not very useful to people who change their mods and resourcepacks frequently. | [alphaqu](https://github.com/alphaqu) |
 | Iris Starline | The Iris Starline branch is a very experimental branch that allows you to access the config options for shaders. The original author of Iris is currently creating a safer method to access this config and the starline branch should only be used for testing, not for actual use. | [HyperCubeMC](https://github.com/HyperCubeMC)
 | C2ME | C2ME is an extremely expiremental mod that attempts to multithread chunk generation, I/O, and loading. It is deemed not production ready by the authors and may corrupt worlds or cause other issues. It also comes with its own list of incompatible mods. | [ishlandbukkit](https://github.com/ishlandbukkit) |
 | FastMathFabric | FastMathFabric is a joke mod meant to port the cursedness of OptiFine's fast math feature to fabric. It is incompatible with other mods and will not provide a performance gain, therefore leaving no reason for users to use it. It is also most likely bannable on many servers. | [FwuffyPetsOwO](https://github.com/FwuffyPetsOwO) |
@@ -178,6 +186,7 @@ These are mods that are either too experimental or are just poorly made that I d
 ## Contributors
 
 - [BobIsMyManager](https://github.com/BobIsMyManager)
+- [glai](https://github.com/glaicodes)
 - [karmette](https://github.com/karmette)
 - [nacrt](https://github.com/nacrt)
 - [NoPro2024](https://github.com/NoPro2024)
