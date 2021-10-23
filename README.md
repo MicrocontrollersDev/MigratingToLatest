@@ -91,6 +91,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. | [tr9zw](https://github.com/tr7zw) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
 | [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader) | Lazy Language Loader improves loading times when changing your language in game by only reloading the required resources. | [chachy](https://github.com/ChachyDev) |
+| [ResolutionControl+](https://www.modrinth.com/mod/resolution-control-plus) | Allows you to reduce the resolution of the game textures. Only recommended to low-end PC's. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) (not required\*) | No Fade removes the fading animation that Mojang added between their splash screens. \*This does not help performance, but does make it faster to navigate between certain menus. You do not need to download this mod unless you dislike the fade or if your PC cannot handle it well. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 
 ### Recommended
