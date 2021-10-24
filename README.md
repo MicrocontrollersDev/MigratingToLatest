@@ -84,7 +84,6 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Hydrogen](https://modrinth.com/mod/hydrogen) | Hydrogen helps reduce the amount of memory the game takes up. While this is mostly meant for large modpacks, it does not hurt using it for a vanilla experience. | [CaffeineMC](https://github.com/CaffeineMC) | DashLoader |
 | [Lithium](https://modrinth.com/mod/lithium) | Lithium helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Starlight](https://www.modrinth.com/mod/starlight) | Starlight completely rewrites the light engine to make loading chunks much quicker. | [SpottedLeaf](https://github.com/Spottedleaf) |
-| [Krypton](https://modrinth.com/mod/krypton) | Krypton optimizes network stacking and entity tracking, as well as other micro-optimizations. | [astei](https://github.com/astei) |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | LazyDFU prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | DashLoader |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
@@ -101,6 +100,7 @@ These are mods that are only required for a small number of select people, such 
 | [retiNO](https://www.curseforge.com/minecraft/mc-mods/retino) | For Mac users only. retiNO renders the game in half resolution for those with Apple's retina displays, greatly improving performance. | [juliand665](https://github.com/juliand665)
 | [ResolutionControl+](https://www.modrinth.com/mod/resolution-control-plus) | Allows you to change the resolution of the game separately from the HUD. This can aid low end PCs by lowering the resolution of the game. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on your low end machine. | [UltimateBoomer](https://github.com/UltimateBoomer) |
+| [Krypton](https://modrinth.com/mod/krypton) | This mod is bannable on Hypixel and most likely other servers. Although it is probably not detectable, it is still against Hypixel's rules and the mod developer does not recommend using it on Hypixel. However, this mod works great for private servers. Krypton optimizes network stacking and entity tracking, as well as other micro-optimizations. | [astei](https://github.com/astei) |
 
 ### Recommended
 
