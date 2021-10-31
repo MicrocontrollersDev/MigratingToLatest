@@ -193,4 +193,5 @@ These are mods that are either too experimental or are just poorly made that I d
 - [nacrt](https://github.com/nacrt)
 - [NoPro2024](https://github.com/NoPro2024)
 - [Lisena](https://github.com/Lisenaaaa)
+- [Lulonaut](https://github.com/Lulonaut)
 - [Wyvest](https://github.com/Wyvest)
