@@ -119,6 +119,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | [Better Recipe Book](https://www.modrinth.com/mod/brb) | Better Recipe Book brings many QOL improvements to the current recipe book, making it much more useful for different scenarios. | [marshmallow](https://github.com/mrshmllow) |
 | [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | Better Mount HUD makes some important HUD modules visible when riding a mount. | [Lortseam_](https://www.curseforge.com/members/lortseam_/projects) |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | This is a simple mod which prevents tooltips from becoming too long and going off the screen. | [kyrptonaught](https://github.com/kyrptonaught) |
+| [CompactChat](https://modrinth.com/mod/compactchat) | CompactChat compacts duplicate chat messages to help clean your chat. | [cbyrne](https://github.com/cbyrneee) |
 
 ### Other Cool Mods
 
