@@ -143,12 +143,14 @@ These are mods that are more dependant on personal preferance than importance.
 | [TNTTime](https://modrinth.com/mod/tnttime) | Displays time left to the TNT explosion above primed TNT. | [Simon](https://github.com/shateq) |
 | [Fabric Advanced Shift](https://modrinth.com/mod/fabric-advanced-shift) | Fabric Advanced Shift makes sneaking more customizable. For example when you press shift two times it will activate toggle sneak. | [NiiightmareXD](https://github.com/NiiightmareXD) |
 | [Advancement Info](https://modrinth.com/mod/advancementinfo) | Advancement Info makes the advancement menu fit your entire screen, which could make it easier to navigate the menu. | [Giselbaer](https://github.com/gbl)
-| [ApplesSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | AppleSkin lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
+| [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | AppleSkin lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
 | [Horse Stats Vanilla](https://modrinth.com/mod/horsestatsvanilla) | Horse Stats Vanilla adds the stats of your horse in your horse/donkey inventory HUD, making it easy to see the perks of your horses and donkeys. | [d4m0n](https://github.com/d4rkm0nkey) |
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | Clear Despawn makes it more obvious on which items are about to despawn by making them blink exponentially faster after a certain time. | [StrikerRockers](https://github.com/StrikerRockers-Mods) |
 | [Rebind All the Keys](https://modrinth.com/mod/rebind-all-the-keys) | Rebind All the Keys allows you to change the keybinds to certain functions that were not previously changable. | [Minenash](https://github.com/Minenash) |
 | [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica/files) | Litematica is a schematic mod allowing you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
 | [MiniHUD](https://github.com/maruohon/minihud) | MiniHUD is a customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
+| [Clear Hitboxes](https://modrinth.com/mod/clearhitboxes) | Clear Hitboxes is a customization mod that lets you change the colors of the Minecraft F3+B Hitbox feature. | [splzh](https://github.com/splzh) |
+https://modrinth.com/mod/clearhitboxes
 
 
 ### OptiFine Replacements
