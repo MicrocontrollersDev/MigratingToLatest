@@ -149,9 +149,6 @@ These are mods that are more dependant on personal preferance than importance.
 | [Rebind All the Keys](https://modrinth.com/mod/rebind-all-the-keys) | Rebind All the Keys allows you to change the keybinds to certain functions that were not previously changable. | [Minenash](https://github.com/Minenash) |
 | [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica/files) | Litematica is a schematic mod allowing you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
 | [MiniHUD](https://github.com/maruohon/minihud) | MiniHUD is a customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
-| [Clear Hitboxes](https://modrinth.com/mod/clearhitboxes) | Clear Hitboxes is a customization mod that lets you change the colors of the Minecraft F3+B Hitbox feature. | [splzh](https://github.com/splzh) |
-https://modrinth.com/mod/clearhitboxes
-
 
 ### OptiFine Replacements
 
