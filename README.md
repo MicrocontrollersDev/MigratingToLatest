@@ -149,6 +149,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Rebind All the Keys](https://modrinth.com/mod/rebind-all-the-keys) | Rebind All the Keys allows you to change the keybinds to certain functions that were not previously changable. | [Minenash](https://github.com/Minenash) |
 | [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica/files) | Litematica is a schematic mod allowing you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
 | [MiniHUD](https://github.com/maruohon/minihud) | MiniHUD is a customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
+| [AxolotlViewer](https://modrinth.com/mod/axolotlviewer) | AxolotlViewer lets you know which axolotl color you have stored in your water bucket by changing its texture and also adding a tooltip. | [cyberne](https://github.com/cbyrneee/AxolotlViewer)
 
 ### OptiFine Replacements
 
