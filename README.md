@@ -1,3 +1,5 @@
+This has not been fully updated to 1.18 yet. This is still a heavy WIP and much of the information about updated mods is wrong.
+
 # Migrating to 1.18
 
 # Note
