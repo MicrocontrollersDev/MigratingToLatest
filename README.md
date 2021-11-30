@@ -1,8 +1,8 @@
-# Migrating to 1.17
+# Migrating to 1.18
 
 # Note
 
-[Join my Discord for news regarding the development of this repository!](https://discord.gg/eXkMKCqtfQ)
+[Join my Discord for news regarding the development of this repository!](https://inv.wtf/micro)
 
 If you would like to contribute, please make a PR.  
 Some notes:
@@ -25,7 +25,7 @@ While there is a Fabric compatibility layer for OptiFine known as OptiFabric, it
 
 ### Why no longer Forge?
 
-Forge has always been less than ideal for performance due to its large overhead for server-sided modding, which is not necessary for users wishing for a vanilla compatible experience. Fabric on the other hand is extremely lightweight and is practically identical to vanilla. It's also considered to be much easier to make mods for and is being used as the stepping tool for [Quilt](https://quiltmc.org/faq), an in-progress mod loader which will provide many more benefits to modders.
+Forge has always been less than ideal for performance due to its large overhead for server-sided modding, which is not necessary for users wishing for a vanilla compatible experience. Fabric on the other hand is extremely lightweight and is practically identical to vanilla. It's also considered to be much easier to make mods for and is being used as the stepping tool for [Quilt](https://quiltmc.org/faq), an in-progress mod loader which will provide many more benefits to modders and users alike.
 
 ## Installing Fabric
 
@@ -78,11 +78,11 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Sodium](https://irisshaders.github.io "https://modrinth.com/mod/sodium") | **Currently comes bundled with Iris!** An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [CaffeineMC](https://github.com/CaffeineMC) | DashLoader |
+| [Sodium](https://modrinth.com/mod/sodium) | **Currently comes bundled with Iris!** An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [CaffeineMC](https://github.com/CaffeineMC) | DashLoader |
 | [Iris](https://irisshaders.github.io) | Iris is a shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [IrisShaders](https://github.com/IrisShaders) |
 | [Indium](https://modrinth.com/mod/indium) | Indium adds FRAPI support to Sodium, making it necessary to use for some of the mods on this list to work. This mod is merely temporary and will be removed once Sodium adds FRAPI support itself. | [comp500](https://github.com/comp500) |
 | [Hydrogen](https://modrinth.com/mod/hydrogen) | Hydrogen helps reduce the amount of memory the game takes up. While this is mostly meant for large modpacks, it does not hurt using it for a vanilla experience. | [CaffeineMC](https://github.com/CaffeineMC) |
-| [Lithium](https://modrinth.com/mod/lithium) | Lithium helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) |
+| [Lithium](https://modrinth.com/mod/lithium) | Lithium helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) | FastMathFabric |
 | [Starlight](https://www.modrinth.com/mod/starlight) | Starlight completely rewrites the light engine to make loading chunks much quicker. | [SpottedLeaf](https://github.com/Spottedleaf) |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | LazyDFU prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | DashLoader |
@@ -181,7 +181,7 @@ These are mods that are either too experimental or are just poorly made that I d
 | Mod | Reasoning | Author |
 | --- | --- | --- |
 | DashLoader | DashLoader Caches all of Minecrafts content to load the game much faster. However, it currently has a few incompatibilities, which are being worked on. For this reason, it is recommended to not use it until most of these issues are resolved. It is also not very useful to people who change their mods and resourcepacks frequently. | [alphaqu](https://github.com/alphaqu) |
-| Iris Starline | The Iris Starline branch is a very experimental branch that allows you to access the config options for shaders. The original author of Iris is currently creating a safer method to access this config and the starline branch should only be used for testing, not for actual use. | [HyperCubeMC](https://github.com/HyperCubeMC)
+| Iris Starline | The Iris Starline branch is a very experimental branch that allows you to access the config options for shaders. The original author of Iris is currently creating a safer method to access this config and will soon make Starline obsolete for users. | [HyperCubeMC](https://github.com/HyperCubeMC)
 | C2ME | C2ME is an extremely expiremental mod that attempts to multithread chunk generation, I/O, and loading. It is deemed not production ready by the authors and may corrupt worlds or cause other issues. It also comes with its own list of incompatible mods. | [ishlandbukkit](https://github.com/ishlandbukkit) |
 | FastMathFabric | FastMathFabric is a joke mod meant to port the cursedness of OptiFine's fast math feature to fabric. It is incompatible with other mods and will not provide a performance gain, therefore leaving no reason for users to use it. It is also most likely bannable on many servers. | [FwuffyPetsOwO](https://github.com/FwuffyPetsOwO) |
 
