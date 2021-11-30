@@ -82,7 +82,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | --- | --- | --- | --- |
 | [Sodium](https://modrinth.com/mod/sodium) | An all around performance mod, Sodium allows users to play the latest versions of Minecraft with high FPS, completely outperforming OptiFine, with some users seeing up to 8x their vanilla frames. Sodium also drastically improve visuals, providing a much better gameplay experience. | [CaffeineMC](https://github.com/CaffeineMC) | DashLoader |
 | [Iris](https://irisshaders.github.io) | Iris is a shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [IrisShaders](https://github.com/IrisShaders) |
-| [Indium](https://modrinth.com/mod/indium) | **No 1.18 Yet** Indium adds FRAPI support to Sodium, making it necessary to use for some of the mods on this list to work. This mod is merely temporary and will be removed once Sodium adds FRAPI support itself. | [comp500](https://github.com/comp500) |
+| [Indium](https://modrinth.com/mod/indium) | Indium adds FRAPI support to Sodium, making it necessary to use for some of the mods on this list to work. This mod is merely temporary and will be removed once Sodium adds FRAPI support itself. | [comp500](https://github.com/comp500) |
 | [Hydrogen](https://modrinth.com/mod/hydrogen) | **No 1.18 Yet** Hydrogen helps reduce the amount of memory the game takes up. While this is mostly meant for large modpacks, it does not hurt using it for a vanilla experience. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Lithium](https://modrinth.com/mod/lithium) | **No 1.18 Yet** Lithium helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) | FastMathFabric |
 | [Starlight](https://www.modrinth.com/mod/starlight) | **No 1.18 Yet** Starlight completely rewrites the light engine to make loading chunks much quicker. | [SpottedLeaf](https://github.com/Spottedleaf) |
@@ -160,22 +160,22 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
 | [Essential](https://essential.gg) | Zoom. More customizable than OptiFine's. | [Sk1erLLC](https://sk1er.club/) & [SparkUniverse](https://sparkuniverse.com/) |
-| [Bobby](https://modrinth.com/mod/bobby) | Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702) | Starlight |
+| [Bobby](https://modrinth.com/mod/bobby) | **No 1.18 Yet** Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702) | Starlight |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
-| [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Smart leaves. | [MidnightDust](https://github.com/TeamMidnightDust) |
-| [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
-| [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
-| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | Custom loading screen colors. Does not support OptiFine format. | [MidnightDust](https://github.com/TeamMidnightDust) |
+| [Cull Leaves](https://modrinth.com/mod/cull-leaves) | **No 1.18 Yet** Smart leaves. | [MidnightDust](https://github.com/TeamMidnightDust) |
+| [Fabrishot](https://modrinth.com/mod/fabrishot) | **No 1.18 Yet** Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
+| [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies) | **No 1.18 Yet** Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
+| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | **No 1.18 Yet** Custom loading screen colors. Does not support OptiFine format. | [MidnightDust](https://github.com/TeamMidnightDust) |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
-| [Continuity](https://modrinth.com/mod/continuity) | CTM. Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
-| [Animatica](https://modrinth.com/mod/animatica) | Animated textures. Supports OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
-| [Semitranslucency Fix](https://modrinth.com/mod/semitranslucency) | Fixes semitranslucent textures. Honestly have no clue if OptiFine does this but it probably does idk. | [ruvaldk](https://github.com/ruvaldak) |
-| [CIT Resewn](https://modrinth.com/mod/cit-resewn) | CIT. Supports OptiFine format. | [SHsuperCM](https://github.com/SHsuperCM) |
-| [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
+| [Continuity](https://modrinth.com/mod/continuity) | **No 1.18 Yet** CTM. Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
+| [Animatica](https://modrinth.com/mod/animatica) | **No 1.18 Yet** Animated textures. Supports OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
+| [Semitranslucency Fix](https://modrinth.com/mod/semitranslucency) | **No 1.18 Yet** Fixes semitranslucent textures. Honestly have no clue if OptiFine does this but it probably does idk. | [ruvaldk](https://github.com/ruvaldak) |
+| [CIT Resewn](https://modrinth.com/mod/cit-resewn) | **No 1.18 Yet** CIT. Supports OptiFine format. | [SHsuperCM](https://github.com/SHsuperCM) |
+| [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | **No 1.18 Yet** Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
 | [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | **No 1.18 Yet.** Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
 | [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.18 Yet.** Varied mob textures. Does not support OptiFine format. | [Digifox03](https://github.com/Digifox03/variedMobs) |
-| [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | Custom entity models. Supports OptiFine format. | [dorianpb](https://github.com/dorianpb) |
+| [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | **No 1.18 Yet** Custom entity models. Supports OptiFine format. | [dorianpb](https://github.com/dorianpb) |
 
 ### Unrecommended Mods
 
