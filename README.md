@@ -122,6 +122,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | Better Mount HUD makes some important HUD modules visible when riding a mount. | [Lortseam_](https://www.curseforge.com/members/lortseam_/projects) |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | **No 1.18 Yet** This is a simple mod which prevents tooltips from becoming too long and going off the screen. | [kyrptonaught](https://github.com/kyrptonaught) |
 | [CompactChat](https://modrinth.com/mod/compactchat) | **No 1.18 Yet** CompactChat compacts duplicate chat messages to help clean your chat. | [cbyrne](https://github.com/cbyrneee) |
+| [No Telemetry](https://modrinth.com/mod/no-telemetry) | This mod removes the telemetry that Mojang has added in 1.18. This mod is not required if you are using MultiMC as your launcher. | [kb1000](https://github.com/kb-1000) |
 
 ### Other Cool Mods
 
