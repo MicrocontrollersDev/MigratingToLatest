@@ -114,13 +114,13 @@ These are mods that I recommend you to use at all times. While they may not boos
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | **No 1.18 Yet** Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Borderless Mining Reworked](https://modrinth.com/mod/borderless-mining-reworked "https://www.curseforge.com/minecraft/mc-mods/borderless-mining") | **No 1.18 Yet** Borderless Fullscreen for Minecraft. | [comp500](https://github.com/comp500) & [gryzle](https://modrinth.com/user/I7FE0vny) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Not Enough Crashes takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
-| [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | **No 1.18 Yet** CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
+| [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | **No 1.18 Yet** Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
 | [No Potion Offset](https://www.curseforge.com/minecraft/mc-mods/no-potion-offset/) | **No 1.18 Yet** No Potion Offset prevents your inventory from getting shifted over when you have an active potion effect. | [Shedaniel](https://github.com/shedaniel) |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | **No 1.18 Yet** Controlling completely revamps Minecraft's controls menu, making it much easier to navigate and change keys. | [Jaredllll08](https://github.com/jaredlll08) |
 | [Better Recipe Book](https://www.modrinth.com/mod/brb) | **No 1.18 Yet** Better Recipe Book brings many QOL improvements to the current recipe book, making it much more useful for different scenarios. | [marshmallow](https://github.com/mrshmllow) |
 | [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | Better Mount HUD makes some important HUD modules visible when riding a mount. | [Lortseam_](https://www.curseforge.com/members/lortseam_/projects) |
-| [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | **No 1.18 Yet** This is a simple mod which prevents tooltips from becoming too long and going off the screen. | [kyrptonaught](https://github.com/kyrptonaught) |
+| [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | This is a simple mod which prevents tooltips from becoming too long and going off the screen. | [kyrptonaught](https://github.com/kyrptonaught) |
 | [CompactChat](https://modrinth.com/mod/compactchat) | **No 1.18 Yet** CompactChat compacts duplicate chat messages to help clean your chat. | [cbyrne](https://github.com/cbyrneee) |
 | [No Telemetry](https://modrinth.com/mod/no-telemetry) | This mod removes the telemetry that Mojang has added in 1.18. This mod is not required if you are using MultiMC as your launcher. | [kb1000](https://github.com/kb-1000) |
 
@@ -172,7 +172,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Continuity](https://modrinth.com/mod/continuity) | **No 1.18 Yet** CTM. Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Animatica](https://modrinth.com/mod/animatica) | **No 1.18 Yet** Animated textures. Supports OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
 | [Semitranslucency Fix](https://modrinth.com/mod/semitranslucency) | **No 1.18 Yet** Fixes semitranslucent textures. Honestly have no clue if OptiFine does this but it probably does idk. | [ruvaldk](https://github.com/ruvaldak) |
-| [CIT Resewn](https://modrinth.com/mod/cit-resewn) | **No 1.18 Yet** CIT. Supports OptiFine format. | [SHsuperCM](https://github.com/SHsuperCM) |
+| [CIT Resewn](https://modrinth.com/mod/cit-resewn) | CIT. Supports OptiFine format. | [SHsuperCM](https://github.com/SHsuperCM) |
 | [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | **No 1.18 Yet** Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
 | [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | **No 1.18 Yet.** Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
 | [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.18 Yet.** Varied mob textures. Does not support OptiFine format. | [Digifox03](https://github.com/Digifox03/variedMobs) |
