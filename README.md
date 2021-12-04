@@ -112,7 +112,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | --- | --- | --- | --- |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mods. | [DeathsGun](https://github.com/DeathsGun) |
 | [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | **No 1.18 Yet** Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
-| [Borderless Mining Reworked](https://modrinth.com/mod/borderless-mining-reworked "https://www.curseforge.com/minecraft/mc-mods/borderless-mining") | **No 1.18 Yet** Borderless Fullscreen for Minecraft. | [comp500](https://github.com/comp500) & [gryzle](https://modrinth.com/user/I7FE0vny) |
+| [Borderless Mining](https://modrinth.com/mod/borderless-mining) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [comp500](https://github.com/comp500) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Not Enough Crashes takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | **No 1.18 Yet** Smooth Scrolling Everywhere makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
@@ -134,7 +134,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | **No 1.18 Yet** No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Slight GUI Modifications adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | **No 1.18 Yet** Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) | Iris/Sodium |
-| [Blur](https://modrinth.com/mod/blur-fabric) | **No 1.18 Yet** Blur creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) | Rainbowify |
+| [Blur](https://modrinth.com/mod/blur-fabric) | Blur creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) | Rainbowify |
 | [Rainbowify](https://modrinth.com/mod/rainbowify) | **No 1.18 Yet** Replaces the dark gui backrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
 | [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | WaveyCapes breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr9zw](https://github.com/tr7zw) |
 | [Mojangster](https://www.curseforge.com/minecraft/mc-mods/mojangster) | **No 1.18 Yet** Mojangster allows an animated loading screen. Supports custom resourcepacks. | [cal6541](https://github.com/cal6541) | Custom Splash Screen |
@@ -169,7 +169,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Clear Skies](https://www.curseforge.com/minecraft/mc-mods/clear-skies) | **No 1.18 Yet** Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
 | [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | **No 1.18 Yet** Custom loading screen colors. Does not support OptiFine format. | [MidnightDust](https://github.com/TeamMidnightDust) |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
-| [Continuity](https://modrinth.com/mod/continuity) | **No 1.18 Yet** CTM. Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
+| [Continuity](https://modrinth.com/mod/continuity) | CTM. Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Animatica](https://modrinth.com/mod/animatica) | **No 1.18 Yet** Animated textures. Supports OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
 | [Semitranslucency Fix](https://modrinth.com/mod/semitranslucency) | **No 1.18 Yet** Fixes semitranslucent textures. Honestly have no clue if OptiFine does this but it probably does idk. | [ruvaldk](https://github.com/ruvaldak) |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | CIT. Supports OptiFine format. | [SHsuperCM](https://github.com/SHsuperCM) |
