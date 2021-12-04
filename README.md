@@ -70,7 +70,7 @@ These are essential mods that are required for some fabric mods to work.
 | Mod | Description | Author |
 | --- | --- | --- |
 | [Fabric API](https://modrinth.com/mod/fabric-api) | Required for most Fabric mods. | [Fabric Team](https://github.com/FabricMC) |
-| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | **No 1.18 Yet** Required for mods that use Kotlin. | [Fabric Team](https://github.com/FabricMC) |
+| [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | Required for mods that use Kotlin. The 1.17 version works on 1.18. | [Fabric Team](https://github.com/FabricMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods ingame, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
 | [Essential](https://essential.gg/download)| Essential allows you to customize your character, chat with friends, and invite them to your worlds. It also adds a few quality of life features, such as zoom. | [Sk1erLLC](https://sk1er.club/) & [SparkUniverse](https://sparkuniverse.com/) |
 
