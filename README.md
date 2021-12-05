@@ -172,7 +172,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Animatica](https://modrinth.com/mod/animatica) | **No 1.18 Yet** Animated textures. Supports OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
 | [Semitranslucency Fix](https://modrinth.com/mod/semitranslucency) | **No 1.18 Yet** Fixes semitranslucent textures. Honestly have no clue if OptiFine does this but it probably does idk. | [ruvaldk](https://github.com/ruvaldak) |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | CIT. Supports OptiFine format. | [SHsuperCM](https://github.com/SHsuperCM) |
-| [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | **No 1.18 Yet** Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
+| [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
 | [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent-fabric) | **No 1.18 Yet.** Transparent textures. Does not support OptiFine format. | [Trikzon](https://github.com/Trikzon) |
 | [Varied Mob Textures](https://www.curseforge.com/minecraft/mc-mods/varied-mob-textures) | **No 1.18 Yet.** Varied mob textures. Does not support OptiFine format. | [Digifox03](https://github.com/Digifox03/variedMobs) |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | **No 1.18 Yet** Custom entity models. Supports OptiFine format. | [dorianpb](https://github.com/dorianpb) |
