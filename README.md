@@ -1,19 +1,13 @@
-This list has not been fully updated to 1.18 yet. This is still a heavy WIP and much of the information about updated mods is/will be wrong as mods continue to update.
+# Migrating to Latest (1.18)
 
-# Migrating to 1.18
-
-# Note
-
-[Join my Discord for news regarding the development of this repository!](https://inv.wtf/micro)
-
-If you would like to contribute, please make a PR.  
-Some notes:
-- Leave your name and GitHub link in the credits section in alphabetical order, even for a tiny change
-- Please try to use Modrinth/GitHub over Curseforge when applicable
-- Please use a GitHub link instead of a Modrinth link for Author credit and avoid using Curseforge as best you can, and use the modder organization when applicable
-- Make sure that the option to allow me to make changes to your PR is enabled
+This is a comprehensive guide on how to download Fabric and mods for it. It also provides direct links to many mods that you may find useful.
 
 ## Introduction
+
+If you want more information on Fabric, why Forge/OptiFine are not recommended, or need help downloading Fabric and mods for it, click on the `Introduction` drop down below. If you are just here to see the mods list, continue below.
+
+<details>
+    <summary>Introduction</summary>
 
 ### The Situation
 
@@ -29,7 +23,7 @@ While there is a Fabric compatibility layer for OptiFine known as OptiFabric, it
 
 Forge has always been less than ideal for performance due to its large overhead for server-sided modding, which is not necessary for users wishing for a vanilla compatible experience. Fabric on the other hand is extremely lightweight and is practically identical to vanilla. It's also considered to be much easier to make mods for and is being used as the stepping tool for [Quilt](https://quiltmc.org/faq), an in-progress mod loader which will provide many more benefits to modders and users alike.
 
-## Installing Fabric
+### Installing Fabric
 
 This is only for the default Minecraft launcher. If you are using MultiMC, you can easily create a new profile and install fabric to it.
 
@@ -48,7 +42,21 @@ This is only for the default Minecraft launcher. If you are using MultiMC, you c
 4. Once Fabric is finished installing, open your Minecraft launcher and click on the profiles button at the bottom left corner. Select the Fabric profile, it should be called something like `fabric-loader-1.18.x`. Then hit `PLAY` to start playing!
     - If you do not see the profile, try exiting and reopening the Minecraft launcher. If this also does not work, go to the `Installations` tab in the Minecraft launcher and make sure the `Modded` option is ticked on the rop right corner. If it still does not show up, create your own installation by clicking the `New installation` button, and selecting your desired fabric version in the `Version` dropdown. Then press `Create` and launch this installation.
 
-## Installing Mods on Fabric
+### Downloading Mods for Fabric
+
+This list currently consists of three different sources for mod downloads: Modrinth, GitHub, and CurseForge. This section will explain how to download mods from each of them.
+
+- Modrinth:
+    - On the mod's page, click on the `Versions` tab. From there, you can see all versions of the mods. Make sure you download the correct one based on the Minecraft version and mod loader, and click on the download icon for the newest version of the mod that fits both previous criteria.
+
+- GitHub:
+    - For your convenience, all GitHub links lead directly to the latest version of the mod. From here, click on the `Assets` drop down if needed, then download the jar that does not include `-sources` or `-dev` in the name.
+        - If a link does not redirect you to the latest version but rather the main page, on the right side of the page, you should find a tag icon with the latest version. 
+
+- CurseForge:
+    - Click on the `Files` tab. Look for the versions of the mod with the Minecraft version you desire and is for the Fabric mod loader, and download the latest one. You can also press the `View All` button, then sort the game version by mod loader or Minecraft version to make finding the correct jar easier.
+
+### Installing Mods on Fabric
 
 This is only for the default .minecraft directory. If you have made a custom directory, you likely do not need this guide.
 
@@ -61,6 +69,8 @@ This is only for the default .minecraft directory. If you have made a custom dir
     - If this folder does not exist, create it.
 3. Place all of the mods you want to use into this folder (note that all mods you install must be for Fabric 1.18 or they will not work).
 
+</details>
+    
 ## Mods
 
 ### Dependencies
@@ -132,7 +142,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Custom Selection Box](https://github.com/NKID00/CustomSelectionBox-New/releases/latest "https://github.com/shedaniel/CustomSelectionBox-New") | **No 1.18 Yet** Custom Selection Box is equivalent to 1.8's block overlay, allowing you to customize the outline when highlighting blocks. | [Shedaniel](https://github.com/shedaniel) & [NKID00](https://github.com/NKID00) |
 | [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | **No 1.18 Yet** No View Bobbing Screen Shake removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Slight GUI Modifications adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
-| [Colored Lights](https://modrinth.com/mod/colored-lights) | **No 1.18 Yet** Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) | Iris/Sodium |
+| [Colored Lights](https://modrinth.com/mod/colored-lights) | **No 1.18 Yet** Colored Lights adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) | Sodium |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Blur creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) | Rainbowify |
 | [Rainbowify](https://modrinth.com/mod/rainbowify) | **No 1.18 Yet** Replaces the dark gui backrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
 | [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | WaveyCapes breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr9zw](https://github.com/tr7zw) |
@@ -186,7 +196,19 @@ These are mods that are too experimental or unstable that I do not recommend usi
 | DashLoader | DashLoader Caches all of Minecrafts content to load the game much faster. However, it currently has a few incompatibilities, which are being worked on. For this reason, it is recommended to not use it until most of these issues are resolved. It is also not very useful to people who change their mods and resourcepacks frequently. | [alphaqu](https://github.com/alphaqu) |
 | Iris Starline | The Iris Starline branch is a very experimental branch that allows you to access the config options for shaders. The original author of Iris is currently creating a safer method to access this config and will soon make Starline obsolete for users. | [HyperCubeMC](https://github.com/HyperCubeMC)
 | C2ME | C2ME is an extremely expiremental mod that attempts to multithread chunk generation, I/O, and loading. It is deemed not production ready by the authors and may corrupt worlds or cause other issues. It also comes with its own list of incompatible mods. | [ishlandbukkit](https://github.com/ishlandbukkit) |
-| FastMathFabric | FastMathFabric is a joke mod meant to port the cursedness of OptiFine's fast math feature to fabric. It is incompatible with other mods and will not provide a performance gain, therefore leaving no reason for users to use it. It is also most likely bannable on many servers. | [FwuffyPetsOwO](https://github.com/FwuffyPetsOwO) |
+| FastMathFabric | FastMathFabric is a joke mod meant to port the cursedness of OptiFine's fast math feature to Fabric. It is incompatible with other mods and will not provide a performance gain, therefore leaving no reason for users to use it. It is also most likely bannable on many servers, including Hypixel. | [FwuffyPetsOwO](https://github.com/FwuffyPetsOwO) |
+
+# Notes
+
+[Join my Discord for news regarding the development of this repository!](https://inv.wtf/micro)
+
+If you would like to contribute, please make a PR.  
+Some notes:
+- Leave your name and GitHub link in the contributors credits section in alphabetical order, even for a tiny change
+- Please try to use Modrinth or GitHub over Curseforge when possible (Modrinth is the preferred platform)
+- Please use a GitHub link instead of a Modrinth/CurseForge link for Author credit when possible
+    - If the GitHub profile is an organization, use that instead of one of the owners / person credited on Modrinth/CurseForge
+- Make sure that the option to allow me to make changes to your PR is enabled
 
 ## Contributors
 
