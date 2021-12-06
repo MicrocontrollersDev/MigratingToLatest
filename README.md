@@ -69,6 +69,10 @@ This is only for the default .minecraft directory. If you have made a custom dir
     - If this folder does not exist, create it.
 3. Place all of the mods you want to use into this folder (note that all mods you install must be for Fabric 1.18 or they will not work).
 
+### Still Need Help?
+
+Feel free to join my [Discord server](https://inv.wtf/micro) for any help downloading Fabric, it's mods, or general questions about them.
+
 </details>
     
 ## Mods
@@ -200,7 +204,7 @@ These are mods that are too experimental or unstable that I do not recommend usi
 
 # Notes
 
-[Join my Discord for news regarding the development of this repository!](https://inv.wtf/micro)
+Join my [Discord server](https://inv.wtf/micro) for news regarding the development of this repository!
 
 If you would like to contribute, please make a PR.  
 Some notes:
