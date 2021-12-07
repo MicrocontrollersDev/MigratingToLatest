@@ -125,7 +125,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mods. | [DeathsGun](https://github.com/DeathsGun) |
-| [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | **No 1.18 Yet** Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
+| [Item Model Fix](https://github.com/PepperCode1/Item-Model-Fix/releases/latest) | **No 1.18 Yet** Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [comp500](https://github.com/comp500) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Not Enough Crashes takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
@@ -159,7 +159,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [TNTTime](https://modrinth.com/mod/tnttime) | **No 1.18 Yet** Displays time left to the TNT explosion above primed TNT. | [Simon](https://github.com/shateq) |
 | [Fabric Advanced Shift](https://modrinth.com/mod/fabric-advanced-shift) | **No 1.18 Yet** Fabric Advanced Shift makes sneaking more customizable. For example when you press shift two times it will activate toggle sneak. | [NiiightmareXD](https://github.com/NiiightmareXD) |
 | [Advancement Info](https://modrinth.com/mod/advancementinfo) | Advancement Info makes the advancement menu fit your entire screen, which could make it easier to navigate the menu. | [Giselbaer](https://github.com/gbl)
-| [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | **No 1.18 Yet** AppleSkin lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
+| [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | AppleSkin lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
 | [Horse Stats Vanilla](https://github.com/d4rkm0nkey/HorseStatsVanilla/releases/latest) | Horse Stats Vanilla adds the stats of your horse in your horse/donkey inventory HUD, making it easy to see the perks of your horses and donkeys. | [d4m0n](https://github.com/d4rkm0nkey) |
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | Clear Despawn makes it more obvious on which items are about to despawn by making them blink exponentially faster after a certain time. | [StrikerRockers](https://github.com/StrikerRockers-Mods) |
 | [Rebind All the Keys](https://modrinth.com/mod/rebind-all-the-keys) | **No 1.18 Yet** Rebind All the Keys allows you to change the keybinds to certain functions that were not previously changable. | [Minenash](https://github.com/Minenash) |
