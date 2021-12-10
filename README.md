@@ -101,7 +101,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Lithium](https://modrinth.com/mod/lithium) - **Has 1.18 Beta** | Lithium helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) | FastMathFabric |
 | [Starlight](https://www.modrinth.com/mod/starlight) | Starlight completely rewrites the light engine to make loading chunks much quicker. | [SpottedLeaf](https://github.com/Spottedleaf) |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | LazyDFU prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
-| [Enhanced Block Entities](https://modrinth.com/mod/ebe) - **No 1.18 Yet** | Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | DashLoader |
+| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | DashLoader |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) - **Has 1.18 Beta** | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. While Sodium already does this, this mod is much more thorough in which mods can be culled. | [tr9zw](https://github.com/tr7zw) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
@@ -162,7 +162,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | AppleSkin lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
 | [Horse Stats Vanilla](https://github.com/d4rkm0nkey/HorseStatsVanilla/releases/latest) | Horse Stats Vanilla adds the stats of your horse in your horse/donkey inventory HUD, making it easy to see the perks of your horses and donkeys. | [d4m0n](https://github.com/d4rkm0nkey) |
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | Clear Despawn makes it more obvious on which items are about to despawn by making them blink exponentially faster after a certain time. | [StrikerRockers](https://github.com/StrikerRockers-Mods) |
-| [Rebind All the Keys](https://modrinth.com/mod/rebind-all-the-keys) - **No 1.18 Yet** | Rebind All the Keys allows you to change the keybinds to certain functions that were not previously changable. | [Minenash](https://github.com/Minenash) |
+| [Rebind All the Keys](https://modrinth.com/mod/rebind-all-the-keys) | Rebind All the Keys allows you to change the keybinds to certain functions that were not previously changable. | [Minenash](https://github.com/Minenash) |
 | [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) | Litematica is a schematic mod allowing you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
 | [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - **No 1.18 Yet** | MiniHUD is a customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
 | [Inspecio](https://modrinth.com/mod/inspecio) - **Current 1.18 version may have issues** | Inspecio adds more information to tooltips for many items in the game, including shulker boxes. It is very customizable with a large set of config options. | [Queerbic](https://github.com/Queerbric) |
@@ -174,7 +174,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
 | [Essential](https://essential.gg/download) | Zoom. More customizable than OptiFine's. | [Sk1erLLC](https://sk1er.club/) & [SparkUniverse](https://sparkuniverse.com/) |
-| [Bobby](https://modrinth.com/mod/bobby) - **No 1.18 Yet** | Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702) | Starlight |
+| [Bobby](https://modrinth.com/mod/bobby) | Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702) | Starlight |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [Cull Leaves](https://modrinth.com/mod/cull-leaves) - **No 1.18 Yet** | Smart leaves. | [MidnightDust](https://github.com/TeamMidnightDust) |
