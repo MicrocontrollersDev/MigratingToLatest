@@ -99,13 +99,14 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Indium](https://modrinth.com/mod/indium) | Indium adds FRAPI support to Sodium, making it necessary to use for some of the mods on this list to work. This mod is merely temporary and will be removed once Sodium adds FRAPI support itself. | [comp500](https://github.com/comp500) |
 | [Hydrogen](https://modrinth.com/mod/hydrogen) - **No 1.18.1 Yet** | Hydrogen helps reduce the amount of memory the game takes up. While this is mostly meant for large modpacks, it does not hurt using it for a vanilla experience. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [Lithium](https://modrinth.com/mod/lithium) | Lithium helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) | FastMathFabric |
-| [Starlight](https://www.modrinth.com/mod/starlight) | Starlight completely rewrites the light engine to make loading chunks much quicker. | [SpottedLeaf](https://github.com/Spottedleaf) |
+| [Starlight](https://www.modrinth.com/mod/starlight) | Starlight completely rewrites the light engine to make loading chunks much quicker. Please note that this does not maintain full vanilla parity (this will not effect most casual players). If you want complete vanilla parity, please look at [Phosphor](https://modrinth.com/mod/phosphor). | [SpottedLeaf](https://github.com/Spottedleaf) |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | LazyDFU prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Enhanced Block Entities improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | DashLoader |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) - **Has 1.18.1 Beta** | FerriteCore further reduces memory usage and should be used in conjunction with Hydrogen. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | EntityCulling culls entities that you cannot see, increasing FPS. While Sodium already does this, this mod is much more thorough in which mods can be culled. | [tr9zw](https://github.com/tr7zw) |
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Dynamic FPS reduces your FPS, and therefore reduces your system load, when tabbed out of the game. | [juliand665](https://github.com/juliand665) |
 | [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader) | Lazy Language Loader improves loading times when changing your language in game by only reloading the required resources. | [chachy](https://github.com/ChachyDev) |
+| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Allows you to half the resolution on Apple's Retina displays and also dds most of OptiFine's performance features such as toggles for animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
 
 ### Other Performance Mods
 
@@ -113,7 +114,7 @@ These are mods that are only required for a small number of select people, such 
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Allows you to half the resolution on Apple's Retina displays and also dds most of OptiFine's performance features such as toggles for animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
+| [Phosphor](https://modrinth.com/mod/phosphor) | Phosphor is similar to Starlight in that they both speed up the light engine. However, Phosphor ensures full vanilla parity as compared to Starlight, which may break things such as light suppression. Use Phosphor instead of Starlight if you are looking for vanilla parity at the expense of being slightly slower. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | No Fade removes the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on a low end machine. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [Krypton](https://modrinth.com/mod/krypton) | This mod is bannable on Hypixel and most likely other servers. Although it is probably not detectable, it is still against Hypixel's rules and the mod developer does not recommend using it on Hypixel. However, this mod works great for private servers. Krypton optimizes network stacking and entity tracking, as well as other micro-optimizations. | [astei](https://github.com/astei) |
 
