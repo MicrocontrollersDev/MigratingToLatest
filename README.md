@@ -125,7 +125,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mods. | [DeathsGun](https://github.com/DeathsGun) |
-| [Item Model Fix](https://github.com/PepperCode1/Item-Model-Fix/releases/latest) - **No 1.18.1 Yet** | Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
+| [Item Model Fix](https://github.com/PepperCode1/Item-Model-Fix/releases/latest) | Item Model Fix fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most texturepacks. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [comp500](https://github.com/comp500) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Not Enough Crashes takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | CleanView prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
@@ -188,6 +188,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | CIT. Supports OptiFine format. | [SHsuperCM](https://github.com/SHsuperCM) |
 | [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | Custom entity models. Supports OptiFine format. | [dorianpb](https://github.com/dorianpb) |
+| [JsonEM](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models (tbh idk). Does not support OptiFine format). | [FoundationGames](https://github.com/FoundationGames) |
 
 ### Unrecommended Mods
 
