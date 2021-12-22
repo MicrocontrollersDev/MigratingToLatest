@@ -29,7 +29,7 @@ This is only for the default Minecraft launcher. If you are using MultiMC, you c
 
 0. Make sure you close Minecraft and the Minecraft launcher before installing Fabric, otherwise unexpected things can happen.
 1. Download the [Fabric installer](https://fabricmc.net/use).
-    - If you are on Windows, use the `.EXE` version of the installer on the right.
+    - If you are on Windows, use either the `.JAR` version on the left or the `.EXE` version of the installer on the right.
     - If you are on any other operating system or the `.EXE` version is not working for you, then use the `.JAR` version on the left.
 2. Run the installer.
     - If you are using the `.EXE` version of the installer, simply double click the file. You may get a popup blocking you from running the installer and saying that "Windows protected your PC"; if so, then click on `More info` and then `Run anyway`.
