@@ -177,7 +177,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Bobby](https://modrinth.com/mod/bobby) | Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702) | Starlight |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine. | [LambdAurora](https://modrinth.com/user/rRnTb0fG) |
-| [Cull Leaves](https://modrinth.com/mod/cull-leaves) - **No 1.18.1 Yet** | Smart leaves. | [MidnightDust](https://github.com/TeamMidnightDust) |
+| [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Smart leaves. | [MidnightDust](https://github.com/TeamMidnightDust) |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
 | [Clear Skies](https://modrinth.com/mod/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
 | [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | Custom loading screen colors. Does not support OptiFine format. | [MidnightDust](https://github.com/TeamMidnightDust) |
