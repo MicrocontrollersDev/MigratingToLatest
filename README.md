@@ -183,7 +183,7 @@ As OptiFine is no longer recommended, here are some replacements for many of it'
 | [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | Custom loading screen colors. Does not support OptiFine format. | [MidnightDust](https://github.com/TeamMidnightDust) |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
 | [Continuity](https://modrinth.com/mod/continuity) | CTM. Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
-| [Animatica](https://modrinth.com/mod/animatica) - **No 1.18.1 Yet** | Animated textures. Supports OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
+| [Animatica](https://modrinth.com/mod/animatica) | Animated textures. Supports OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
 | [Semitranslucency Fix](https://modrinth.com/mod/semitranslucency) - **No 1.18.1 Yet** | Fixes semitranslucent textures. Honestly have no clue if OptiFine does this but it probably does idk. | [ruvaldk](https://github.com/ruvaldak) |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | CIT. Supports OptiFine format. | [SHsuperCM](https://github.com/SHsuperCM) |
 | [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
