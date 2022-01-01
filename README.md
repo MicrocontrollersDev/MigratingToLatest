@@ -165,7 +165,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Rebind All the Keys](https://modrinth.com/mod/rebind-all-the-keys) | Rebind All the Keys allows you to change the keybinds to certain functions that were not previously changable. | [Minenash](https://github.com/Minenash) |
 | [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) | Litematica is a schematic mod allowing you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
 | [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - **No 1.18.1 Yet** | MiniHUD is a customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
-| [Inspecio](https://modrinth.com/mod/inspecio) - **Current 1.18.1 version may have issues** | Inspecio adds more information to tooltips for many items in the game, including shulker boxes. It is very customizable with a large set of config options. | [Queerbic](https://github.com/Queerbric) |
+| [Inspecio](https://modrinth.com/mod/inspecio) | Inspecio adds more information to tooltips for many items in the game, including shulker boxes. It is very customizable with a large set of config options. | [Queerbic](https://github.com/Queerbric) |
 
 ### OptiFine Replacements
 
