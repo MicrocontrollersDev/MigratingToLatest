@@ -203,6 +203,10 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [JsonEM](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models (tbh idk). Does not support OptiFine format). | [FoundationGames](https://github.com/FoundationGames) |
 | [JMX](https://www.curseforge.com/minecraft/mc-mods/jmx) | Adds support for FREX Rendering API features to Minecraft JSON model loading. Does not support OptiFine Format | [grondag](https://github.com/grondag) |
 
+TODO:
+[Puzzle](https://modrinth.com/mod/puzzle)
+[MCPatcherPatcher++](https://github.com/supsm/MCPPPP)
+
 ### Unrecommended Mods
 
 These are mods that are too experimental or unstable that I do not recommend using unless you know what you are doing. Please note that some of these mods will continue to be improved upon over time and may eventually be added to the above lists.
