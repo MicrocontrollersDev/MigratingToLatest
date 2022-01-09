@@ -108,6 +108,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader) | Improves loading times when changing your language in game by only reloading the required resources. | [chachy](https://github.com/ChachyDev) |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Allows you to half the resolution on Apple's Retina displays and also adds most of OptiFine's performance features such as toggles for animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | This will let you open links and folders without your game temporarily freezing. | [Altrisi](https://github.com/altrisi) |
+| [Chat Lag Fix](https://modrinth.com/mod/chat-lag-fix) | Fixes frame stutters when receiving chat messages due to Mojang's poor implementation of the blocking feature. | [adryd](https://github.com/adryd325) |
 
 ### Other Performance Mods
 
