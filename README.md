@@ -170,7 +170,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Inspecio](https://modrinth.com/mod/inspecio) | Adds more information to tooltips for many items in the game, including shulker boxes. It is very customizable with a large set of config options. | [Queerbic](https://github.com/Queerbric) |
 | [Clear Skies](https://modrinth.com/mod/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
 | [Why Am I on Fire?](https://modrinth.com/mod/why-am-i-on-fire) | Removes the fire overlay when you have fire resistance or are in creative mode. | [Elivers](https://github.com/Ellivers) |
-| [Fire Overlay Controller](https://modrinth.com/mod/fire-overlay-controller) | Allows you to control fire height and opacity. | [TheGameratorT](https://github.com/TheGameratorT) |
+| [Fire Overlay Controller](https://modrinth.com/mod/fire-overlay-controller) | Allows you to control the height and opacity of the fire overlay. | [TheGameratorT](https://github.com/TheGameratorT) |
 
 ### OptiFine Replacements
 
