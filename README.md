@@ -169,6 +169,8 @@ These are mods that are more dependant on personal preferance than importance.
 | [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) - **No 1.18.1 Yet** | A customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
 | [Inspecio](https://modrinth.com/mod/inspecio) | Adds more information to tooltips for many items in the game, including shulker boxes. It is very customizable with a large set of config options. | [Queerbic](https://github.com/Queerbric) |
 | [Clear Skies](https://modrinth.com/mod/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
+| [Why Am I on Fire?](https://modrinth.com/mod/why-am-i-on-fire) | Removes the fire overlay when you have fire resistance or are in creative mode. | [Elivers](https://github.com/Ellivers) |
+| [Fire Overlay Controller](https://modrinth.com/mod/fire-overlay-controller) | Allows you to control fire height and opacity. | [TheGameratorT](https://github.com/TheGameratorT) |
 
 ### OptiFine Replacements
 
