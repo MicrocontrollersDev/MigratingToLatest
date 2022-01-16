@@ -127,6 +127,7 @@ These are mods that I recommend you to use at all times. While they may not boos
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mods. | [DeathsGun](https://github.com/DeathsGun) |
+| [TieFix](https://modrinth.com/mod/tiefix) | Fixes several client side bugs in Minecraft. | [j-tai](https://github.com/j-tai) |
 | [Item Model Fix](https://github.com/PepperCode1/Item-Model-Fix/releases/latest) | Fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most resoucepacks, inlcuding both defaults. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [comp500](https://github.com/comp500) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
