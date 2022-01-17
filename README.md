@@ -127,7 +127,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mods. | [DeathsGun](https://github.com/DeathsGun) |
-| [TieFix](https://modrinth.com/mod/tiefix) | Fixes several client side bugs in Minecraft. | [j-tai](https://github.com/j-tai) |
+| [TieFix](https://modrinth.com/mod/tiefix) | Fixes several client side bugs in Minecraft, as well as allowing you to disable telemetry. | [j-tai](https://github.com/j-tai) |
 | [Item Model Fix](https://github.com/PepperCode1/Item-Model-Fix/releases/latest) | Fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most resoucepacks, inlcuding both defaults. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [comp500](https://github.com/comp500) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
@@ -137,7 +137,6 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Inspecio](https://modrinth.com/mod/inspecio) | Adds more information to tooltips for many items in the game, including shulker boxes. It is very customizable with a large set of config options. | [Queerbic](https://github.com/Queerbric) |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | Prevents tooltips from becoming too long and going off the screen. | [kyrptonaught](https://github.com/kyrptonaught) |
 | [CompactChat](https://modrinth.com/mod/compactchat) - **No 1.18.1 Yet** | Compacts duplicate chat messages to help clean your chat. It also lets you increase your chat history length. | [cbyrne](https://github.com/cbyrneee) |
-| [No Telemetry](https://modrinth.com/mod/no-telemetry) | Removes the telemetry that Mojang has added in 1.18. This mod is not required if you are using MultiMC as your launcher. | [kb1000](https://github.com/kb-1000) |
 
 ### Other Cool Mods
 
