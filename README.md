@@ -98,7 +98,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Iris](https://irisshaders.github.io) | A shader loader that allows users to load up their favorite OptiFine shaderpacks, but with much higher FPS. Iris also provides performance enhancements when not using shaders, making it great for all users. | [IrisShaders](https://github.com/IrisShaders) |
 | [Indium](https://modrinth.com/mod/indium) | Adds FRAPI support to Sodium, making it necessary to use for some of the mods on this list to work. This mod is merely temporary and will be removed once Sodium adds FRAPI/FREX support itself. | [comp500](https://github.com/comp500) |
 | [Lithium](https://modrinth.com/mod/lithium) | Helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) | FastMathFabric |
-| [Starlight](https://www.modrinth.com/mod/starlight) | Rewrites the light engine to make loading chunks much quicker. Please note that this does not maintain full vanilla parity (this will not effect most casual players). If you want complete vanilla parity or if Starlight is causing stutters, please look at [Phosphor](https://modrinth.com/mod/phosphor). | [SpottedLeaf](https://github.com/Spottedleaf) |
+| [Starlight](https://www.modrinth.com/mod/starlight) | Rewrites the light engine to make loading chunks much quicker. Please note that this does not maintain full vanilla parity (this will not effect most casual players). If you want complete vanilla parity or if Starlight is causing stutters, please look at [Phosphor](https://modrinth.com/mod/phosphor). | [SpottedLeaf](https://github.com/Spottedleaf) | Bobby |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | Prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) | DashLoader |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) - **Has 1.18.1 Beta** | Helps reduce the amount of memory the game takes up. This may make a big difference for larger modpacks as well. | [malte0811](https://github.com/malte0811) |
@@ -108,6 +108,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Allows you to half the resolution on Apple's Retina displays and also adds most of OptiFine's performance features such as toggles for animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | This will let you open links and folders without your game temporarily freezing. | [Altrisi](https://github.com/altrisi) |
 | [Chat Lag Fix](https://modrinth.com/mod/chat-lag-fix) | Fixes frame stutters when receiving chat messages due to Mojang's poor implementation of the blocking feature. | [adryd](https://github.com/adryd325) |
+| [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) | Caches recipes to reduce lag when crafting or smelting many items. | [biom4st3r](https://gitlab.com/biom4st3r) |
 
 ### Other Performance Mods
 
@@ -115,7 +116,7 @@ These are other performance mods that one may prefer to use, but are not require
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Phosphor](https://modrinth.com/mod/phosphor) | Phosphor is similar to Starlight in that they both speed up the light engine. However, Phosphor ensures full vanilla parity as compared to Starlight, which may break things such as light suppression. Use Phosphor instead of Starlight if you are looking for vanilla parity at the expense of being slightly slower. Starlight may also cause stuttering on some machines, in which case you should use Phosphor instead. | [CaffeineMC](https://github.com/CaffeineMC) |
+| [Phosphor](https://modrinth.com/mod/phosphor) | Phosphor is similar to Starlight in that they both speed up the light engine. However, Phosphor ensures full vanilla parity as compared to Starlight, which may break things such as light suppression and the Bobby mod. Use Phosphor instead of Starlight if you are looking for vanilla parity at the expense of being slightly slower. Starlight may also cause stuttering on some machines, in which case you should use Phosphor instead. | [CaffeineMC](https://github.com/CaffeineMC) |
 | [No Fade](https://github.com/UltimateBoomer/mc-no-fade/releases/latest) | Removes the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on a low end machine. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | [Krypton](https://modrinth.com/mod/krypton) | This mod is bannable on Hypixel and most likely other servers. Although it is probably not detectable, it is still against Hypixel's rules and the mod developer does not recommend using it on Hypixel. However, this mod works great for private servers. Krypton optimizes network stacking and entity tracking, as well as other micro-optimizations. | [astei](https://github.com/astei) |
 
@@ -212,11 +213,19 @@ TODO:
 
 These are mods that are too experimental or unstable that I do not recommend using unless you know what you are doing. Please note that some of these mods will continue to be improved upon over time and may eventually be added to the above lists.
 
+#### May Eventually Be Supported
+
 | Mod | Reasoning | Author |
 | --- | --- | --- |
-| DashLoader | DashLoader caches all of Minecrafts contents to load the game much faster and provide insanely quick reloads. However, it currently has a few incompatibilities, which are being worked on. For this reason, it is recommended to not use it until most of these issues are resolved. It is also not very useful to people who change their mods and resourcepacks frequently. | [alphaqu](https://github.com/alphaqu) |
+| DashLoader | DashLoader caches all of Minecrafts contents to load the game much faster and provide insanely quick reloads. However, it currently has a few incompatibilities, which are being worked on. For this reason, it is recommended to not use it until most of these issues are resolved. It is also not very useful to people who change their mods and resourcepacks frequently. If you use it with this mod list, chests will look very broken, but it should otherwise work well. | [alphaqu](https://github.com/alphaqu) |
+| C2ME | C2ME is an expiremental mod that attempts to multithread chunk generation, I/O, and loading. It is deemed not production ready by the authors and may corrupt worlds or cause other issues. It also comes with its own list of incompatible mods. If you decide to use it, remember to make backups. | [RelativityMC](https://github.com/RelativityMC) |
+| VMP (Very Many Players) | VMP attempts to alleviate the strain on servers when there are a large amount of players. It is still in early development and may cause issues according to the authors, who also made C2ME. If you decide to use it, remember to make backups. | [RelativityMC](https://github.com/RelativityMC) |
+
+#### Will Never Be Supported
+
+| Mod | Reasoning | Author |
+| --- | --- | --- |
 | Iris Starline | The Iris Starline fork was meant to provide a shaders option menu before Iris created their own much improved version. This fork serves no purpose to users. | [HyperCubeMC](https://github.com/HyperCubeMC)
-| C2ME | C2ME is an extremely expiremental mod that attempts to multithread chunk generation, I/O, and loading. It is deemed not production ready by the authors and may corrupt worlds or cause other issues. It also comes with its own list of incompatible mods. | [RelativityMC](https://github.com/RelativityMC) |
 | FastMathFabric | FastMathFabric is a semi-joke mod meant to port the cursedness of OptiFine's fast math feature to Fabric. It is incompatible with other mods and will not provide a performance gain, therefore leaving no reason for users to use it. It is also most likely bannable on many servers, including Hypixel. | [FwuffyPetsOwO](https://github.com/FwuffyPetsOwO) |
 
 # Notes
