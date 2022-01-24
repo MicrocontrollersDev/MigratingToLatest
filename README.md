@@ -170,6 +170,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Clear Skies](https://modrinth.com/mod/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
 | [Why Am I on Fire?](https://modrinth.com/mod/why-am-i-on-fire) | Removes the fire overlay when you have fire resistance or are in creative mode. | [Elivers](https://github.com/Ellivers) |
 | [Fire Overlay Controller](https://modrinth.com/mod/fire-overlay-controller) | Allows you to control the height and opacity of the fire overlay. | [TheGameratorT](https://github.com/TheGameratorT) |
+| [Sound Physics](https://modrinth.com/mod/soundphysics) | Makes sounds much more realistic, adding reverb, attenuation, and absorption. | [vlad2305m](https://github.com/vlad2305m) & [thedocruby](https://github.com/thedocruby) | Sound Physics Remastered |
 
 ### OptiFine Replacements
 
@@ -225,7 +226,8 @@ These are mods that are too experimental or unstable that I do not recommend usi
 
 | Mod | Reasoning | Author |
 | --- | --- | --- |
-| Iris Starline | The Iris Starline fork was meant to provide a shaders option menu before Iris created their own much improved version. This fork serves no purpose to users. | [HyperCubeMC](https://github.com/HyperCubeMC)
+| Iris Starline | The Iris Starline fork was meant to provide a shaders option menu before Iris created their own much improved version. This fork serves no purpose to users. | [HyperCubeMC](https://github.com/HyperCubeMC) |
+| Sound Physics Remastered | This remastered version is based off an old version of the original mod. The original has now been updated to surpass this edit and it is recommended to use the original over this now. | [henkelmax](https://github.com/henkelmax) |
 | FastMathFabric | FastMathFabric is a semi-joke mod meant to port the cursedness of OptiFine's fast math feature to Fabric. It is incompatible with other mods and will not provide a performance gain, therefore leaving no reason for users to use it. It is also most likely bannable on many servers, including Hypixel. | [FwuffyPetsOwO](https://github.com/FwuffyPetsOwO) |
 
 # Notes
