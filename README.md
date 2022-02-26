@@ -4,7 +4,7 @@ This is a comprehensive guide on how to download Fabric and mods for it. It also
 
 ## Introduction
 
-If you want more information on Fabric, why Forge/OptiFine are not recommended, or need help downloading Fabric and mods for it, click on the `Introduction` drop down below. If you are just here to see the mods list, continue below.
+If you want more information on Fabric, why Forge/OptiFine are not recommended, or need help downloading Fabric and mods for it, click on the `Introduction` drop down below. If you are just here to see the mods list, continue to the next section.
 
 <details>
     <summary>Introduction</summary>
