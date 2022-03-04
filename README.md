@@ -54,7 +54,7 @@ This list currently consists of three different sources for mod downloads: Modri
         - If a link does not redirect you to the latest version but rather the main page, on the right side of the page, you should find a tag icon with the latest version. 
 
 - CurseForge:
-    - Click on the `Files` tab. Look for the versions of the mod with the Minecraft version you desire and is for the Fabric mod loader, and download the latest one. You can also press the `View All` button, then sort the game version by mod loader or Minecraft version to make finding the correct jar easier.
+    - Click on the `Files` tab. Look for the versions of the mod with the Minecraft version you desire and is for the Fabric mod loader, and download the latest one. You can also press the `View All` button, then sort by mod loader or Minecraft version to make finding the correct jar easier.
 
 ### Installing Mods on Fabric
 
