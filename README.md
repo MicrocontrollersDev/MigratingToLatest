@@ -230,10 +230,9 @@ These are mods that are too experimental or unstable that I do not recommend usi
 | --- | --- | --- |
 | Better Beds | BetterBeds has been replaced by Enhanced Block Entities. | [Motschen](https://github.com/Motschen) |
 | Iris Starline | The Iris Starline fork was meant to provide a shaders option menu before Iris created their own much improved version. This fork serves no purpose to users. | [HyperCubeMC](https://github.com/HyperCubeMC) |
-| Sound Physics Remastered | This remastered version is based off an old version of the original mod. The original has now been updated to surpass this edit and it is recommended to use the original over this now. | [henkelmax](https://github.com/henkelmax) |
+| Sound Physics / Sound Physics Remastered | Replaced by Resounding. | [vlad2305m](https://github.com/vlad2305m) & [thedocruby](https://github.com/thedocruby) / [henkelmax](https://github.com/henkelmax) |
 | FastMathFabric | FastMathFabric is a semi-joke mod meant to port the cursedness of OptiFine's fast math feature to Fabric. It is incompatible with other mods and will not provide a performance gain, therefore leaving no reason for users to use it. It is also most likely bannable on many servers, including Hypixel. | [FwuffyPetsOwO](https://github.com/FwuffyPetsOwO) |
 | Smooth Boot | While Smooth Boot does great at decreasing startup time, it is no match for LazyDFU and DashLoader. Smooth Boot will also cause a decrease in performance for several minutes after startup according to some reports. | [UltimateBoomer](https://github.com/UltimateBoomer) |
-| Sound Physics | Replaced by Resounding. | [vlad2305m](https://github.com/vlad2305m) & [thedocruby](https://github.com/thedocruby)
 
 # Notes
 
