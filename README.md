@@ -110,6 +110,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Allows you to half the resolution on Apple's Retina displays and also adds most of OptiFine's performance features such as toggles for animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | This will let you open links and folders without your game temporarily freezing. | [Altrisi](https://github.com/altrisi) |
 | [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) | Caches recipes to reduce lag when crafting or smelting many items. | [biom4st3r](https://gitlab.com/biom4st3r) |
+| [ForgetMeChunk](https://modrinth.com/mod/forgetmechunk) | Fixes a lighting issue which causes lag spikes when crossing chunk borders. | [Breadloaf](https://github.com/mjwells2002)
 
 ### Other Performance Mods
 
