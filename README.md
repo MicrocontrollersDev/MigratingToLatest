@@ -67,7 +67,7 @@ This is only for the default .minecraft directory. If you have made a custom dir
     - Linux: Open `~/.minecraft`.
 2. In your Minecraft folder, open the folder called `mods`.
     - If this folder does not exist, create it.
-3. Place all of the mods you want to use into this folder (note that all mods you install must support Fabric 1.18.1 or they will not work).
+3. Place all of the mods you want to use into this folder (note that all mods you install must support Fabric 1.18.2 or they will not work).
 
 ### Still Need Help?
 
@@ -132,12 +132,12 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Item Model Fix](https://github.com/PepperCode1/Item-Model-Fix/releases/latest) | Fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most resoucepacks, inlcuding both defaults. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [comp500](https://github.com/comp500) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
-| [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) - **No 1.18.1 Yet** | Makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
+| [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) - **No 1.18.2 Yet** | Makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | Completely revamps Minecraft's controls menu, making it much easier to navigate and change keys, letting you search and more easily find conflicting keybinds. | [Jaredllll08](https://github.com/jaredlll08) |
 | [Better Recipe Book](https://www.modrinth.com/mod/brb) | Brings many QOL improvements to the current recipe book, making it much more useful for different scenarios. | [marshmallow](https://github.com/mrshmllow) |
 | [Inspecio](https://modrinth.com/mod/inspecio) | Adds more information to tooltips for many items in the game, including shulker boxes. It is very customizable with a large set of config options. | [Queerbic](https://github.com/Queerbric) |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | Prevents tooltips from becoming too long and going off the screen. | [kyrptonaught](https://github.com/kyrptonaught) |
-| [CompactChat](https://modrinth.com/mod/compactchat) - **No 1.18.1 Yet** | Compacts duplicate chat messages to help clean your chat. It also lets you increase your chat history length. | [cbyrne](https://github.com/cbyrneee) |
+| [CompactChat](https://modrinth.com/mod/compactchat) - **No 1.18.2 Yet** | Compacts duplicate chat messages to help clean your chat. It also lets you increase your chat history length. | [cbyrne](https://github.com/cbyrneee) |
 
 ### Other Cool Mods
 
@@ -148,18 +148,18 @@ These are mods that are more dependant on personal preferance than importance.
 | [Skin Layers 3D](https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d) | Makes the outer layer of skins 3D. Very customizable and lets you adjust distance that 3D renders for performance. | [tr7zw](https://github.com/tr7zw) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | Prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Color Me Outlines](https://www.curseforge.com/minecraft/mc-mods/color-me-outlines) | Color Me Outlines is a close equivalent to 1.8's block overlay, allowing you to customize the outline when looking at blocks. | [LordDeatHunter](https://github.com/LordDeatHunter) |
-| [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) - **No 1.18.1 Yet** | Removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
+| [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) - **No 1.18.2 Yet** | Removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | Adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) | Sodium |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) | Rainbowify |
-| [Rainbowify](https://modrinth.com/mod/rainbowify) - **No 1.18.1 Yet** | Replaces the dark gui backrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
+| [Rainbowify](https://modrinth.com/mod/rainbowify) - **No 1.18.2 Yet** | Replaces the dark gui backrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
 | [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) |
-| [Mojangster](https://www.curseforge.com/minecraft/mc-mods/mojangster) - **No 1.18.1 Yet** | Allows an animated loading screen. Supports custom resourcepacks. | [cal6541](https://github.com/cal6541) | Custom Splash Screen |
+| [Mojangster](https://www.curseforge.com/minecraft/mc-mods/mojangster) - **No 1.18.2 Yet** | Allows an animated loading screen. Supports custom resourcepacks. | [cal6541](https://github.com/cal6541) | Custom Splash Screen |
 | [Perspektive](https://modrinth.com/mod/perspektive) | A simple 360 degrees perspective mod that lets you move the camera without moving your player's direction. | [r0yzer](https://github.com/r0yzer) |
 | [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | Adds many useful HUD elements to your screen with an easy to use in game config. | [isXander](https://github.com/isXander) |
 | [BetterF3](https://modrinth.com/mod/betterf3) | Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | [cominixo](https://github.com/cominixo) |
 | [TNTTime](https://modrinth.com/mod/tnttime) | Displays time left to the TNT explosion above primed TNT. | [Simon](https://github.com/shateq) |
-| [Fabric Advanced Shift](https://modrinth.com/mod/fabric-advanced-shift) - **No 1.18.1 Yet** | Makes sneaking more customizable. For example when you press shift two times it will activate toggle sneak. | [NiiightmareXD](https://github.com/NiiightmareXD) |
+| [Fabric Advanced Shift](https://modrinth.com/mod/fabric-advanced-shift) - **No 1.18.2 Yet** | Makes sneaking more customizable. For example when you press shift two times it will activate toggle sneak. | [NiiightmareXD](https://github.com/NiiightmareXD) |
 | [Advancement Info](https://modrinth.com/mod/advancementinfo) | Makes the advancement menu fit your entire screen, which could make it easier to navigate the menu. | [Giselbaer](https://github.com/gbl)
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
 | [Horse Stats Vanilla](https://github.com/d4rkm0nkey/HorseStatsVanilla/releases/latest) | Adds the stats of your horse in your horse/donkey inventory HUD, making it easy to see the perks of your horses and donkeys. | [d4m0n](https://github.com/d4rkm0nkey) |
@@ -199,7 +199,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
 | [Continuity](https://modrinth.com/mod/continuity) | CTM. Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Animatica](https://modrinth.com/mod/animatica) | Animated textures. Supports OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
-| [Semitranslucency Fix](https://modrinth.com/mod/semitranslucency) - **No 1.18.1 Yet** | Fixes semitranslucent textures. Honestly have no clue if OptiFine does this but it probably does idk. | [ruvaldk](https://github.com/ruvaldak) |
+| [Semitranslucency Fix](https://modrinth.com/mod/semitranslucency) - **No 1.18.2 Yet** | Fixes semitranslucent textures. Honestly have no clue if OptiFine does this but it probably does idk. | [ruvaldk](https://github.com/ruvaldak) |
 | [CIT Resewn](https://modrinth.com/mod/cit-resewn) | CIT. Supports OptiFine format. | [SHsuperCM](https://github.com/SHsuperCM) |
 | [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | Custom entity models. Supports OptiFine format. | [dorianpb](https://github.com/dorianpb) |
