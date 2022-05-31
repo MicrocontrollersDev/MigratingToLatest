@@ -137,7 +137,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Better Recipe Book](https://www.modrinth.com/mod/brb) | Brings many QOL improvements to the current recipe book, making it much more useful for different scenarios. | [marshmallow](https://github.com/mrshmllow) |
 | [Inspecio](https://modrinth.com/mod/inspecio) | Adds more information to tooltips for many items in the game, including shulker boxes. It is very customizable with a large set of config options. | [Queerbic](https://github.com/Queerbric) |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | Prevents tooltips from becoming too long and going off the screen. | [kyrptonaught](https://github.com/kyrptonaught) |
-| [CompactChat](https://modrinth.com/mod/compactchat) - **No 1.18.2 Yet** | Compacts duplicate chat messages to help clean your chat. It also lets you increase your chat history length. | [cbyrne](https://github.com/cbyrneee) |
+| [CompactChat](https://modrinth.com/mod/compactchat) | Compacts duplicate chat messages to help clean your chat. It also lets you increase your chat history length. | [cbyrne](https://github.com/cbyrneee) |
 
 ### Other Cool Mods
 
