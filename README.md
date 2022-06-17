@@ -11,7 +11,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
 ### The Situation
 
-So, you've been playing on 1.8 for the past [6 years](https://howoldisminecraft189.today/) and are ready to see what 1.18 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang have been been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance that we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
+So, you've been playing 1.8 for the past [6 years](https://howoldisminecraft189.today/) and are ready to see what 1.18 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
 
 ### Why no longer OptiFine?
 
@@ -21,7 +21,7 @@ While there is a Fabric compatibility layer for OptiFine known as OptiFabric, it
 
 ### Why no longer Forge?
 
-Forge has always been less than ideal for performance due to its large overhead for server-sided modding, which is not necessary for users wishing for a vanilla compatible experience. Fabric on the other hand is extremely lightweight and is practically identical to vanilla. It's also considered to be much easier to make mods for and is being used as the stepping tool for [Quilt](https://quiltmc.org/faq), an in-progress mod loader which will provide many more benefits to modders and users alike.
+Forge has always been less than ideal for performance due to its large overhead for server-sided modding, which is not necessary for users wishing for a vanilla compatible experience. Fabric on the other hand is extremely lightweight and is practically identical to vanilla. It's also considered to be much easier to make mods for and is being used as the stepping stone for [Quilt](https://quiltmc.org/faq), an in-progress mod loader which will provide many more benefits to modders and users alike.
 
 ### Installing Fabric
 
@@ -32,8 +32,8 @@ This is only for the default Minecraft launcher. If you are using MultiMC, you c
     - If you are on Windows, use either the `.JAR` version on the left or the `.EXE` version of the installer on the right.
     - If you are on any other operating system or the `.EXE` version is not working for you, then use the `.JAR` version on the left.
 2. Run the installer.
-    - If you are using the `.EXE` version of the installer, simply double click the file. You may get a popup blocking you from running the installer and saying that "Windows protected your PC"; if so, then click on `More info` and then `Run anyway`.
-    - If you are using the `.JAR` version, you will need to have Java installed on your device. If you have Java installed, then double click the downloaded file to run the installer. If you don't, then follow these steps:
+    - If you are using the `.EXE` version of the installer, simply double click the file. You may get a popup blocking you from running the installer and saying that "Windows protected your PC"; if so, click on `More info` and then `Run anyway`.
+    - If you are using the `.JAR` version, you will need to have Java installed on your device. If you have Java installed, double click the downloaded file to run the installer. If you don't, then follow these steps:
         1. Go to the [Java downloads page](https://adoptium.net/?variant=openjdk17&jvmVariant=hotspot) and download the version of Java corresponding to your device.
         2. Run the Java installer by double clicking it.
         3. Do whatever the installer tells you to do.
@@ -47,7 +47,7 @@ This is only for the default Minecraft launcher. If you are using MultiMC, you c
 This list currently consists of three different sources for mod downloads: Modrinth, GitHub, and CurseForge. This section will explain how to download mods from each of them.
 
 - Modrinth:
-    - On the mod's page, click on the `Versions` tab. From there, you can see all versions of the mods. Make sure you download the correct one based on the Minecraft version and mod loader, and click on the download icon for the newest version of the mod that fits both previous criteria.
+    - On the mod's page, click on the `Versions` tab. From there, you can see all versions of the mod. Make sure you download the correct one based on the Minecraft version and mod loader, click on the download icon for the newest version of the mod that fits both previous criteria.
 
 - GitHub:
     - For your convenience, all GitHub links lead directly to the latest version of the mod. From here, click on the `Assets` drop down if needed, then download the jar that does not include `-sources` or `-dev` in the name.
@@ -62,7 +62,7 @@ This is only for the default .minecraft directory. If you have made a custom dir
 
 0. Make sure you close Minecraft before installing mods, otherwise unexpected things can happen.
 1. Open your Minecraft folder:
-    - Windows: Hold the windows key (`win`) and press `r` to open the Run program. Then type in `%appdata%` and hit enter. Open the folder called `.minecraft`.
+    - Windows: Hold the Windows key (`win`) and press `r` to open the Run program. Then type in `%appdata%` and hit enter. Open the folder called `.minecraft`.
     - Mac: On the bar at the top of your screen in Finder, click `Go`, then click `Go to Folder` and type `~/Library/Application Support/Minecraft`, then hit enter.
     - Linux: Open `~/.minecraft`.
 2. In your Minecraft folder, open the folder called `mods`.
@@ -71,7 +71,7 @@ This is only for the default .minecraft directory. If you have made a custom dir
 
 ### Still Need Help?
 
-Feel free to join my [Discord server](https://inv.wtf/micro) for any help downloading Fabric, it's mods, or general questions about them.
+Feel free to join my [Discord server](https://inv.wtf/micro) for any help downloading Fabric, its mods, or general questions about them.
 
 </details>
     
