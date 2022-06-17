@@ -88,6 +88,7 @@ These are essential mods that are required for some fabric mods to work.
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods in-game, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/files/all?filter-game-version=2020709689%3A9008) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
 | [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/all?filter-game-version=2020709689%3A9008) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
+| [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | Required for a few mods such as Litematica. | [Matti Ruohonen](https://github.com/maruohon) |
 
 
 ### Performance
