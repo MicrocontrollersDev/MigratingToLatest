@@ -156,7 +156,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | Adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) | Sodium |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) | Rainbowify |
-| [Rainbowify](https://modrinth.com/mod/rainbowify) | Replaces the dark gui backgrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
+| [Rainbowify](https://modrinth.com/mod/rainbowify) | Replaces the dark GUI backgrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
 | [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) |
 | [Perspektive](https://modrinth.com/mod/perspektive) | A simple 360 degrees perspective mod that lets you move the camera without moving your player's direction. | [r0yzer](https://github.com/r0yzer) |
 | [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | Adds many useful HUD elements to your screen with an easy to use in game config. | [isXander](https://github.com/isXander) |
@@ -208,7 +208,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | Custom entity models. Supports OptiFine format. | [dorianpb](https://github.com/dorianpb) |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures. Supports OptiFine format. | [Traben](https://github.com/btrab1) |
-| [JsonEM](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models (tbh idk). Does not support OptiFine format). | [FoundationGames](https://github.com/FoundationGames) |
+| [JsonEM](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models (tbh idk). Does not support OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
 | [JMX](https://www.curseforge.com/minecraft/mc-mods/jmx) | Adds support for FREX Rendering API features to Minecraft JSON model loading. Does not support OptiFine Format. | [grondag](https://github.com/grondag) |
 
 ### Internal Shader
@@ -219,7 +219,7 @@ If you are one of those weirdos who uses internal shaders (you shouldn't btw), h
 | --- | --- | --- | --- |
 | [Simply No Shading](https://modrinth.com/mod/simply-no-shading) | Internal Shaders | [StartsMercury](https://github.com/StartsMercury) |
 
-TODO:
+TODO: 
 [Puzzle](https://modrinth.com/mod/puzzle)
 [MCPatcherPatcher++](https://github.com/supsm/MCPPPP)
 
