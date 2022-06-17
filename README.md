@@ -102,7 +102,7 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Lithium](https://modrinth.com/mod/lithium) | Helps improve the performance of many vanilla systems without changing their mechanics. | [CaffeineMC](https://github.com/CaffeineMC) | FastMathFabric |
 | [Starlight](https://www.modrinth.com/mod/starlight) | Rewrites the light engine to make loading chunks much quicker. Please note that this does not maintain full vanilla parity (this will not effect most casual players). If you want complete vanilla parity or if Starlight is causing stutters, please look at [Phosphor](https://modrinth.com/mod/phosphor). | [SpottedLeaf](https://github.com/Spottedleaf) | Phosphor |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | Prevents the DataFixerUpper from doing anything until it is required, improving your Minecraft start times. | [astei](https://github.com/astei) |
-| [DashLoader](https://modrinth.com/mod/dashloader) | DashLoader caches all of Minecrafts contents to load the game much faster and provide insanely quick reloads. | [alphaqu](https://github.com/alphaqu) |
+| [DashLoader](https://modrinth.com/mod/dashloader) | DashLoader caches all of Minecraft's contents to load the game much faster and provide insanely quick reloads. | [alphaqu](https://github.com/alphaqu) |
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | Helps reduce the amount of memory the game takes up. This may make a big difference for larger modpacks as well. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | Culls entities that you cannot see, increasing FPS. While Sodium already does this, this mod is much more thorough in which mods can be culled. | [tr7zw](https://github.com/tr7zw) |
@@ -131,7 +131,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
 | [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mods. | [DeathsGun](https://github.com/DeathsGun) |
-| [Item Model Fix](https://github.com/PepperCode1/Item-Model-Fix/releases/latest) | Fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most resoucepacks, inlcuding both defaults. | [Pepper_Bell](https://github.com/PepperCode1) |
+| [Item Model Fix](https://github.com/PepperCode1/Item-Model-Fix/releases/latest) | Fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most resourcepacks, including both defaults. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [comp500](https://github.com/comp500) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
@@ -143,7 +143,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 
 ### Other Cool Mods
 
-These are mods that are more dependant on personal preferance than importance.
+These are mods that are more dependant on personal preference than importance.
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
@@ -155,7 +155,7 @@ These are mods that are more dependant on personal preferance than importance.
 | [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
 | [Colored Lights](https://modrinth.com/mod/colored-lights) | Adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) | Sodium |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) | Rainbowify |
-| [Rainbowify](https://modrinth.com/mod/rainbowify) | Replaces the dark gui backrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
+| [Rainbowify](https://modrinth.com/mod/rainbowify) | Replaces the dark gui backgrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
 | [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) |
 | [Perspektive](https://modrinth.com/mod/perspektive) | A simple 360 degrees perspective mod that lets you move the camera without moving your player's direction. | [r0yzer](https://github.com/r0yzer) |
 | [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | Adds many useful HUD elements to your screen with an easy to use in game config. | [isXander](https://github.com/isXander) |
@@ -230,7 +230,7 @@ These are mods that are too experimental or unstable that I do not recommend usi
 
 | Mod | Reasoning | Author |
 | --- | --- | --- |
-| C2ME | C2ME is an expiremental mod that attempts to multithread chunk generation, I/O, and loading. It is deemed not production ready by the authors and may corrupt worlds or cause other issues. It also comes with its own list of incompatible mods. If you decide to use it, remember to make backups. | [RelativityMC](https://github.com/RelativityMC) |
+| C2ME | C2ME is an experimental mod that attempts to multithread chunk generation, I/O, and loading. It is deemed not production ready by the authors and may corrupt worlds or cause other issues. It also comes with its own list of incompatible mods. If you decide to use it, remember to make backups. | [RelativityMC](https://github.com/RelativityMC) |
 | VMP (Very Many Players) | VMP attempts to alleviate the strain on servers when there are a large amount of players. It is still in early development and may cause issues according to the authors, who also made C2ME. If you decide to use it, remember to make backups. | [RelativityMC](https://github.com/RelativityMC) |
 
 #### Will Never Be Supported
@@ -242,8 +242,8 @@ These are mods that are too experimental or unstable that I do not recommend usi
 | Sound Physics Remastered | This remastered version is based off an old version of the original mod. The original has now been updated to surpass this edit and it is recommended to use the original over this now. | [henkelmax](https://github.com/henkelmax) |
 | FastMathFabric | FastMathFabric is a semi-joke mod meant to port the cursedness of OptiFine's fast math feature to Fabric. It is incompatible with other mods and will not provide a performance gain, therefore leaving no reason for users to use it. It is also most likely bannable on many servers, including Hypixel. | [FwuffyPetsOwO](https://github.com/FwuffyPetsOwO) |
 | Smooth Boot | While Smooth Boot does great at decreasing startup time, it is no match for LazyDFU and DashLoader. Smooth Boot will also cause a decrease in performance for several minutes after startup according to some reports. | [UltimateBoomer](https://github.com/UltimateBoomer) |
-| FastOpenLinksAndFolders | Superceded by Debugify. | [Altrisi](https://github.com/altrisi) |
-| ForgetMeChunk | Superceded by Debugify. | [Breadloaf](https://github.com/mjwells2002) |
+| FastOpenLinksAndFolders | Superseded by Debugify. | [Altrisi](https://github.com/altrisi) |
+| ForgetMeChunk | Superseded by Debugify. | [Breadloaf](https://github.com/mjwells2002) |
 
 # Notes
 
@@ -252,7 +252,7 @@ Join my [Discord server](https://inv.wtf/micro) for news regarding the developme
 If you would like to contribute, please make a PR.  
 Some notes:
 - Leave your name and GitHub link in the contributors credits section in alphabetical order, even for a tiny change
-- Please try to use Modrinth or GitHub over Curseforge when possible (Modrinth is the preferred platform)
+- Please try to use Modrinth or GitHub over CurseForge when possible (Modrinth is the preferred platform)
 - Please use a GitHub link instead of a Modrinth/CurseForge link for Author credit when possible
     - If the GitHub profile is an organization, use that instead of one of the owners / person credited on Modrinth/CurseForge
 - Make sure that the option to allow me to make changes to your PR is enabled
