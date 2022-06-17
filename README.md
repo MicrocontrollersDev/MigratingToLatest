@@ -262,6 +262,7 @@ Some notes:
 - [BobIsMyManager](https://github.com/BobIsMyManager)
 - [glai](https://github.com/glaicodes)
 - [karmette](https://github.com/karmette)
+- [Moisty](https://github.com/Mqisty)
 - [nacrt](https://github.com/nacrt)
 - [NoPro2024](https://github.com/NoPro2024)
 - [Lisena](https://github.com/Lisenaaaa)
