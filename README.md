@@ -209,7 +209,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | Custom entity models. Supports OptiFine format. | [dorianpb](https://github.com/dorianpb) |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures. Supports OptiFine format. | [Traben](https://github.com/btrab1) |
 | [JsonEM](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models (tbh idk). Does not support OptiFine format). | [FoundationGames](https://github.com/FoundationGames) |
-| [JMX](https://www.curseforge.com/minecraft/mc-mods/jmx) | Adds support for FREX Rendering API features to Minecraft JSON model loading. Does not support OptiFine Format | [grondag](https://github.com/grondag) |
+| [JMX](https://www.curseforge.com/minecraft/mc-mods/jmx) | Adds support for FREX Rendering API features to Minecraft JSON model loading. Does not support OptiFine Format. | [grondag](https://github.com/grondag) |
 
 ### Internal Shader
 
