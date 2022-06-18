@@ -210,7 +210,8 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures. Supports OptiFine format. | [Traben](https://github.com/btrab1) |
 | [JsonEM](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models (tbh idk). Does not support OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
 | [JMX](https://www.curseforge.com/minecraft/mc-mods/jmx) | Adds support for FREX Rendering API features to Minecraft JSON model loading. Does not support OptiFine Format. | [grondag](https://github.com/grondag) |
-| [Puzzle](https://modrinth.com/mod/puzzle) | Adds custom splash screens, better logo blending, unlimited model rotations, and bigger custom models. Incorporates a platform to configure OptiFine replacements from other mods. Supports OptiFine format. | [PuzzleMC](https://github.com/PuzzleMC)
+| [Puzzle](https://modrinth.com/mod/puzzle) | Adds custom splash screens, better logo blending, unlimited model rotations, and bigger custom models. Incorporates a platform to configure OptiFine replacements from other mods. Supports OptiFine format. | [PuzzleMC](https://github.com/PuzzleMC) |
+| [MCPatcherPatcher++](https://github.com/supsm/MCPPPP) | Converts from OptiFine format to newer formats. [supsm](https://github.com/supsm) |
 
 ### Internal Shader
 
@@ -219,9 +220,6 @@ If you are one of those weirdos who uses internal shaders (you shouldn't btw), h
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
 | [Simply No Shading](https://modrinth.com/mod/simply-no-shading) | Internal Shaders | [StartsMercury](https://github.com/StartsMercury) |
-
-TODO:
-[MCPatcherPatcher++](https://github.com/supsm/MCPPPP)
 
 ### Unrecommended Mods
 
