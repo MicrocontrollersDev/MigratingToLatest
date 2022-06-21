@@ -1,4 +1,4 @@
-# Migrating to Latest (1.18.2)
+# Migrating to Latest (1.19)
 
 This is a comprehensive guide on how to download Fabric and mods for it. It also provides direct links to many mods that you may find useful.
 
@@ -76,6 +76,14 @@ Feel free to join my [Discord server](https://inv.wtf/micro) for any help downlo
 </details>
     
 ## Mods
+
+### NECESSARY
+
+As of 1.19, Mojang has added the ability to report chat messages. While on the surface this sounds great, these chat reports do not go to the server owners, but to a Mojang moderation team. This team will then decide your punishment, which is a temporary or permanent ban from all online servers and Realms. **If you do not want to get banned from playing online, use this mod!**
+
+| Mod | Description | Author |
+| --- | --- | --- |
+| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Server side and client side mod. Prevents chat reporting from working. Works best if installed on both sides but is unneeded. | [Aizistral](https://github.com/Aizistral-Studio) |
 
 ### Dependencies
 
