@@ -11,7 +11,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
 ### The Situation
 
-So, you've been playing 1.8 for the past [6 years](https://howoldisminecraft189.today/) and are ready to see what 1.18 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
+So, you've been playing 1.8 for the past [6 years](https://howoldisminecraft189.today/) and are ready to see what 1.19 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
 
 ### Why no longer OptiFine?
 
@@ -39,7 +39,7 @@ This is only for the default Minecraft launcher. If you are using MultiMC, you c
         3. Do whatever the installer tells you to do.
         4. After installing Java, you should be able to run the Fabric installer by double clicking it. If you still can't for some reason, try running the program [Jarfix](https://johann.loefflmann.net/downloads/jarfix.exe).
 3. Now that you have opened the installer, you will see two tabs at the top of the window: `Client` and `Server`. Make sure you are on the `Client` tab. Then, open the `Minecraft Version:` dropdown and select the version of Minecraft you want (most likely the latest version of Minecraft). The rest of the settings can be left with their defaults (unless you store your Minecraft version files in a different folder - if you want to use a different directory for this installation, that should be changed in the Minecraft launcher, not here). Click on `Install` when you are ready to install Fabric.
-4. Once Fabric is finished installing, open your Minecraft launcher and click on the profiles button at the bottom left corner. Select the Fabric profile, it should be called something like `fabric-loader-1.18.x`. Then hit `PLAY` to start playing!
+4. Once Fabric is finished installing, open your Minecraft launcher and click on the profiles button at the bottom left corner. Select the Fabric profile, it should be called something like `fabric-loader-1.19.x`. Then hit `PLAY` to start playing!
     - If you do not see the profile, try exiting and reopening the Minecraft launcher. If this also does not work, go to the `Installations` tab in the Minecraft launcher and make sure the `Modded` option is ticked on the rop right corner. If it still does not show up, create your own installation by clicking the `New installation` button, and selecting your desired fabric version in the `Version` dropdown. Then press `Create` and launch this installation.
 
 ### Downloading Mods for Fabric
@@ -67,7 +67,7 @@ This is only for the default .minecraft directory. If you have made a custom dir
     - Linux: Open `~/.minecraft`.
 2. In your Minecraft folder, open the folder called `mods`.
     - If this folder does not exist, create it.
-3. Place all of the mods you want to use into this folder (note that all mods you install must support Fabric 1.18.2 or they will not work).
+3. Place all of the mods you want to use into this folder (note that all mods you install must support Fabric 1.19 or they will not work).
 
 ### Still Need Help?
 
@@ -96,7 +96,7 @@ These are essential mods that are required for some fabric mods to work.
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods in-game, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/files/all?filter-game-version=2020709689%3A9008) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
 | [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/all?filter-game-version=2020709689%3A9008) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
-| [MaLiLib](https://www.curseforge.com/minecraft/mc-mods/malilib) | Required for a few mods such as Litematica. | [Matti Ruohonen](https://github.com/maruohon) |
+| [MaLiLib (No 1.19 Yet)](https://www.curseforge.com/minecraft/mc-mods/malilib) | Required for a few mods such as Litematica. | [Matti Ruohonen](https://github.com/maruohon) |
 
 
 ### Performance
@@ -115,13 +115,13 @@ These are mods that are needed for playing the latest versions of Minecraft at a
 | [Enhanced Block Entities](https://modrinth.com/mod/ebe) | Improves block entities by making them used baked models instead, allowing for better performance, visuals (via better smoothlighting), and better resource pack customizability. | [FoundationGames](https://github.com/FoundationGames) |
 | [FerriteCore](https://modrinth.com/mod/ferrite-core/versions) | Helps reduce the amount of memory the game takes up. This may make a big difference for larger modpacks as well. | [malte0811](https://github.com/malte0811) |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | Culls entities that you cannot see, increasing FPS. While Sodium already does this, this mod is much more thorough in which mods can be culled. | [tr7zw](https://github.com/tr7zw) |
-| [More Culling](https://modrinth.com/mod/moreculling) | Cull's more block faces not already culled by Sodium. Can provide a massive performance boost when many of these blocks are in view. | [fxmorin](https://github.com/fxmorin) |
+| [More Culling](https://modrinth.com/mod/moreculling) | Cull's more block faces not already culled by Sodium. Can provide a massive performance boost when many of these blocks are in view. | [fxmorin](https://github.com/fxmorin) | LamdaBetterGrass, Cull Less Leaves
 | [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | Fixes multiple memory leaks found in the game to prevent excessive memory use. | [fxmorin](https://github.com/fxmorin) | 
 | [Dynamic FPS](https://modrinth.com/mod/dynamic-fps) | Reduces your FPS when tabbed out of the game, therefore reducing your system load. | [juliand665](https://github.com/juliand665) |
 | [Lazy Language Loader](https://modrinth.com/mod/lazy-language-loader) | Improves loading times when changing your language in game by only reloading the required resources. | [chachy](https://github.com/ChachyDev) |
 | [Sodium Extra](https://modrinth.com/mod/sodium-extra) | Allows you to half the resolution on Apple's Retina displays and also adds most of OptiFine's performance features such as toggles for animations, particles, rain/snow, clouds, sky and biome colors, and more, as well as some custom ones. | [FlashyReese](https://github.com/FlashyReese) |
 | [Recipe Cache](https://www.curseforge.com/minecraft/mc-mods/recipe-cache) | Caches recipes to reduce lag when crafting or smelting many items. | [biom4st3r](https://gitlab.com/biom4st3r) |
-| [Debugify](https://modrinth.com/mod/debugify) | Fixes several bugs in Minecraft, including a few which can effect performance. This will fix lag spikes when crossing chunks and when clicking on links or the resource pack folder button, reduces time it takes to load into a world, and fixes entity collision checks being needlessly calculated client side. | [W-OVERFLOW](https://github.com/W-OVERFLOW) |
+| [Debugify](https://modrinth.com/mod/debugify) | Fixes several bugs in Minecraft, including a few which can effect performance. This will fix lag spikes when crossing chunks and when clicking on links or the resource pack folder button, reduces time it takes to load into a world, and fixes entity collision checks being needlessly calculated client side. | [isXander](https://github.com/isXander) |
 
 ### Other Performance Mods
 
@@ -130,7 +130,7 @@ These are other performance mods that one may prefer to use, but are not require
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
 | [Phosphor](https://modrinth.com/mod/phosphor) | Phosphor is similar to Starlight in that they both speed up the light engine. However, Phosphor ensures full vanilla parity as compared to Starlight, which may break things such as light suppression. Use Phosphor instead of Starlight if you are looking for vanilla parity at the expense of being slightly slower. Starlight may also cause stuttering on some machines, in which case you should use Phosphor instead. | [CaffeineMC](https://github.com/CaffeineMC) | Starlight |
-| [Skip Transitions](https://modrinth.com/mod/skip-transitions) | Removes transitions such as the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on a low end machine or allow people to access certain menus quicker if they do not like the small wait time. | [TrufflezMC](https://github.com/trufflezmc) |
+| [Skip Transitions (No 1.19 Yet)](https://modrinth.com/mod/skip-transitions) | Removes transitions such as the fading animation that Mojang added between their splash screens. This may provide a smoother experience if the fade is choppy on a low end machine or allow people to access certain menus quicker if they do not like the small wait time. | [TrufflezMC](https://github.com/trufflezmc) |
 | [Krypton](https://modrinth.com/mod/krypton) | This mod is bannable on Hypixel and most likely other servers. Although it is probably not detectable, it is still against Hypixel's rules and the mod developer does not recommend using it on Hypixel. However, this mod works great for private servers. Krypton optimizes network stacking and entity tracking, as well as other micro-optimizations. | [astei](https://github.com/astei) |
 
 ### Recommended
@@ -139,8 +139,8 @@ These are mods that I personally recommend due to their usefulness. While they m
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Mod Manager](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mods. | [DeathsGun](https://github.com/DeathsGun) |
-| [Item Model Fix](https://github.com/PepperCode1/Item-Model-Fix/releases/latest) | Fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most resourcepacks, including both defaults. | [Pepper_Bell](https://github.com/PepperCode1) |
+| [Mod Manager (No 1.19 Yet)](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mods. | [DeathsGun](https://github.com/DeathsGun) |
+| [Item Model Fix (No 1.19 Yet)](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | Fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most resourcepacks, including both defaults. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [comp500](https://github.com/comp500) |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Makes the scrolling in all menus smoother. | [Shedaniel](https://github.com/shedaniel) |
@@ -160,28 +160,28 @@ These are mods that are more dependant on personal preference than importance.
 | [Midnight Controls](https://modrinth.com/mod/midnightcontrols) | Allows you to easily play Minecraft with a controller. | [TeamMidnightDust](https://github.com/TeamMidnightDust/MidnightControls) |
 | [CleanView](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric) | Prevents self particles from appearing on your screen. | [LianMI](https://github.com/zlainsama) |
 | [Color Me Outlines](https://modrinth.com/mod/color-me-outlines) | Color Me Outlines is a close equivalent to 1.8's block overlay, allowing you to customize the outline when looking at blocks. | [LordDeatHunter](https://github.com/LordDeatHunter) |
-| [No View Bobbing Screen Shake](https://modrinth.com/mod/viewbobbingmod) | Removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
-| [Slight GUI Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
-| [Colored Lights](https://modrinth.com/mod/colored-lights) | Adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) | Sodium |
+| [No View Bobbing Screen Shake (No 1.19 Yet)](https://modrinth.com/mod/viewbobbingmod) | Removes the screen shaking when view bobbing is turned on, leaving only the swaying hand. | [InboundBark](https://github.com/InboundBark) |
+| [Slight GUI Modifications (No 1.19 Yet)](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Adds animations to many GUI elements. | [Shedaniel](https://github.com/shedaniel) |
+| [Colored Lights (No 1.19 Yet)](https://modrinth.com/mod/colored-lights) | Adds colored lighting to Minecraft with its colors completely customizable via resource pack. | [Gegy](https://github.com/Gegy) | Sodium |
 | [Blur](https://modrinth.com/mod/blur-fabric) | Creates a nice blur effect when in menus and is completely customizable. | [Motschen](https://github.com/Motschen) | Rainbowify |
 | [Rainbowify](https://modrinth.com/mod/rainbowify) | Replaces the dark GUI backgrounds with a smooth rainbow one. | [Lennox](https://github.com/officialLennox) | Blur |
 | [WaveyCapes](https://www.curseforge.com/minecraft/mc-mods/waveycapes/files) | Breaks your cape into smaller sections to make its movement more fluid. Looks great with the new migration capes. | [tr7zw](https://github.com/tr7zw) |
 | [Perspektive](https://modrinth.com/mod/perspektive) | A simple 360 degrees perspective mod that lets you move the camera without moving your player's direction. | [r0yzer](https://github.com/r0yzer) |
-| [EvergreenHUD](https://modrinth.com/mod/evergreenhud) | Adds many useful HUD elements to your screen with an easy to use in game config. | [isXander](https://github.com/isXander) |
+| [EvergreenHUD (No 1.19 Yet)](https://modrinth.com/mod/evergreenhud) | Adds many useful HUD elements to your screen with an easy to use in game config. | [isXander](https://github.com/isXander) |
 | [BetterF3](https://modrinth.com/mod/betterf3) | Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD. You can customize colors, position, add spacings, and more. | [cominixo](https://github.com/cominixo) |
-| [TNTTime](https://modrinth.com/mod/tnttime) | Displays time left to the TNT explosion above primed TNT. | [Simon](https://github.com/shateq) |
+| [TNTTime (No 1.19 Yet)](https://modrinth.com/mod/tnttime) | Displays time left to the TNT explosion above primed TNT. | [Simon](https://github.com/shateq) |
 | [Advancement Info](https://modrinth.com/mod/advancementinfo) | Makes the advancement menu fit your entire screen, which could make it easier to navigate the menu. | [Giselbaer](https://github.com/gbl)
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Lets you know how much a food will restore your hunger bar. | [Ryan Liptak](https://github.com/squeek502) |
 | [Horse Stats Vanilla](https://github.com/d4rkm0nkey/HorseStatsVanilla/releases/latest) | Adds the stats of your horse in your horse/donkey inventory HUD, making it easy to see the perks of your horses and donkeys. | [d4m0n](https://github.com/d4rkm0nkey) |
 | [Better Mount HUD](https://www.curseforge.com/minecraft/mc-mods/better-mount-hud) | Makes some important HUD modules visible when riding a mount. | [Lortseam_](https://www.curseforge.com/members/lortseam_/projects) |
 | [Clear Despawn](https://modrinth.com/mod/cleardespawn) | Clear Despawn makes it more obvious on which items are about to despawn by making them blink exponentially faster after a certain time. | [StrikerRockers](https://github.com/StrikerRockers-Mods) |
-| [Litematica](https://www.curseforge.com/minecraft/mc-mods/litematica) | A schematic mod that allows you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
-| [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) | A customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
+| [Litematica (No 1.19 Yet)](https://www.curseforge.com/minecraft/mc-mods/litematica) | A schematic mod that allows you to import schematics of builds. | [Matti Ruohonen](https://github.com/maruohon) |
+| [MiniHUD (No 1.19 Yet)](https://www.curseforge.com/minecraft/mc-mods/minihud) | A customizable HUD that allows displaying various information on your screen as well as beneficial overlay renders. | [Matti Ruohonen](https://github.com/maruohon) |
 | [Clear Skies](https://modrinth.com/mod/clear-skies) | Removes fog color banding on skybox. | [grondag](https://github.com/grondag) |
-| [Extended Clouds](https://modrinth.com/mod/extended-clouds) | Changes cloud render distance to be same as your set render distance. | [alphaqu](https://github.com/alphaqu) |
-| [Why Am I on Fire?](https://modrinth.com/mod/why-am-i-on-fire) | Removes the fire overlay when you have fire resistance or are in creative mode. | [Elivers](https://github.com/Ellivers) |
-| [Fire Overlay Controller](https://modrinth.com/mod/fire-overlay-controller) | Allows you to control the height and opacity of the fire overlay. | [TheGameratorT](https://github.com/TheGameratorT) |
-| [Sound Physics](https://modrinth.com/mod/soundphysics) | Makes sounds much more realistic, adding reverb, attenuation, and absorption. | [vlad2305m](https://github.com/vlad2305m) & [thedocruby](https://github.com/thedocruby) | Sound Physics Remastered |
+| [Extended Clouds (No 1.19 Yet)](https://modrinth.com/mod/extended-clouds) | Changes cloud render distance to be same as your set render distance. | [alphaqu](https://github.com/alphaqu) |
+| [Why Am I on Fire? (No 1.19 Yet)](https://modrinth.com/mod/why-am-i-on-fire) | Removes the fire overlay when you have fire resistance or are in creative mode. | [Elivers](https://github.com/Ellivers) |
+| [Fire Overlay Controller (No 1.19 Yet)](https://modrinth.com/mod/fire-overlay-controller) | Allows you to control the height and opacity of the fire overlay. | [TheGameratorT](https://github.com/TheGameratorT) |
+| [Sound Physics (No 1.19 Yet)](https://modrinth.com/mod/soundphysics) | Makes sounds much more realistic, adding reverb, attenuation, and absorption. | [vlad2305m](https://github.com/vlad2305m) & [thedocruby](https://github.com/thedocruby) | Sound Physics Remastered |
 
 ### OptiFine Replacements
 
@@ -193,11 +193,11 @@ Features that OptiFine provides that are not resource pack related.
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Essential](https://essential.gg/download) | Zoom. More customizable than OptiFine's. | [Sk1erLLC](https://sk1er.club/) & [SparkUniverse](https://sparkuniverse.com/) |
+| [Zoomify](https://modrinth.com/mod/zoomify) | Zoom. More customizable than OptiFine's. | [isXander](https://github.com/isXander) |
 | [Bobby](https://modrinth.com/mod/bobby) | Higher render distances. More customizable than OptiFine's. | [Johni0702](https://github.com/Johni0702) |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | Dynamic lights. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
 | [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) | Better grass and better snow. More customizable than OptiFine. | [LambdAurora](https://github.com/LambdAurora) |
-| [Cull Leaves](https://modrinth.com/mod/cull-leaves) | Smart leaves. | [MidnightDust](https://github.com/TeamMidnightDust) |
+| [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | Smart leaves. | [isXander](https://github.com/isXander) | More Culling |
 | [Fabrishot](https://modrinth.com/mod/fabrishot) | Higher resolution Screenshots. More customizable than OptiFine. | [ramidzkh](https://modrinth.com/user/z0r5biKh) |
 
 #### Resource Packs
@@ -206,7 +206,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Custom Splash Screen](https://modrinth.com/mod/custom-splash-screen) | Custom loading screen colors. Does not support OptiFine format. | [MidnightDust](https://github.com/TeamMidnightDust) |
+| [Custom Splash Screen (No 1.19 Yet)](https://modrinth.com/mod/custom-splash-screen) | Custom loading screen colors. Does not support OptiFine format. | [MidnightDust](https://github.com/TeamMidnightDust) |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
 | [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM). Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Animatica](https://modrinth.com/mod/animatica) | Animated textures. Supports OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
@@ -216,10 +216,9 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | [Colormatic](https://github.com/kvverti/colormatic/releases/latest) | Custom colors. Does not support OptiFine format. | [Thalia](https://github.com/kvverti) |
 | [Custom Entity Models](https://modrinth.com/mod/cem) | Custom entity models. Supports OptiFine format. | [dorianpb](https://github.com/dorianpb) |
 | [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) | Random and emissive entity textures. Supports OptiFine format. | [Traben](https://github.com/btrab1) |
-| [JsonEM](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models (tbh idk). Does not support OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
-| [JMX](https://www.curseforge.com/minecraft/mc-mods/jmx) | Adds support for FREX Rendering API features to Minecraft JSON model loading. Does not support OptiFine Format. | [grondag](https://github.com/grondag) |
+| [JsonEM](https://modrinth.com/mod/jsonem) | Custom JSON Entity Models. Does not support OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
 | [Puzzle](https://modrinth.com/mod/puzzle) | Adds custom splash screens, better logo blending, unlimited model rotations, and bigger custom models. Incorporates a platform to configure OptiFine replacements from other mods. Supports OptiFine format. | [PuzzleMC](https://github.com/PuzzleMC) |
-| [MCPatcherPatcher++](https://github.com/supsm/MCPPPP) | Converts from OptiFine format to newer formats. | [supsm](https://github.com/supsm) |
+| [MCPatcherPatcher++](https://modrinth.com/mod/mcpppp) | Converts from OptiFine format to newer formats. | [supsm](https://github.com/supsm) |
 
 ### Internal Shader
 
