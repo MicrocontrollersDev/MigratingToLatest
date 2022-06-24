@@ -11,7 +11,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
 ### The Situation
 
-So, you've been playing 1.8 for the past [6 years](https://howoldisminecraft189.today/) and are ready to see what 1.19 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
+So, you've been playing 1.8 for the past [6 years](https://howoldisminecraft189.today) and are ready to see what 1.19 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
 
 ### Why no longer OptiFine?
 
@@ -208,7 +208,7 @@ Resource pack features that OptiFine has. Not all support the OptiFine format.
 | --- | --- | --- | --- |
 | [Custom Splash Screen (No 1.19 Yet)](https://modrinth.com/mod/custom-splash-screen) | Custom loading screen colors. Does not support OptiFine format. | [MidnightDust](https://github.com/TeamMidnightDust) |
 | [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes) | Custom sky. Does not support OptiFine format. | [AMereBagatelle](https://modrinth.com/user/ifLBWnLs) |
-| [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM). Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
+| [Continuity](https://modrinth.com/mod/continuity) | Connected texture models (CTM) and emmisive textures. Supports OptiFine format. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Animatica](https://modrinth.com/mod/animatica) | Animated textures. Supports OptiFine format. | [FoundationGames](https://github.com/FoundationGames) |
 | [OptiGUI](https://modrinth.com/mod/optigui) | GUI/Container textures. Supports OptiFine format. | [opekope2](https://github.com/opekope2) |
 | [Semitranslucency Fix](https://modrinth.com/mod/semitranslucency) | Fixes semitranslucent textures. Honestly have no clue if OptiFine does this but it probably does idk. | [ruvaldk](https://github.com/ruvaldak) |
