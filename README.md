@@ -84,7 +84,7 @@ As of 1.19, Mojang has added the ability to report chat messages. While on the s
 | Mod | Description | Author |
 | --- | --- | --- |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Server side and client side mod. Prevents chat reporting from working if `enforce-secure-chat` is not enabled. Works best if installed on both sides but is not required. | [Aizistral](https://github.com/Aizistral-Studio) |
-| [DelayedReports](https://modrinth.com/mod/delayedreports) | Internal timestamps for messages will be 4.5 minutes behind, making it more difficult for players to report your messages and harder for Mojang to moderate. | [fxmorin](https://github.com/fxmorin) |
+| [DelayedReports](https://modrinth.com/mod/delayedreports) (**1.19.1-pre2 ONLY**)| Internal timestamps for messages will be 4.5 minutes behind, making it more difficult for players to report your messages and harder for Mojang to moderate. | [fxmorin](https://github.com/fxmorin) |
 
 ### Dependencies
 
