@@ -96,7 +96,7 @@ These are essential mods that are required for some fabric mods to work.
 | [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) | Required for mods that use Kotlin. | [Fabric Team](https://github.com/FabricMC) |
 | [Mod Menu](https://modrinth.com/mod/modmenu) | Allows the user to see all installed mods in-game, as well as access the config for most. | [Terraformers](https://github.com/TerraformersMC) |
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/all?filter-game-version=1738749986%3a73407) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
-| [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/all?filter-game-version=2020709689%3A9008) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
+| [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config) | Required for a few mods. | [Shedaniel](https://github.com/shedaniel) |
 | [MaLiLib (No 1.19 Yet)](https://www.curseforge.com/minecraft/mc-mods/malilib) | Required for a few mods such as Litematica. | [Matti Ruohonen](https://github.com/maruohon) |
 
 
