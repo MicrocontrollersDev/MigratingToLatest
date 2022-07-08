@@ -1,6 +1,7 @@
 # Migrating to Latest (1.19)
 
 This is a comprehensive guide on how to download Fabric and mods for it. It also provides direct links to many mods that you may find useful.
+**This guide will no longer be updated. If you would like to become a collaborator, feel free to reach out to me. You may also fork this project and continue developing on it (a small credit to me and contributors to this list would be nice too).**
 
 ## Introduction
 
@@ -11,7 +12,7 @@ If you want more information on Fabric, why Forge/OptiFine are not recommended, 
 
 ### The Situation
 
-So, you've been playing 1.8 for the past [6 years](https://howoldisminecraft189.today) and are ready to see what 1.19 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
+So, you've been playing 1.8 for the past [6.5 years](https://howoldisminecraft189.today) and are ready to see what 1.19 has to offer. Your first thought may be to download and install Forge and then add OptiFine as a mod, but this could not be further from the best choice. As Mojang has been rolling out releases, they've also been decreasing performance with every version, and neither Forge nor OptiFine are really able to bring back even a speck of that performance we see in 1.12 and below. However, another mod loader, Fabric, which is lightweight and easier to develop for, has created an amazing community in which many of its members focus on helping optimize the game to its greatest potential.
 
 ### Why no longer OptiFine?
 
@@ -84,7 +85,6 @@ As of 1.19, Mojang has added the ability to report chat messages. While on the s
 | Mod | Description | Author |
 | --- | --- | --- |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Server side and client side mod. Prevents chat reporting from working if `enforce-secure-chat` is not enabled. Works best if installed on both sides but is not required. | [Aizistral](https://github.com/Aizistral-Studio) |
-| [DelayedReports](https://modrinth.com/mod/delayedreports) (**1.19.1-pre2 ONLY**)| Internal timestamps for messages will be 4.5 minutes behind, making it more difficult for players to report your messages and harder for Mojang to moderate. | [fxmorin](https://github.com/fxmorin) |
 
 ### Dependencies
 
@@ -149,7 +149,7 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | Completely revamps Minecraft's controls menu, making it much easier to navigate and change keys, letting you search and more easily find conflicting keybinds. | [Jaredllll08](https://github.com/jaredlll08) |
 | [Better Recipe Book](https://www.modrinth.com/mod/brb) | Brings many QOL improvements to the current recipe book, making it much more useful for different scenarios. | [marshmallow](https://github.com/mrshmllow) |
 | [Inspecio](https://modrinth.com/mod/inspecio) | Adds more information to tooltips for many items in the game, including shulker boxes. It is very customizable with a large set of config options. | [Queerbic](https://github.com/Queerbric) |
-| [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | Prevents tooltips from becoming too long and going off the screen. | [kyrptonaught](https://github.com/kyrptonaught) |
+| [ToolTipFix](https://modrinth.com/mod/tooltipfix) | Prevents tooltips from becoming too long and going off the screen. | [kyrptonaught](https://github.com/kyrptonaught) |
 | [CompactChat](https://modrinth.com/mod/compactchat) | Compacts duplicate chat messages to help clean your chat. It also lets you increase your chat history length. | [cbyrne](https://github.com/cbyrneee) |
 | [Gamma Utils](https://modrinth.com/mod/gamma-utils) | Fully configurable gamma utility mod. Fullbright but for Fabric. | [Sjouwer](https://github.com/Sjouwer) |
 
@@ -253,6 +253,7 @@ These are mods that are too experimental or unstable that I do not recommend usi
 | Smooth Boot | While Smooth Boot does great at decreasing startup time, it is no match for LazyDFU and DashLoader. Smooth Boot will also cause a decrease in performance for several minutes after startup according to some reports. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | FastOpenLinksAndFolders | Superseded by Debugify. | [Altrisi](https://github.com/altrisi) |
 | ForgetMeChunk | Superseded by Debugify. | [Breadloaf](https://github.com/mjwells2002) |
+| DelayedReports | Superseded by NoChatReports. | [fxmorin](https://github.com/fxmorin) |
 
 # Notes
 
