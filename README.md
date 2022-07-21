@@ -1,7 +1,6 @@
 # Migrating to Latest (1.19)
 
 This is a comprehensive guide on how to download Fabric and mods for it. It also provides direct links to many mods that you may find useful.
-**This guide will no longer be updated. If you would like to become a collaborator, feel free to reach out to me. You may also fork this project and continue developing on it (a small credit to me and contributors to this list would be nice too).**
 
 ## Introduction
 
