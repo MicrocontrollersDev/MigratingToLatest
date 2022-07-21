@@ -63,7 +63,7 @@ This is only for the default .minecraft directory. If you have made a custom dir
 
 0. Make sure you close Minecraft before installing mods, otherwise unexpected things can happen.
 1. Open your Minecraft folder:
-    - Windows: Hold the Windows key (`win`) and press `r` to open the Run program. Then type in `%appdata%` and hit enter. Open the folder called `.minecraft`.
+    - Windows: Hold the Windows key (`win`) and press `r` to open the Run program. Then type in `%appdata%/.minecraft` and hit enter.
     - Mac: On the bar at the top of your screen in Finder, click `Go`, then click `Go to Folder` and type `~/Library/Application Support/Minecraft`, then hit enter.
     - Linux: Open `~/.minecraft`.
 2. In your Minecraft folder, open the folder called `mods`.
