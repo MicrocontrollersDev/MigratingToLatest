@@ -273,6 +273,7 @@ Some notes:
 - [Moisty](https://github.com/Mqisty)
 - [nacrt](https://github.com/nacrt)
 - [NoPro2024](https://github.com/NoPro2024)
+- [osfanbuff](https://github.com/osfanbuff63)
 - [Lisena](https://github.com/Lisenaaaa)
 - [Lulonaut](https://github.com/Lulonaut)
 - [Wyvest](https://github.com/Wyvest)
