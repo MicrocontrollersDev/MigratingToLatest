@@ -252,7 +252,6 @@ These are mods that are too experimental or unstable that I do not recommend usi
 | Smooth Boot | While Smooth Boot does great at decreasing startup time, it is no match for LazyDFU and DashLoader. Smooth Boot will also cause a decrease in performance for several minutes after startup according to some reports. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | FastOpenLinksAndFolders | Superseded by Debugify. | [Altrisi](https://github.com/altrisi) |
 | ForgetMeChunk | Superseded by Debugify. | [Breadloaf](https://github.com/mjwells2002) |
-| DelayedReports | Superseded by NoChatReports. | [fxmorin](https://github.com/fxmorin) |
 
 # Notes
 
