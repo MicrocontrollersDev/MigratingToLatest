@@ -185,6 +185,7 @@ These are mods that are more dependant on personal preference than importance.
 | [Fire Overlay Controller (No 1.19 Yet)](https://modrinth.com/mod/fire-overlay-controller) | Allows you to control the height and opacity of the fire overlay. | [TheGameratorT](https://github.com/TheGameratorT) |
 | [Sound Physics (No 1.19 Yet)](https://modrinth.com/mod/soundphysics) | Makes sounds much more realistic, adding reverb, attenuation, and absorption. | [vlad2305m](https://github.com/vlad2305m) & [thedocruby](https://github.com/thedocruby) | Sound Physics Remastered |
 | [Universal Chat](https://www.curseforge.com/minecraft/mc-mods/universalchat) | Translates chat messages to different languages. | [mineblock11](https://github.com/mineblock11) |
+| [Screencapper](https://www.curseforge.com/minecraft/mc-mods/screencapper) | Improves the way you share and view screenshots. | [Deftu](https://github.com/Deftu) |
 
 ### OptiFine Replacements
 
