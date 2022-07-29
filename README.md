@@ -83,7 +83,7 @@ As of 1.19, Mojang has added the ability to report chat messages. While on the s
 
 | Mod | Description | Author |
 | --- | --- | --- |
-| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Server side and client side mod. Prevents chat reporting from working if `enforce-secure-chat` is not enabled. Works best if installed on both sides but is not required. | [Aizistral](https://github.com/Aizistral-Studio) |
+| [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Server side and client side mod. Prevents chat reporting from working if `enforce-secure-chat` is not enabled. Works best if installed on both sides but is not required. | [Aizistral](https://github.com/Aizistral-Studios) |
 
 ### Dependencies
 
