@@ -56,7 +56,9 @@ This list currently consists of three different sources for mod downloads: Modri
 - CurseForge:
     - Click on the `Files` tab. Look for the versions of the mod with the Minecraft version you desire and is for the Fabric mod loader, and download the latest one. You can also press the `View All` button, then sort by mod loader or Minecraft version to make finding the correct jar easier.
 
-If you are using PolyMC, you can simply go to the mods menu for your instance and press the "Download Mods" button in the top right to search Modrinth and Curseforge directly inside the launcher.
+If you are using PolyMC, you can simply go to the mods menu for your instance and press the "Download Mods" button in the top right to search Modrinth and CurseForge directly inside the launcher.
+
+**NOTE: SOME CURSEFORGE MODS MAY NOT ALLOW DOWNLOADS FROM THIRD PARTIES SUCH AS POLYMC**
 
 ### Installing Mods on Fabric
 
