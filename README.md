@@ -25,7 +25,7 @@ Forge has always been less than ideal for performance due to its large overhead 
 
 ### Installing Fabric
 
-This is only for the default Minecraft launcher. If you are using MultiMC, you can easily create a new profile and install fabric to it.
+This is only for the default Minecraft launcher. If you are using [PolyMC](https://polymc.org), you can easily create a new profile and install fabric to it. It is highly recommended to use PolyMC instead of the default launcher as it provides many more features for both modders and regular users alike.
 
 0. Make sure you close Minecraft and the Minecraft launcher before installing Fabric, otherwise unexpected things can happen.
 1. Download the [Fabric installer](https://fabricmc.net/use).
@@ -55,6 +55,8 @@ This list currently consists of three different sources for mod downloads: Modri
 
 - CurseForge:
     - Click on the `Files` tab. Look for the versions of the mod with the Minecraft version you desire and is for the Fabric mod loader, and download the latest one. You can also press the `View All` button, then sort by mod loader or Minecraft version to make finding the correct jar easier.
+
+If you are using PolyMC, you can simply go to the mods menu for your instance and press the "Download Mods" button in the top right to search Modrinth and Curseforge directly inside the launcher.
 
 ### Installing Mods on Fabric
 
