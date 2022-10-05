@@ -146,9 +146,9 @@ These are mods that I personally recommend due to their usefulness. While they m
 
 | Mod | Description | Author | Incompatibilities |
 | --- | --- | --- | --- |
-| [Mod Manager (No 1.19 Yet)](https://modrinth.com/mod/modmanager) | An extension of Mod Menu, Mod Manager allows the user to download and install mods in game in the Mod Menu screen, as well as update outdated mods. | [DeathsGun](https://github.com/DeathsGun) |
 | [Item Model Fix](https://modrinth.com/mod/item-model-fix) | Fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most resourcepacks, including both defaults. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [comp500](https://github.com/comp500) |
+| [Recursive Reources](https://modrinth.com/mod/recursiveresources) | Resource Pack Organizer but ported to Fabric and with more features. It allows you to sort resource packs into folders, as well as search for them using a search bar. It also lets you change how resourcepacks are ordered.
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Makes the scrolling in all menus smoother. (MAY HAVE A PROBLEM WITH CONFIG RESETS) | [Shedaniel](https://github.com/shedaniel) |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | Completely revamps Minecraft's controls menu, making it much easier to navigate and change keys, letting you search and more easily find conflicting keybinds. | [Jaredllll08](https://github.com/jaredlll08) |
