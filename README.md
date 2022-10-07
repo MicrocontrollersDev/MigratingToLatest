@@ -89,6 +89,8 @@ As of 1.19, Mojang has added the ability to report chat messages. While on the s
 | --- | --- | --- |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports) | Server side and client side mod. Prevents chat reporting from working if `enforce-secure-chat` is not enabled. Works best if installed on both sides but is not required. | [Aizistral](https://github.com/Aizistral-Studios) |
 
+Are you a server owner using Bukkit, Spigot, Paper, or a similar plugin based server? Check out [Freedom Chat](https://modrinth.com/plugin/freedomchat) by [eim](https://github.com/e-im) for similar functionality to No Chat Reports!
+
 ### Dependencies
 
 These are essential mods that are required for some fabric mods to work.
