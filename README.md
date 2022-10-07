@@ -155,7 +155,6 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | Completely revamps Minecraft's controls menu, making it much easier to navigate and change keys, letting you search and more easily find conflicting keybinds. | [Jaredllll08](https://github.com/jaredlll08) |
 | [Better Recipe Book](https://www.modrinth.com/mod/brb) | Brings many QOL improvements to the current recipe book, making it much more useful for different scenarios. | [marshmallow](https://github.com/mrshmllow) |
 | [Inspecio](https://modrinth.com/mod/inspecio) | Adds more information to tooltips for many items in the game, including shulker boxes. It is very customizable with a large set of config options. | [Queerbic](https://github.com/Queerbric) |
-| [ToolTipFix](https://modrinth.com/mod/tooltipfix) | Prevents tooltips from becoming too long and going off the screen. | [kyrptonaught](https://github.com/kyrptonaught) |
 | [CompactChat](https://modrinth.com/mod/compactchat) | Compacts duplicate chat messages to help clean your chat. It also lets you increase your chat history length. | [cbyrne](https://github.com/cbyrneee) |
 | [Gamma Utils](https://modrinth.com/mod/gamma-utils) | Fully configurable gamma utility mod. Fullbright but for Fabric. | [Sjouwer](https://github.com/Sjouwer) |
 
@@ -260,6 +259,7 @@ These are mods that are too experimental or unstable that I do not recommend usi
 | Smooth Boot | While Smooth Boot does great at decreasing startup time, it is no match for LazyDFU and DashLoader. Smooth Boot will also cause a decrease in performance for several minutes after startup according to some reports. | [UltimateBoomer](https://github.com/UltimateBoomer) |
 | FastOpenLinksAndFolders | Superseded by Debugify. | [Altrisi](https://github.com/altrisi) |
 | ForgetMeChunk | Superseded by Debugify. | [Breadloaf](https://github.com/mjwells2002) |
+| ToolTipFix | Superseded by Debugify. | [kyrptonaught](https://github.com/kyrptonaught) |
 
 # Notes
 
