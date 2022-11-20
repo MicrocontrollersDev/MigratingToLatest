@@ -152,7 +152,6 @@ These are mods that I personally recommend due to their usefulness. While they m
 | [Item Model Fix](https://modrinth.com/mod/item-model-fix) | Fixes the gaps you see on items when holding them. This makes for a much more pleasant experience for most resourcepacks, including both defaults. | [Pepper_Bell](https://github.com/PepperCode1) |
 | [Borderless Mining](https://modrinth.com/mod/borderless-mining) | Borderless Fullscreen for Minecraft. This makes the game not minimize when you tab out. | [comp500](https://github.com/comp500) |
 | [Recursive Reources](https://modrinth.com/mod/recursiveresources) | Resource Pack Organizer but ported to Fabric and with more features. It allows you to sort resource packs into folders, as well as search for them using a search bar. It also lets you change how resourcepacks are ordered.
-| [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | Takes you to the main screen instead of exiting the game when you crash. | [natanfudge](https://github.com/natanfudge) |
 | [Smooth Scrolling Everywhere](https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric) | Makes the scrolling in all menus smoother. (MAY HAVE A PROBLEM WITH CONFIG RESETS) | [Shedaniel](https://github.com/shedaniel) |
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | Completely revamps Minecraft's controls menu, making it much easier to navigate and change keys, letting you search and more easily find conflicting keybinds. | [Jaredllll08](https://github.com/jaredlll08) |
 | [Better Recipe Book](https://www.modrinth.com/mod/brb) | Brings many QOL improvements to the current recipe book, making it much more useful for different scenarios. | [marshmallow](https://github.com/mrshmllow) |
@@ -255,6 +254,7 @@ These are mods that are too experimental or unstable that I do not recommend usi
 
 | Mod | Reasoning | Author |
 | --- | --- | --- |
+| Not Enough Crashes | Regularly causes the game to be in an invalid state and blames the wrong mods for crashes, making it harder for mod devs to debug. | [natanfudge](https://github.com/natanfudge) |
 | Better Beds | BetterBeds has been replaced by Enhanced Block Entities. | [Motschen](https://github.com/Motschen) |
 | Iris Starline | The Iris Starline fork was meant to provide a shaders option menu before Iris created their own much improved version. This fork serves no purpose to users. | [HyperCubeMC](https://github.com/HyperCubeMC) |
 | Sound Physics Remastered | This remastered version is based off an old version of the original mod. The original has now been updated to surpass this edit and it is recommended to use the original over this now. | [henkelmax](https://github.com/henkelmax) |
