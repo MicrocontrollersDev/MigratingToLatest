@@ -1,3 +1,7 @@
+# Moved to
+# https://microcontrollersdev.github.io/Alternatives/latest/migrating/
+# https://github.com/MicrocontrollersDev/Alternatives/blob/main/docs/latest/migrating.md
+
 # Migrating to Latest (1.19)
 
 This is a comprehensive guide on how to download Fabric and mods for it. It also provides direct links to many mods that you may find useful.
