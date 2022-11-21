@@ -1,6 +1,6 @@
-# Moved to
-# https://microcontrollersdev.github.io/Alternatives/latest/migrating/
-# https://github.com/MicrocontrollersDev/Alternatives/blob/main/docs/latest/migrating.md
+# This project is moving to my Alternatives GitHub and website!
+# [Website](https://microcontrollersdev.github.io/Alternatives/latest/migrating)
+# [GitHub](https://github.com/MicrocontrollersDev/Alternatives/blob/main/docs/latest/migrating.md)
 
 # Migrating to Latest (1.19)
 
